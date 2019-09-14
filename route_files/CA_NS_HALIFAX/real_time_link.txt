@@ -1,0 +1,1 @@
+http://gtfs.halifax.ca/TMGTFSRealTimeWebService/realtime/TripUpdate/TripUpdates.pb

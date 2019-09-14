@@ -1,0 +1,2391 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,wheelchair_boarding
+6000,6000,Akerley Blvd After Burnside Dr (6000),,44.715124,-63.589031,,,,,,0
+6001,6001,Akerley Blvd At Civic 75 (6001),,44.713067,-63.595836,,,,,,0
+6002,6002,Akerley Blvd After Joseph Zatzman Dr (6002),,44.711193,-63.601377,,,,,,0
+6003,6003,Akerley Blvd After Joseph Zatzman Dr (6003),,44.712119,-63.598127,,,,,,0
+6004,6004,Akerley Blvd After Williams Ave (6004),,44.716336,-63.585635,,,,,,0
+6005,6005,Akerley Blvd After Windmill Rd (6005),,44.704159,-63.611088,,,,,,0
+6006,6006,Akerley Blvd After Morris Dr (6006),,44.705383,-63.609916,,,,,,0
+6007,6007,Akerley Blvd After Isnor Dr (6007),,44.709987,-63.604872,,,,,,0
+6008,6008,Akerley Blvd Before Burnside Dr (6008),,44.714918,-63.590353,,,,,,0
+6009,6009,Akerley Blvd Before Fielding Ave (6009),,44.707784,-63.607396,,,,,,0
+6010,6010,Akerley Blvd Before Isnor Dr (6010),,44.710166,-63.603844,,,,,,0
+6011,6011,Akerley Blvd Before Joseph Zatzman Dr (6011),,44.711185,-63.600934,,,,,,0
+6012,6012,Akerley Blvd Before Morris Dr (6012),,44.705743,-63.609699,,,,,,0
+6013,6013,Akerley Blvd After Mosher Dr (6013),,44.707254,-63.608151,,,,,,0
+6014,6014,Marketplace Dr Before Bancroft Ln (6014),,44.698501,-63.607219,,,,,,0
+6015,6015,Akerley Blvd Before Civic 30 (6015),,44.708979,-63.606205,,,,,,0
+6016,6016,Akerley Blvd Before Burnside Dr (6016),,44.713273,-63.594769,,,,,,0
+6017,6017,Albro Lake Rd After Cedar Ct (6017),,44.68419,-63.578821,,,,,,0
+6018,6018,Albro Lake Rd After Chapman St (6018),,44.678781,-63.584958,,,,,,0
+6019,6019,Albro Lake Rd After Richmond St (6019),,44.677712,-63.58626,,,,,,0
+6020,6020,Albro Lake Rd Before Chapman St (6020),,44.678905,-63.584885,,,,,,0
+6021,6021,Albro Lake Rd Before Slayter St (6021),,44.680894,-63.582567,,,,,,0
+6022,6022,Albro Lake Rd Before Richmond St (6022),,44.677916,-63.586165,,,,,,0
+6023,6023,Albro Lake Rd Before Cedar Ct (6023),,44.683956,-63.578997,,,,,,0
+6024,6024,Albro Lake Rd Opposite Sheridan St (6024),,44.682275,-63.581048,,,,,,0
+6025,6025,Alderney Dr Opposite Church St (6025),,44.666408,-63.571457,,,,,,0
+6026,6026,Alderney Dr After Church St (6026),,44.666321,-63.571468,,,,,,0
+6027,6027,Larry Uteck Blvd Before Amesbury Gt (6027),,44.702478,-63.70281,,,,,,0
+6028,6028,Alderney Dr Before Prince St (6028),,44.663831,-63.566201,,,,,,0
+6029,6029,Alderney Dr Before Prince St (6029),,44.66411,-63.565852,,,,,,0
+6030,6030,Opposite Alderney Gate Ferry Terminal Bay 1 (6030),,44.665158,-63.569422,,,,,,0
+6032,6032,Alma Cr Before Titus St (6032),,44.658987,-63.632656,,,,,,0
+6033,6033,Arklow Dr After Ashley Dr (6033),,44.678021,-63.483331,,,,,,0
+6035,6035,Arklow Dr After John Stewart Dr (6035),,44.676611,-63.480068,,,,,,0
+6036,6036,Arklow Dr After Lanarkshire Ct (6036),,44.681424,-63.486851,,,,,,0
+6037,6037,Arklow Dr At Civic 177 (6037),,44.678137,-63.487264,,,,,,0
+6038,6038,Arklow Dr Opposite Lanarkshire Ct (6038),,44.681437,-63.486985,,,,,,0
+6039,6039,Arklow Dr At Civic 371 (6039),,44.680429,-63.484737,,,,,,0
+6040,6040,Arklow Dr After Civic 354 (6040),,44.680417,-63.484795,,,,,,0
+6041,6041,Arklow Dr At Civic 253 (6041),,44.68088,-63.489053,,,,,,0
+6042,6042,Arklow Dr Before Ashley Dr (6042),,44.678057,-63.483385,,,,,,0
+6043,6043,Arklow Dr Before Civic 238 (6043),,44.680151,-63.488701,,,,,,0
+6044,6044,Arklow Dr Before John Stewart Dr (6044),,44.676474,-63.480201,,,,,,0
+6045,6045,Arklow Dr After Dalkeith Dr (6045),,44.67828,-63.487274,,,,,,0
+6046,6046,Ashgrove Ave Before Ancaster Ct (6046),,44.667447,-63.484919,,,,,,0
+6047,6047,Ashgrove Ave After Avondale Rd (6047),,44.670424,-63.482459,,,,,,0
+6048,6048,Ashgrove Ave After Cole Harbour Rd (6048),,44.671965,-63.483137,,,,,,0
+6049,6049,Ashgrove Ave Before Addison Pl (6049),,44.668474,-63.483119,,,,,,0
+6050,6050,Astral Dr Before Caldwell Rd (6050),,44.656773,-63.488832,,,,,,0
+6051,6051,Astral Dr Before Stratford Dr (6051),,44.653136,-63.478973,,,,,,0
+6052,6052,Astral Dr Before Grenadier Dr (6052),,44.657523,-63.483071,,,,,,0
+6053,6053,Astral Dr After Brookfield Ave (6053),,44.655214,-63.481015,,,,,,0
+6054,6054,Astral Dr Before Brookfield Ave (6054),,44.655304,-63.481231,,,,,,0
+6055,6055,Astral Dr Before Carisbrooke Ln (6055),,44.650952,-63.475423,,,,,,0
+6056,6056,Astral Dr After Willowdale Dr (6056),,44.657251,-63.48734,,,,,,0
+6057,6057,Astral Dr Before Grenadier Dr (6057),,44.657133,-63.482597,,,,,,0
+6058,6058,Astral Dr Before Shrewsbury Rd (6058),,44.651751,-63.47674,,,,,,0
+6059,6059,Astral Dr Before Spence Dr (6059),,44.6578,-63.485785,,,,,,0
+6060,6060,Astral Dr Before Spence Dr (6060),,44.65803,-63.485417,,,,,,0
+6061,6061,Pearl Dr Before Amethyst Cr (6061),,44.6452,-63.477417,,,,,,0
+6066,6066,Atlantic St After Pleasant St (6066),,44.649367,-63.546559,,,,,,0
+6067,6067,Bluewater Rd After Larry Uteck Blvd (6067),,44.715867,-63.715976,,,,,,0
+6069,6069,Auburn Dr Before Auburn Ct (6069),,44.69317,-63.489183,,,,,,0
+6070,6070,Auburn Dr After Forest Hills Pkwy (6070),,44.68715,-63.490524,,,,,,0
+6071,6071,Auburn Dr Before Leander Dr (6071),,44.692228,-63.485206,,,,,,0
+6072,6072,Auburn Dr Before Bradorian Dr (6072),,44.693627,-63.48751,,,,,,0
+6073,6073,Auburn Dr At Auburn Dr High School (6073),,44.688255,-63.48365,,,,,,0
+6074,6074,Auburn Dr After Auburn Ct (6074),,44.693329,-63.488393,,,,,,0
+6075,6075,Auburn Dr At Auburn Dr High School (6075),,44.687943,-63.483991,,,,,,0
+6076,6076,Auburn Dr At Civic 200 (6076),,44.691036,-63.48444,,,,,,0
+6077,6077,Auburn Dr Before Civic 187 (6077),,44.691445,-63.484757,,,,,,0
+6078,6078,Auburn Dr At Civic 243 (6078),,44.689984,-63.483848,,,,,,0
+6079,6079,Auburn Dr Before Civic 426 (6079),,44.68657,-63.488518,,,,,,0
+6080,6080,Auburn Dr After John Stewart Dr (6080),,44.686786,-63.485269,,,,,,0
+6081,6081,Auburn Dr After Leander Dr (6081),,44.692452,-63.485442,,,,,,0
+6082,6082,Madeline Pl After Avenue du Portage (6082),,44.701648,-63.535107,,,,,,0
+6083,6083,Hudson Way Before Baffin Blvd (6083),,44.682839,-63.60661,,,,,,0
+6084,6084,Barrington St Before Prince St (6084),,44.647661,-63.574333,,,,,,0
+6085,6085,Barrington St Before Prince St (6085),,44.646958,-63.573947,,,,,,0
+6087,6087,Barrington St After Duke St Bay 1 (6087),,44.650525,-63.575628,,,,,,0
+6088,6088,Barrington St After Artz St (6088),,44.656794,-63.585186,,,,,,0
+6089,6089,Barrington St After Upper Water St (6089),,44.654394,-63.581778,,,,,,0
+6090,6090,Barrington St After Devonshire Ave (6090),,44.663279,-63.592738,,,,,,0
+6091,6091,Barrington St After Marjorie Russell Ln (6091),,44.660418,-63.589754,,,,,,0
+6092,6092,Barrington St After Green St (6092),,44.637344,-63.569575,,,,,,0
+6093,6093,Barrington St Before Green St (6093),,44.637382,-63.569725,,,,,,0
+6094,6094,Barrington St After Young St (6094),,44.665191,-63.594958,,,,,,0
+6095,6095,Barrington St Before Young St (6095),,44.665082,-63.595013,,,,,,0
+6096,6096,Barrington St After South St (6096),,44.640248,-63.570569,,,,,,0
+6097,6097,Barrington St Before South St (6097),,44.640182,-63.570554,,,,,,0
+6098,6098,Barrington St Before Vestry St (6098),,44.672289,-63.605105,,,,,,0
+6099,6099,Barrington St Before Glebe St (6099),,44.672425,-63.605288,,,,,,0
+6100,6100,Barrington St At Civic 3356 (6100),,44.668625,-63.599985,,,,,,0
+6102,6102,Barrington St Before Blowers St (6102),,44.645822,-63.573401,,,,,,0
+6103,6103,Barrington St After Prince St (6103),,44.646741,-63.573896,,,,,,0
+6104,6104,Barrington St Before Cornwallis St (6104),,44.654351,-63.582049,,,,,,0
+6105,6105,Barrington St After Cogswell St Bay 4 (6105),,44.650935,-63.576036,,,,,,0
+6106,6106,Barrington St Before Duke St (6106),,44.648707,-63.574768,,,,,,0
+6107,6107,Barrington St Before Duke St  Bay 2 (6107),,44.649617,-63.575343,,,,,,0
+6109,6109,Barrington St Before Hanover St (6109),,44.66672,-63.597116,,,,,,0
+6110,6110,Barrington St Opposite Hanover St (6110),,44.666633,-63.596704,,,,,,0
+6111,6111,Barrington St Before Inglis St (6111),,44.636396,-63.569411,,,,,,0
+6112,6112,Barrington St Before Kent St (6112),,44.638974,-63.569901,,,,,,0
+6113,6113,Barrington St Before Morris St (6113),,44.641547,-63.571195,,,,,,0
+6114,6114,Barrington St Before Morris St (6114),,44.641845,-63.571464,,,,,,0
+6115,6115,Barrington St Before North St (6115),,44.659348,-63.588683,,,,,,0
+6119,6119,Barrington St Opposite Richmond St (6119),,44.668023,-63.598417,,,,,,0
+6120,6120,Barrington St Before Richmond St (6120),,44.667963,-63.598776,,,,,,0
+6121,6121,Barrington St Before Sackville St (6121),,44.645626,-63.573218,,,,,,0
+6122,6122,Barrington St Before Spring Garden Rd (6122),,44.644733,-63.572851,,,,,,0
+6123,6123,Barrington St Before Spring Garden Rd (6123),,44.644039,-63.572433,,,,,,0
+6124,6124,Barrington St After Spring Garden Rd (6124),,44.643996,-63.572464,,,,,,0
+6125,6125,Barrington St After Cornwallis St (6125),,44.653472,-63.580814,,,,,,0
+6127,6127,Barrington St Opposite Devonshire Ave (6127),,44.663858,-63.593243,,,,,,0
+6128,6128,Colby Dr Before Avondale Rd (6128),,44.667529,-63.488708,,,,,,0
+6129,6129,Basinview Dr After Atlee Ct (6129),,44.723444,-63.681277,,,,,,0
+6130,6130,Basinview Dr After Glen Moir Terr (6130),,44.718514,-63.681039,,,,,,0
+6131,6131,Basinview Dr After Hammonds Plains Rd (6131),,44.717472,-63.682465,,,,,,0
+6132,6132,Basinview Dr After Wimbledon Rd (6132),,44.723428,-63.678955,,,,,,0
+6133,6133,Basinview Dr After Meadowbrook Dr (6133),,44.728037,-63.680677,,,,,,0
+6134,6134,Basinview Dr Before Carriageway Ct (6134),,44.723522,-63.68124,,,,,,0
+6135,6135,Basinview Dr At Civic 142 (6135),,44.720079,-63.67958,,,,,,0
+6136,6136,Basinview Dr Before Wimbledon Rd (6136),,44.723369,-63.679388,,,,,,0
+6137,6137,Basinview Dr Before Granville Rd (6137),,44.725079,-63.682803,,,,,,0
+6138,6138,Basinview Dr After Civic 222 (6138),,44.722001,-63.678391,,,,,,0
+6139,6139,Basinview Dr Before Roy Cr (6139),,44.719961,-63.679599,,,,,,0
+6140,6140,Basinview Dr Before Glen Moir Terr (6140),,44.718348,-63.681228,,,,,,0
+6141,6141,Basinview Dr Opposite Granville Rd (6141),,44.724876,-63.682738,,,,,,0
+6142,6142,Basinview Dr After Roy Cr (6142),,44.721693,-63.678531,,,,,,0
+6143,6143,St Margarets Bay Rd Opposite Civic 1982 (6143),,44.649425,-63.719475,,,,,,0
+6144,6144,St Margarets Bay Rd After Beech Tree Run (6144),,44.636429,-63.68049,,,,,,0
+6145,6145,St Margarets Bay Rd At Civic 1817 (6145),,44.645337,-63.711869,,,,,,0
+6147,6147,St Margarets Bay Rd Before North Green Rd (6147),,44.637164,-63.700312,,,,,,0
+6148,6148,St Margarets Bay Rd Before Wilbert Devoe Cr (6148),,44.644129,-63.708316,,,,,,0
+6149,6149,St Margarets Bay Rd At Civic 1939 (6149),,44.64823,-63.717429,,,,,,0
+6150,6150,St Margarets Bay Rd At Klefenz Ln (6150),,44.653606,-63.728215,,,,,,0
+6151,6151,St Margarets Bay Rd Before Halfmile Ln (6151),,44.658666,-63.738049,,,,,,0
+6152,6152,St Margarets Bay Rd After Halfmile Ln (6152),,44.658868,-63.738555,,,,,,0
+6153,6153,St Margarets Bay Rd After Lakeside Park Dr (6153),,44.638103,-63.689956,,,,,,0
+6154,6154,St Margarets Bay Rd Before Beech Tree Run (6154),,44.636469,-63.680932,,,,,,0
+6156,6156,St Margarets Bay Rd After Greenhead Rd (6156),,44.637148,-63.700128,,,,,,0
+6157,6157,St Margarets Bay Rd Before Sheppards Run (6157),,44.635779,-63.677084,,,,,,0
+6158,6158,St Margarets Bay Rd After Crown Dr (6158),,44.64092,-63.624075,,,,,,0
+6159,6159,St Margarets Bay Rd Before Fairmount Rd (6159),,44.640235,-63.624707,,,,,,0
+6160,6160,St Margarets Bay Rd After Lakelands Blvd (6160),,44.634588,-63.670281,,,,,,0
+6161,6161,St Margarets Bay Rd At Civic 1820 (6161),,44.645456,-63.712274,,,,,,0
+6162,6162,St Margarets Bay Rd Before Beech Tree Run (6162),,44.636255,-63.683269,,,,,,0
+6163,6163,St Margarets Bay Rd At Civic 1445 (6163),,44.637865,-63.697141,,,,,,0
+6164,6164,St Margarets Bay Rd Opposite  Boylan Ln (6164),,44.638068,-63.693153,,,,,,0
+6165,6165,St Margarets Bay Rd Before Power Terr (6165),,44.637927,-63.703644,,,,,,0
+6166,6166,St Margarets Bay Rd Opposite Power Terr (6166),,44.638103,-63.703941,,,,,,0
+6167,6167,St Margarets Bay Rd After Donovon Dr (6167),,44.639532,-63.705388,,,,,,0
+6168,6168,Bluewater Rd Opposite Civic 223 (6168),,44.719655,-63.714385,,,,,,0
+6169,6169,St Margarets Bay Rd Before Ferndale Dr (6169),,44.639715,-63.626957,,,,,,0
+6170,6170,St Margarets Bay Rd At Civic 1922 (6170),,44.647832,-63.716808,,,,,,0
+6171,6171,St Margarets Bay Rd Before Alderwood Dr (6171),,44.639075,-63.628514,,,,,,0
+6172,6172,St Margarets Bay Rd At Civic 1980 (6172),,44.649361,-63.719428,,,,,,0
+6173,6173,St Margarets Bay Rd Opposite Klefenz Ln (6173),,44.653568,-63.728143,,,,,,0
+6174,6174,St Margarets Bay Rd After Maplewood Dr (6174),,44.65733,-63.736215,,,,,,0
+6175,6175,St Margarets Bay Rd After Clearwater Dr (6175),,44.651232,-63.723282,,,,,,0
+6176,6176,St Margarets Bay Rd Before Devonshire Dr (6176),,44.651242,-63.723373,,,,,,0
+6177,6177,St Margarets Bay Rd At Donovon Dr (6177),,44.639692,-63.705435,,,,,,0
+6178,6178,St Margarets Bay Rd At Civic 1697 (6178),,44.642402,-63.707181,,,,,,0
+6179,6179,St Margarets Bay Rd Before Sheppards Run (6179),,44.635466,-63.676137,,,,,,0
+6180,6180,St Margarets Bay Rd Before Raines Mill Rd (6180),,44.637987,-63.693812,,,,,,0
+6181,6181,St Margarets Bay Rd Before Raines Mill Rd (6181),,44.637744,-63.696863,,,,,,0
+6182,6182,St Margarets Bay Rd  At Wilbert Devoe Cr (6182),,44.644264,-63.708729,,,,,,0
+6183,6183,St Margarets Bay Rd Opposite Bakers Dr (6183),,44.638759,-63.629127,,,,,,0
+6184,6184,St Margarets Bay Rd Opposite Civic 1264 (6184),,44.637732,-63.687112,,,,,,0
+6185,6185,St Margarets Bay Rd At Civic 1262 (6185),,44.637582,-63.686795,,,,,,0
+6186,6186,St Margarets Bay Rd After Governors Lake Dr (6186),,44.642288,-63.70718,,,,,,0
+6187,6187,St Margarets Bay Rd After Ferndale Dr (6187),,44.639661,-63.626852,,,,,,0
+6188,6188,St Margarets Bay Rd After Lakeside Park Dr (6188),,44.637957,-63.688556,,,,,,0
+6189,6189,St Margarets Bay Rd After Sheppards Run (6189),,44.634854,-63.675001,,,,,,0
+6191,6191,Bayers Rd Before Windsor St (6191),,44.656483,-63.607983,,,,,,0
+6192,6192,Bayers Rd After Windsor St (6192),,44.656272,-63.608483,,,,,,0
+6193,6193,Bayers Rd Before Coleman Ct (6193),,44.651692,-63.617848,,,,,,0
+6194,6194,Bayers Rd At Bayers Rd Centre (6194),,44.653769,-63.62661,,,,,,0
+6195,6195,Bayers Rd After Oxford St (6195),,44.655026,-63.610019,,,,,,0
+6196,6196,Bayers Rd Before Oxford St (6196),,44.655018,-63.610154,,,,,,0
+6197,6197,Bayers Rd After Romans Ave (6197),,44.652556,-63.621297,,,,,,0
+6198,6198,Bayers Rd After Barnstead Lane (6198),,44.653158,-63.622915,,,,,,0
+6199,6199,Bayers Rd Opposite Vaughan Ave (6199),,44.652009,-63.618555,,,,,,0
+6201,6201,Bayers Rd Before Connolly St (6201),,44.653686,-63.612367,,,,,,0
+6202,6202,Robie St Before Oakland Rd (6202),,44.634504,-63.583848,,,,,,0
+6203,6203,Bayers Rd Before Connolly St (6203),,44.653315,-63.612835,,,,,,0
+6204,6204,Beacon St After Harris Rd (6204),,44.678992,-63.542494,,,,,,0
+6205,6205,Beacon St Before Harris Rd (6205),,44.679008,-63.542449,,,,,,0
+6206,6206,Beaufort Ave After South St (6206),,44.633856,-63.595119,,,,,,0
+6207,6207,Beaufort Ave After Inglis St (6207),,44.631245,-63.589558,,,,,,0
+6208,6208,Beaufort Ave Before Inglis St (6208),,44.631051,-63.58909,,,,,,0
+6209,6209,Beaufort Ave Before Oakland Rd (6209),,44.632769,-63.593085,,,,,,0
+6210,6210,Beaufort Ave Before Oakland Rd (6210),,44.632546,-63.592304,,,,,,0
+6211,6211,Beaufort Ave Before South St (6211),,44.633935,-63.595035,,,,,,0
+6212,6212,Beaver Bank Rd After Judy Ave (6212),,44.777409,-63.695324,,,,,,0
+6213,6213,Beaver Bank Rd After Gloria Ave (6213),,44.780439,-63.693004,,,,,,0
+6214,6214,Beaver Bank Rd Before Gloria Ave (6214),,44.780541,-63.692867,,,,,,0
+6215,6215,Beaver Bank Rd After Douglas Ave (6215),,44.777348,-63.695206,,,,,,0
+6216,6216,Bedford Hwy At MSVU (6216),,44.672626,-63.644161,,,,,,0
+6217,6217,Bedford Hwy After Seton Rd (6217),,44.670244,-63.641439,,,,,,0
+6218,6218,Bluewater Rd After Command Ct (6218),,44.721818,-63.711412,,,,,,0
+6219,6219,Bedford Hwy Opposite MSVU (6219),,44.67303,-63.644379,,,,,,0
+6220,6220,Bedford Hwy After Larry Uteck Blvd (6220),,44.699809,-63.660973,,,,,,0
+6221,6221,Bedford Hwy Opposite Fern Ave (6221),,44.704809,-63.663083,,,,,,0
+6222,6222,Bedford Hwy Opposite Kent Ave (6222),,44.690454,-63.659792,,,,,,0
+6223,6223,Bedford Hwy Opposite Lodge Dr (6223),,44.692341,-63.660329,,,,,,0
+6224,6224,Bedford Hwy Before Welch Ln (6224),,44.706211,-63.66419,,,,,,0
+6226,6226,Bedford Hwy Before Rocky Lake Dr (6226),,44.735273,-63.655208,,,,,,0
+6227,6227,Bedford Hwy Opposite Spring St (6227),,44.726559,-63.666137,,,,,,0
+6228,6228,Bedford Hwy Before Union St (6228),,44.731225,-63.659993,,,,,,0
+6229,6229,Bedford Hwy Before Lindsay Hill (6229),,44.721188,-63.671492,,,,,,0
+6230,6230,Bedford Hwy After Southgate Dr (6230),,44.710905,-63.67121,,,,,,0
+6231,6231,Bluewater Rd Before Topsail Ct (6231),,44.722961,-63.709712,,,,,,0
+6232,6232,Bedford Hwy Before Millview Ave (6232),,44.708104,-63.666217,,,,,,0
+6233,6233,Bedford Hwy At Lodge Dr (6233),,44.692499,-63.660468,,,,,,0
+6234,6234,Bedford Hwy After Shaunslieve Dr (6234),,44.696049,-63.660848,,,,,,0
+6235,6235,Bedford Hwy After Convoy Run (6235),,44.718451,-63.674428,,,,,,0
+6236,6236,Bedford Hwy Before Dartmouth Rd (6236),,44.732635,-63.656496,,,,,,0
+6237,6237,Bedford Hwy Before Dartmouth Rd (6237),,44.731308,-63.659168,,,,,,0
+6238,6238,Bedford Hwy After Dartmouth Rd (6238),,44.732651,-63.656149,,,,,,0
+6239,6239,Bedford Hwy Before Larry Uteck Blvd (6239),,44.698155,-63.660918,,,,,,0
+6240,6240,Bedford Hwy Before Holland Ave (6240),,44.718763,-63.674211,,,,,,0
+6241,6241,Bedford Hwy Before Nelsons Landing Blvd (6241),,44.712883,-63.675355,,,,,,0
+6242,6242,Bedford Hwy At Tall Trees Ln (6242),,44.688283,-63.65923,,,,,,0
+6243,6243,Bedford Hwy At Civic 1743 (6243),,44.740672,-63.654797,,,,,,0
+6244,6244,Bedford Hwy Before Sullivans Hill (6244),,44.722541,-63.670677,,,,,,0
+6245,6245,Bedford Hwy After River Ln (6245),,44.737622,-63.654398,,,,,,0
+6246,6246,Bedford Hwy After Kearney Lake Rd (6246),,44.681187,-63.658468,,,,,,0
+6247,6247,Bedford Hwy After Cresthaven Dr (6247),,44.687286,-63.659045,,,,,,0
+6248,6248,Bedford Hwy At Dakin Dr (6248),,44.68628,-63.659339,,,,,,0
+6249,6249,Bedford Hwy Before Spring St (6249),,44.727057,-63.66582,,,,,,0
+6250,6250,Bedford Hwy Before Flamingo Dr (6250),,44.674962,-63.647211,,,,,,0
+6251,6251,Bedford Hwy After Flamingo Dr (6251),,44.67458,-63.647013,,,,,,0
+6252,6252,Bedford Hwy After Forest Hill Dr (6252),,44.67669,-63.648783,,,,,,0
+6253,6253,Bedford Hwy After Moirs Mill Rd (6253),,44.713615,-63.677285,,,,,,0
+6254,6254,Bedford Hwy After Hammonds Plains Rd (6254),,44.715785,-63.677986,,,,,,0
+6255,6255,Bedford Hwy Before Hammonds Plains Rd (6255),,44.716103,-63.678259,,,,,,0
+6256,6256,Bedford Hwy After Kearney Lake Rd (6256),,44.683108,-63.660933,,,,,,0
+6257,6257,Bedford Hwy After Meadowbrook Dr (6257),,44.724816,-63.669137,,,,,,0
+6258,6258,Bedford Hwy At Millview Ave (6258),,44.708466,-63.666945,,,,,,0
+6259,6259,Bedford Hwy After Nelsons Landing Blvd (6259),,44.712934,-63.675147,,,,,,0
+6260,6260,Bedford Hwy After Oakmount Dr (6260),,44.739578,-63.654396,,,,,,0
+6261,6261,Bedford Hwy Before Meadowbrook Dr (6261),,44.725153,-63.668452,,,,,,0
+6262,6262,Bedford Hwy After Torrington Dr (6262),,44.680273,-63.655417,,,,,,0
+6263,6263,Bedford Hwy Before River Ln (6263),,44.737661,-63.654189,,,,,,0
+6264,6264,Bedford Hwy Before Watervista Ln (6264),,44.678838,-63.650665,,,,,,0
+6265,6265,Bedford Hwy After Valley Rd (6265),,44.717263,-63.676799,,,,,,0
+6266,6266,Bedford Hwy Before Oakmount Dr (6266),,44.740321,-63.654804,,,,,,0
+6267,6267,Cobequid Rd After Nelson Dr (6267),,44.760834,-63.656806,,,,,,0
+6268,6268,Bedford Hwy Before Kearney Lake Rd (6268),,44.68174,-63.65964,,,,,,0
+6269,6269,Bedford Hwy After Bayview Rd (6269),,44.665793,-63.636282,,,,,,0
+6270,6270,Bedford Hwy Before Dartmouth Rd (6270),,44.733262,-63.655976,,,,,,0
+6271,6271,Bedford Hwy After Civic 741  (6271),,44.706829,-63.664487,,,,,,0
+6272,6272,Bedford Hwy After Larry Uteck Blvd (6272),,44.698192,-63.661086,,,,,,0
+6273,6273,Bedford Hwy At Fern Ave (6273),,44.704905,-63.663308,,,,,,0
+6274,6274,Bedford Hwy Before Glenmont Ave (6274),,44.709489,-63.668727,,,,,,0
+6275,6275,Bedford Hwy Before Kearney Lake Rd (6275),,44.682725,-63.660823,,,,,,0
+6276,6276,Bedford Hwy At Kent Ave (6276),,44.690777,-63.659964,,,,,,0
+6277,6277,Bedford Hwy Before Lindsay Hill (6277),,44.721694,-63.671313,,,,,,0
+6278,6278,Bedford Hwy Before Sullivans Hill (6278),,44.723164,-63.67036,,,,,,0
+6279,6279,Bedford Hwy After Torrington Dr (6279),,44.679998,-63.653805,,,,,,0
+6280,6280,Bedford Hwy Before Valley Rd (6280),,44.717178,-63.677225,,,,,,0
+6281,6281,Bedford Hwy After Rocky Lake Rd (6281),,44.735353,-63.654926,,,,,,0
+6282,6282,Bedford Hwy Before Hatchery Ln (6282),,44.728836,-63.6633,,,,,,0
+6283,6283,Bedford Hwy Opposite Fourth St (6283),,44.723963,-63.669812,,,,,,0
+6284,6284,Bedford Hwy Opposite Glenmont Ave (6284),,44.709517,-63.668631,,,,,,0
+6285,6285,Bedford Hwy After Hatchery Ln (6285),,44.728851,-63.663521,,,,,,0
+6286,6286,Bedford Hwy Before Seton Rd (6286),,44.670352,-63.641342,,,,,,0
+6287,6287,Bedford Hwy After Charlotte Ln (6287),,44.69657,-63.660663,,,,,,0
+6288,6288,Bedford Hwy After Watervista Ln (6288),,44.679045,-63.650761,,,,,,0
+6289,6289,Bedford Hwy Before Bayview Rd (6289),,44.665417,-63.635539,,,,,,0
+6290,6290,Bedford Hwy Before Southgate Dr (6290),,44.710751,-63.670791,,,,,,0
+6291,6291,Bell Rd After Robie St (6291),,44.647002,-63.588687,,,,,,0
+6292,6292,Belle Vista Dr After Woodlawn Rd (6292),,44.677393,-63.527154,,,,,,0
+6293,6293,Belle Vista Dr At Civic 35 (6293),,44.680307,-63.515089,,,,,,0
+6294,6294,Belle Vista Dr After Spring Ave (6294),,44.678722,-63.517836,,,,,,0
+6302,6302,Boland Rd Before Ranya Ln (6302),,44.672786,-63.580744,,,,,,0
+6303,6303,Boland Rd Before Victoria Rd (6303),,44.675119,-63.577988,,,,,,0
+6304,6304,Boland Rd After Cairn St (6304),,44.67363,-63.579687,,,,,,0
+6306,6306,Booth St After Main St (6306),,44.685941,-63.524136,,,,,,0
+6307,6307,Bradorian Dr Opposite Madeira Cr (6307),,44.689456,-63.485742,,,,,,0
+6308,6308,Bradorian Dr Before Madeira Cr (6308),,44.692811,-63.487607,,,,,,0
+6311,6311,Prince Albert Rd After Bartlin Rd (6311),,44.679855,-63.549085,,,,,,0
+6312,6312,Braemar Dr Before Creelman Dr (6312),,44.691245,-63.546257,,,,,,0
+6313,6313,Braemar Dr Before Braeside Ct (6313),,44.686099,-63.547324,,,,,,0
+6314,6314,Braemar Dr After Maple Dr (6314),,44.688216,-63.546857,,,,,,0
+6315,6315,Brentwood Ave Before Greenwood Ave (6315),,44.654961,-63.733441,,,,,,0
+6316,6316,Brentwood Ave Before Eisener St (6316),,44.65305,-63.73629,,,,,,0
+6317,6317,Brentwood Ave After Rosewood Ave (6317),,44.654806,-63.733521,,,,,,0
+6318,6318,Brentwood Ave After Eisener St (6318),,44.653421,-63.735575,,,,,,0
+6321,6321,Brookfield Ave After Caldwell Rd (6321),,44.651527,-63.485158,,,,,,0
+6322,6322,Brookfield Ave Before Willowdale Dr (6322),,44.65254,-63.483694,,,,,,0
+6323,6323,Brownlow Ave After Commodore Dr (6323),,44.698618,-63.580567,,,,,,0
+6325,6325,Brownlow Ave At Civic 250 (6325),,44.695114,-63.577621,,,,,,0
+6326,6326,Brownlow Ave At Civic 260 (6326),,44.695471,-63.575634,,,,,,0
+6327,6327,Gary Martin Dr After Utopia Ln (6327),,44.720443,-63.707197,,,,,,0
+6328,6328,Brownlow Ave At Civic 236 (6328),,44.695598,-63.578916,,,,,,0
+6329,6329,Gary Martin Dr Before Larkview Terr (6329),,44.717929,-63.706236,,,,,,0
+6330,6330,Gary Martin Dr Before Lasalle Ct (6330),,44.722913,-63.705505,,,,,,0
+6331,6331,Cain St After Churchill Terr (6331),,44.74348,-63.465647,,,,,,0
+6332,6332,Caldwell Rd After Cherrywood Dr (6332),,44.662593,-63.494575,,,,,,0
+6333,6333,Caldwell Rd After Cow Bay Rd (6333),,44.611242,-63.473122,,,,,,0
+6334,6334,Caldwell Rd After Himmelman Dr (6334),,44.602641,-63.466563,,,,,,0
+6335,6335,Caldwell Rd Before Lodge Ct (6335),,44.670334,-63.501839,,,,,,0
+6336,6336,Caldwell Rd After Sherwood St (6336),,44.648356,-63.482804,,,,,,0
+6337,6337,Caldwell Rd After Thorncrest Ct (6337),,44.608656,-63.471138,,,,,,0
+6338,6338,Caldwell Rd After Wexford Rd (6338),,44.66741,-63.499413,,,,,,0
+6339,6339,Caldwell Rd Before Hillside Ln (6339),,44.604125,-63.467103,,,,,,0
+6340,6340,Caldwell Rd Before Seabreeze Dr (6340),,44.607072,-63.469586,,,,,,0
+6341,6341,Caldwell Rd After Nova Terr (6341),,44.657594,-63.490268,,,,,,0
+6342,6342,Caldwell Rd After Millbrook Ave (6342),,44.650797,-63.484983,,,,,,0
+6343,6343,Caldwell Rd Before Delta Dr (6343),,44.665173,-63.496841,,,,,,0
+6344,6344,Caldwell Rd Before Hampton Grn (6344),,44.668447,-63.500549,,,,,,0
+6345,6345,Caldwell Rd Before Nova Terr (6345),,44.657473,-63.490021,,,,,,0
+6346,6346,Caldwell Rd Before Shore Rd (6346),,44.601164,-63.466374,,,,,,0
+6347,6347,Caldwell Rd Before Wexford Rd (6347),,44.667239,-63.499117,,,,,,0
+6348,6348,Caldwell Rd At Civic 280 (6348),,44.660443,-63.492539,,,,,,0
+6349,6349,Caldwell Rd After Delta Dr (6349),,44.664941,-63.496742,,,,,,0
+6350,6350,Caldwell Rd Before Deerbrooke Dr (6350),,44.662666,-63.494489,,,,,,0
+6351,6351,Caldwell Rd Before Cole Harbour Rd (6351),,44.670333,-63.501771,,,,,,0
+6352,6352,Caldwell Rd At Civic 307 (6352),,44.660148,-63.492452,,,,,,0
+6353,6353,Caldwell Rd After Hampton Grn (6353),,44.668466,-63.500683,,,,,,0
+6354,6354,Caldwell Rd At Civic 692 (6354),,44.646434,-63.481259,,,,,,0
+6355,6355,Caledonia Rd After Roleika Dr (6355),,44.687374,-63.530588,,,,,,0
+6356,6356,Caledonia Rd Before Stanfield Ave (6356),,44.698335,-63.536514,,,,,,0
+6357,6357,Caledonia Rd After Dumbarton Ave (6357),,44.693481,-63.533684,,,,,,0
+6358,6358,Caledonia Rd After Gourok Ave (6358),,44.695812,-63.535191,,,,,,0
+6359,6359,Caledonia Rd After Main St (6359),,44.68511,-63.529558,,,,,,0
+6360,6360,Caledonia Rd Before Westwood Dr (6360),,44.688928,-63.531274,,,,,,0
+6361,6361,Caledonia Rd After Montebello Dr (6361),,44.699888,-63.537804,,,,,,0
+6362,6362,Caledonia Rd Before Gourok Ave (6362),,44.695947,-63.535378,,,,,,0
+6363,6363,Caledonia Rd Before Strath Ln (6363),,44.690699,-63.532367,,,,,,0
+6364,6364,Caledonia Rd After Stanfield Ave (6364),,44.698141,-63.53666,,,,,,0
+6365,6365,Larry Uteck Blvd Before Kearney Lake Rd (6365),,44.699679,-63.697436,,,,,,0
+6366,6366,Caledonia Rd Before Roleika Dr (6366),,44.687521,-63.530789,,,,,,0
+6367,6367,Caledonia Rd Before Dumbarton Ave (6367),,44.69357,-63.533867,,,,,,0
+6368,6368,Caledonia Rd Before Main St (6368),,44.68536,-63.529852,,,,,,0
+6369,6369,Caledonia Rd Before Paul David Ct (6369),,44.691956,-63.532859,,,,,,0
+6370,6370,Caledonia Rd Before Westwood Dr (6370),,44.689196,-63.531569,,,,,,0
+6371,6371,Caledonia Rd Before Kennedy Dr (6371),,44.690671,-63.532231,,,,,,0
+6372,6372,Caledonia Rd Before Montebello Dr (6372),,44.699996,-63.537656,,,,,,0
+6373,6373,Carlisle Dr After Huntingdon Dr (6373),,44.65042,-63.477939,,,,,,0
+6374,6374,Carlisle Dr Before Shrewsbury Rd (6374),,44.651344,-63.479499,,,,,,0
+6375,6375,Chain Lake Dr After Lakelands Blvd (6375),,44.637737,-63.669668,,,,,,0
+6376,6376,Horseshoe Lake Dr After Chain Lake Dr (6376),,44.639041,-63.671497,,,,,,0
+6378,6378,Horseshoe Lake Dr After Susie Lake Cr (6378),,44.644991,-63.675344,,,,,,0
+6379,6379,Chain Lake Dr Before Lakelands Blvd (6379),,44.637613,-63.669894,,,,,,0
+6381,6381,Horseshoe Lake Dr Before Hobsons Lake Dr (6381),,44.638682,-63.671734,,,,,,0
+6382,6382,Chain Lake Dr At Civic 225 (6382),,44.654791,-63.678011,,,,,,0
+6383,6383,Larry Uteck Blvd After Civic 1181 (6383),,44.701786,-63.702109,,,,,,0
+6384,6384,Horseshoe Lake Dr After Civic 174 (6384),,44.640908,-63.672189,,,,,,0
+6386,6386,Chain Lake Dr After Oland Cr (6386),,44.648538,-63.67489,,,,,,0
+6387,6387,Chain Lake Dr Opposite Civic 209 (6387),,44.652801,-63.67676,,,,,,0
+6389,6389,Chain Lake Dr After Civic 209 (6389),,44.651357,-63.676102,,,,,,0
+6391,6391,Chain Lake Dr Opposite Civic 201 (6391),,44.650095,-63.675414,,,,,,0
+6392,6392,Chain Lake Dr At Civic 230 (6392),,44.656091,-63.677776,,,,,,0
+6393,6393,Chain Lake Dr At Civic 201 (6393),,44.649045,-63.675316,,,,,,0
+6394,6394,Chain Lake Dr At Civic 209 (6394),,44.652806,-63.677026,,,,,,0
+6395,6395,Horseshoe Lake Dr After Civic 211 (6395),,44.641683,-63.672702,,,,,,0
+6396,6396,Chebucto Rd After Oxford St (6396),,44.64868,-63.602723,,,,,,0
+6397,6397,Chebucto Rd After Oxford St (6397),,44.64878,-63.602032,,,,,,0
+6398,6398,Chebucto Rd After Phillip St (6398),,44.644534,-63.617573,,,,,,0
+6399,6399,Chebucto Rd After Armdale Rotary (6399),,44.642068,-63.61986,,,,,,0
+6400,6400,Chebucto Rd After Saint Matthias St (6400),,44.650016,-63.597163,,,,,,0
+6401,6401,Chebucto Rd Before Dublin St (6401),,44.649344,-63.599794,,,,,,0
+6402,6402,Chebucto Rd After Dublin St (6402),,44.649253,-63.600469,,,,,,0
+6403,6403,Chebucto Rd Before Benjamin Green Dr (6403),,44.646078,-63.610689,,,,,,0
+6404,6404,Chebucto Rd Before Connaught Ave (6404),,44.647565,-63.6073,,,,,,0
+6405,6405,Chebucto Rd Before Connolly St (6405),,44.648162,-63.60491,,,,,,0
+6406,6406,Chebucto Rd Before Elm St (6406),,44.647908,-63.605656,,,,,,0
+6407,6407,Chebucto Rd Before Newton Ave (6407),,44.646663,-63.608492,,,,,,0
+6408,6408,Chebucto Rd Before Philip St (6408),,44.644495,-63.617443,,,,,,0
+6409,6409,Chebucto Rd Before Quinn St (6409),,44.645772,-63.612771,,,,,,0
+6410,6410,Chebucto Rd Before Armdale Rotary (6410),,44.642579,-63.619796,,,,,,0
+6411,6411,Chebucto Rd Before Roosevelt Dr (6411),,44.643529,-63.618803,,,,,,0
+6412,6412,Chebucto Rd Opposite St Matthias St (6412),,44.650091,-63.597,,,,,,0
+6413,6413,Chebucto Rd Opposite Benjamin Green Dr (6413),,44.646236,-63.610808,,,,,,0
+6414,6414,Chebucto Rd Opposite Quinn St (6414),,44.646003,-63.612253,,,,,,0
+6415,6415,Chebucto Rd Before Joseph St (6415),,44.6436,-63.618585,,,,,,0
+6416,6416,Cherry Brook Rd At Civic 126 (6416),,44.707411,-63.475082,,,,,,0
+6417,6417,Cherry Brook Rd Before Bundy Ln (6417),,44.709568,-63.479972,,,,,,0
+6418,6418,Cherry Brook Rd After Civic 72 (6418),,44.704614,-63.472127,,,,,,0
+6419,6419,Cherry Brook Rd Before Main St (6419),,44.703586,-63.471138,,,,,,0
+6420,6420,Cherry Brook Rd After Bundy Ln (6420),,44.70846,-63.478325,,,,,,0
+6421,6421,Circassion Dr Before Poplar Dr (6421),,44.679001,-63.499508,,,,,,0
+6422,6422,Circassion Dr After Poplar Dr (6422),,44.678981,-63.499434,,,,,,0
+6423,6423,Circassion Dr Before Glenalva Ct (6423),,44.679537,-63.496032,,,,,,0
+6424,6424,Circassion Dr Before Savona Ct (6424),,44.67706,-63.492994,,,,,,0
+6425,6425,Circassion Dr Before Ellerslie Cr (6425),,44.678956,-63.49438,,,,,,0
+6426,6426,Circassion Dr After Ellerslie Cr (6426),,44.679072,-63.494429,,,,,,0
+6427,6427,Circassion Dr Before Kirtland Ct (6427),,44.67945,-63.497116,,,,,,0
+6428,6428,Circassion Dr After Savona Ct (6428),,44.677009,-63.493016,,,,,,0
+6429,6429,Cobequid Rd Opposite Nelson Dr (6429),,44.760485,-63.658573,,,,,,0
+6430,6430,Cobequid Rd After McIntyre Ln (6430),,44.767028,-63.64656,,,,,,0
+6431,6431,Cobequid Rd After Maple Grove Dr (6431),,44.764895,-63.64928,,,,,,0
+6433,6433,Cobequid Rd After Park Ave (6433),,44.754823,-63.662093,,,,,,0
+6434,6434,Cobequid Rd After Freer Ln (6434),,44.758542,-63.660729,,,,,,0
+6435,6435,Cobequid Rd After Hillside Ave (6435),,44.756248,-63.662032,,,,,,0
+6436,6436,Cobequid Rd After Zinck Ave (6436),,44.758152,-63.661239,,,,,,0
+6438,6438,Cobequid Rd Before Glendale Dr (6438),,44.760203,-63.659326,,,,,,0
+6439,6439,Cobequid Rd After Judy Anne Ct (6439),,44.761798,-63.652431,,,,,,0
+6440,6440,Cobequid Rd Before McVeigh Ct (6440),,44.766943,-63.646659,,,,,,0
+6441,6441,Cobequid Rd Before Maple Grove Dr (6441),,44.764774,-63.649313,,,,,,0
+6442,6442,Cobequid Rd Before Hillside Ave (6442),,44.756243,-63.661844,,,,,,0
+6443,6443,Cobequid Rd Before Judy Anne Ct (6443),,44.761471,-63.653418,,,,,,0
+6444,6444,Cobequid Rd Before Nelson Dr (6444),,44.760799,-63.656717,,,,,,0
+6445,6445,Innovation Dr After Hammonds Plains Rd (6445),,44.725388,-63.695811,,,,,,0
+6446,6446,Innovation Dr After Angus Morton Dr (6446),,44.724159,-63.697154,,,,,,0
+6447,6447,Coburg Rd After Lord Dalhousie Dr (6447),,44.638485,-63.593823,,,,,,0
+6448,6448,Coburg Rd Before Henry St (6448),,44.63962,-63.588639,,,,,,0
+6449,6449,Coburg Rd Before Lemarchant St (6449),,44.638967,-63.591541,,,,,,0
+6450,6450,Coburg Rd Before Lemarchant St (6450),,44.639118,-63.590828,,,,,,0
+6451,6451,Coburg Rd Before Lilac St (6451),,44.638228,-63.594471,,,,,,0
+6452,6452,Coburg Rd Before Robie St (6452),,44.64009,-63.587361,,,,,,0
+6453,6453,Coburg Rd After Oxford St (6453),,44.638006,-63.595912,,,,,,0
+6454,6454,Coburg Rd Before Henry St (6454),,44.639512,-63.589156,,,,,,0
+6455,6455,Cogswell St After Brunswick St (6455),,44.650944,-63.579761,,,,,,0
+6460,6460,Breeze Dr Before Appian Way (6460),,44.702225,-63.539453,,,,,,0
+6463,6463,Colby Dr After Becks Way (6463),,44.660948,-63.47807,,,,,,0
+6464,6464,Colby Dr At Civic 239 (6464),,44.66523,-63.478022,,,,,,0
+6465,6465,Colby Dr After Bellroyal Ct (6465),,44.663598,-63.477689,,,,,,0
+6466,6466,Colby Dr After Delta Dr (6466),,44.666409,-63.491351,,,,,,0
+6467,6467,Colby Dr Before Autumn Pl (6467),,44.666521,-63.485528,,,,,,0
+6468,6468,Colby Dr Before Balsam Pl (6468),,44.665431,-63.483454,,,,,,0
+6469,6469,Colby Dr Before Boling Green Cr (6469),,44.666153,-63.48009,,,,,,0
+6470,6470,Colby Dr Before Castlewood Dr (6470),,44.663193,-63.486937,,,,,,0
+6471,6471,Colby Dr Before Crestwood Dr (6471),,44.66195,-63.483086,,,,,,0
+6472,6472,Colby Dr Before Deerbrooke Dr (6472),,44.664025,-63.490101,,,,,,0
+6473,6473,Colby Dr Before Grenadier Dr (6473),,44.660512,-63.481198,,,,,,0
+6474,6474,Cole Harbour Rd After Caldwell Rd (6474),,44.671147,-63.500232,,,,,,0
+6475,6475,Cole Harbour Rd After Armbro Ln (6475),,44.672056,-63.485805,,,,,,0
+6476,6476,Cole Harbour Rd Before Hugh Allen Dr (6476),,44.671305,-63.495738,,,,,,0
+6477,6477,Cole Harbour Rd After Cumberland Dr (6477),,44.671699,-63.48901,,,,,,0
+6478,6478,Cole Harbour Rd After Otago Dr (6478),,44.67136,-63.499489,,,,,,0
+6479,6479,Cole Harbour Rd After Hugh Allen Dr (6479),,44.67149,-63.495297,,,,,,0
+6480,6480,Cole Harbour Rd Before Hugh Allen Dr (6480),,44.671659,-63.49196,,,,,,0
+6481,6481,Cole Harbour Rd Before Dorothea Dr (6481),,44.671207,-63.501565,,,,,,0
+6482,6482,Cole Harbour Rd Before Cumberland Dr (6482),,44.671504,-63.492626,,,,,,0
+6483,6483,Colford Ave Before Akerley Blvd (6483),,44.716841,-63.586919,,,,,,0
+6484,6484,Colonna Pl Before Montebello Dr (6484),,44.699604,-63.539863,,,,,,0
+6485,6485,Colonna Pl After Appian Way (6485),,44.7015,-63.541131,,,,,,0
+6486,6486,Commodore Dr After Eileen Stubbs Ave (6486),,44.700331,-63.580128,,,,,,0
+6487,6487,Gary Martin Dr Before Utopia Ln (6487),,44.720477,-63.707094,,,,,,0
+6488,6488,Commodore Dr After Brownlow Ave (6488),,44.699977,-63.581782,,,,,,0
+6489,6489,Gary Martin Dr After Lasalle Ct (6489),,44.722836,-63.705529,,,,,,0
+6490,6490,Commodore Dr Before Brownlow Ave (6490),,44.699792,-63.581922,,,,,,0
+6491,6491,Gary Martin Dr Before Capstone Cr (6491),,44.718069,-63.706212,,,,,,0
+6492,6492,Connaught Ave After Chisholm Ave (6492),,44.65801,-63.618908,,,,,,0
+6493,6493,Connaught Ave After Regent Rd (6493),,44.655919,-63.617488,,,,,,0
+6494,6494,Connaught Ave After Third St (6494),,44.644811,-63.606097,,,,,,0
+6495,6495,Connaught Ave After Oak St (6495),,44.64571,-63.606254,,,,,,0
+6496,6496,Connaught Ave After Chester Ave (6496),,44.654829,-63.617146,,,,,,0
+6497,6497,Connaught Ave Before Chester Ave (6497),,44.654803,-63.616873,,,,,,0
+6498,6498,Connaught Ave Before Roslyn Rd (6498),,44.652624,-63.615325,,,,,,0
+6499,6499,Connaught Ave After Chisholm Ave (6499),,44.658521,-63.618907,,,,,,0
+6500,6500,Connaught Ave Before Bayers Rd (6500),,44.652672,-63.61574,,,,,,0
+6501,6501,Cornwallis St After Brunswick St (6501),,44.653233,-63.582726,,,,,,0
+6503,6503,Cornwallis St After Gottingen St (6503),,44.652506,-63.583758,,,,,,0
+6504,6504,Cornwallis St Before Maynard St (6504),,44.651596,-63.585284,,,,,,0
+6506,6506,Cornwallis St Before Bauer St (6506),,44.650967,-63.586216,,,,,,0
+6507,6507,Cornwallis St Before Brunswick St (6507),,44.653259,-63.582469,,,,,,0
+6508,6508,Cornwallis St Before North Park St (6508),,44.650878,-63.586128,,,,,,0
+6509,6509,Cow Bay Rd Opposite Disciples Way (6509),,44.612147,-63.491655,,,,,,0
+6510,6510,Cow Bay Rd After Oceanlea Dr (6510),,44.611675,-63.476094,,,,,,0
+6511,6511,Cow Bay Rd Before Briarwood Dr (6511),,44.611852,-63.48746,,,,,,0
+6512,6512,Cow Bay Rd Before Garrison Dr (6512),,44.611239,-63.480179,,,,,,0
+6513,6513,Cow Bay Rd Before Yorks Ln (6513),,44.610861,-63.484751,,,,,,0
+6514,6514,Cowie Hill Rd Before Margate Dr (6514),,44.632174,-63.619441,,,,,,0
+6515,6515,Cowie Hill Rd After Limerick Rd (6515),,44.631581,-63.621662,,,,,,0
+6516,6516,Cowie Hill Rd After Margate Dr (6516),,44.63208,-63.619961,,,,,,0
+6517,6517,Cowie Hill Rd Before Limerick Rd (6517),,44.63171,-63.621551,,,,,,0
+6518,6518,Cranberry Cr At Civic 71 (6518),,44.681993,-63.501899,,,,,,0
+6519,6519,Cranberry Cr After Orquel Cr (6519),,44.68658,-63.503646,,,,,,0
+6520,6520,Cranberry Cr Before Meridian Ct (6520),,44.684821,-63.502658,,,,,,0
+6521,6521,Cranberry Cr After Valkyrie Cr (6521),,44.681189,-63.500135,,,,,,0
+6522,6522,Cranberry Cr After Orquel Cr (6522),,44.687103,-63.503855,,,,,,0
+6523,6523,Cranberry Cr Opposite Meridian Ct (6523),,44.685046,-63.502929,,,,,,0
+6524,6524,Cranberry Cr At Civic 100 (6524),,44.682597,-63.50233,,,,,,0
+6525,6525,Cranberry Cr Before Valkyrie Cr (6525),,44.68128,-63.500016,,,,,,0
+6526,6526,Crichton Ave Before Oak St (6526),,44.674291,-63.564556,,,,,,0
+6527,6527,Crichton Ave After Dahlia St (6527),,44.672711,-63.564531,,,,,,0
+6528,6528,Crichton Ave Opposite Boathouse Ln (6528),,44.676133,-63.563741,,,,,,0
+6529,6529,Crichton Ave Before Lakeside Terr (6529),,44.681202,-63.561855,,,,,,0
+6530,6530,Crichton Ave After Oakdale Cr (6530),,44.678023,-63.563956,,,,,,0
+6531,6531,Crichton Ave After Lakeview Ave (6531),,44.678631,-63.564204,,,,,,0
+6532,6532,Crichton Ave After Hillside Ave (6532),,44.681178,-63.56193,,,,,,0
+6533,6533,Bluewater Rd After Topsail Ct (6533),,44.724731,-63.708278,,,,,,0
+6534,6534,Crichton Ave After Boathouse Ln (6534),,44.67628,-63.563677,,,,,,0
+6535,6535,Crichton Ave Before Dahlia St (6535),,44.672901,-63.564644,,,,,,0
+6536,6536,Crichton Ave Before Hawthorne St (6536),,44.674333,-63.564489,,,,,,0
+6537,6537,Crichton Ave Before Ochterloney St (6537),,44.671423,-63.564245,,,,,,0
+6538,6538,Crichton Ave After Ochterloney St (6538),,44.671367,-63.56411,,,,,,0
+6539,6539,Crystal Dr Before Franklyn Ct (6539),,44.686414,-63.583611,,,,,,0
+6540,6540,Crystal Dr Before Primrose St (6540),,44.687223,-63.581795,,,,,,0
+6541,6541,Cumberland Dr After Colby Dr (6541),,44.668479,-63.49053,,,,,,0
+6542,6542,Cumberland Dr Before Cole Harbour Rd (6542),,44.670698,-63.489699,,,,,,0
+6543,6543,Cunard St After June St (6543),,44.651335,-63.589711,,,,,,0
+6544,6544,Cunard St Before Windsor St (6544),,44.650343,-63.594684,,,,,,0
+6545,6545,Cunard St Opposite Hunter St (6545),,44.650369,-63.594346,,,,,,0
+6546,6546,Cunard St After Robie St (6546),,44.651082,-63.590364,,,,,,0
+6547,6547,Cutter Dr Before Starboard Dr (6547),,44.695894,-63.671751,,,,,,0
+6549,6549,Innovation Dr After Gary Martin Dr (6549),,44.723777,-63.703436,,,,,,0
+6550,6550,Dartmouth Rd Opposite Eaglewood Dr (6550),,44.726919,-63.64398,,,,,,0
+6551,6551,Dartmouth Rd After Brentwood Dr (6551),,44.728331,-63.646596,,,,,,0
+6552,6552,Dartmouth Rd After Eaglewood Dr (6552),,44.726502,-63.643507,,,,,,0
+6553,6553,Dartmouth Rd After North St (6553),,44.730513,-63.655744,,,,,,0
+6554,6554,Dartmouth Rd After O'Brine St (6554),,44.728309,-63.649386,,,,,,0
+6555,6555,Dartmouth Rd Before Dartmour Cr (6555),,44.728243,-63.646352,,,,,,0
+6556,6556,Dartmouth Rd Before Ridgevale Dr (6556),,44.728372,-63.649572,,,,,,0
+6557,6557,Dartmouth Rd After Wardour St (6557),,44.729587,-63.655227,,,,,,0
+6559,6559,Dentith Rd Before Herring Cove Rd (6559),,44.613188,-63.6184,,,,,,0
+6560,6560,Dentith Rd At Lanark St (6560),,44.613278,-63.618148,,,,,,0
+6561,6561,Dentith Rd At Lewis St (6561),,44.614848,-63.620461,,,,,,0
+6562,6562,Dentith Rd Opposite Lewis St (6562),,44.614853,-63.620756,,,,,,0
+6563,6563,Desmond Ave After Bayers Rd (6563),,44.654575,-63.627955,,,,,,0
+6564,6564,Desmond Ave Before Bayers Rd (6564),,44.654681,-63.62797,,,,,,0
+6565,6565,Desmond Ave Before Scot St (6565),,44.656273,-63.627636,,,,,,0
+6567,6567,Innovation Dr Before Gary Martin Dr (6567),,44.723804,-63.703303,,,,,,0
+6569,6569,Valour Way After Coxswain Ln (6569),,44.660104,-63.587708,,,,,,0
+6571,6571,Valour Way After Centre Gate (6571),,44.657941,-63.584772,,,,,,0
+6573,6573,Valour Way After Rainbow Gate (6573),,44.656312,-63.582345,,,,,,0
+6574,6574,Dorothea Dr Before Topsail Blvd (6574),,44.678793,-63.512148,,,,,,0
+6575,6575,Dorothea Dr After Lucien Dr (6575),,44.678,-63.509029,,,,,,0
+6576,6576,Dorothea Dr Opposite Regal Rd (6576),,44.677435,-63.514772,,,,,,0
+6577,6577,Downs Ave After Winter St (6577),,44.642976,-63.633952,,,,,,0
+6578,6578,Downs Ave Before Milsom St (6578),,44.641811,-63.636502,,,,,,0
+6579,6579,Downsview Plaza Before Sackville Dr (6579),,44.771627,-63.693316,,,,,,0
+6580,6580,Duffus St After Barrington St (6580),,44.670602,-63.601996,,,,,,0
+6581,6581,Duffus St After Isleville St (6581),,44.666661,-63.60705,,,,,,0
+6582,6582,Duffus St After Novalea Dr (6582),,44.667723,-63.605668,,,,,,0
+6583,6583,Duffus St After Novalea Dr (6583),,44.667247,-63.606476,,,,,,0
+6584,6584,Duffus St Before Acadia St (6584),,44.668476,-63.604836,,,,,,0
+6585,6585,Duffus St At Agricola St (6585),,44.665821,-63.608498,,,,,,0
+6586,6586,Duffus St Before Albert St (6586),,44.669203,-63.603627,,,,,,0
+6587,6587,Duffus St Before Barrington St (6587),,44.670486,-63.601893,,,,,,0
+6588,6588,Duffus St Before Dartmouth Ave (6588),,44.669693,-63.603215,,,,,,0
+6590,6590,Duke St Before Albemarle St (6590),,44.648944,-63.576546,,,,,,0
+6591,6591,Dunbarton Ave After Caledonia Rd (6591),,44.693093,-63.534285,,,,,,0
+6592,6592,Dunbarton Ave Before Kincardine Dr (6592),,44.692456,-63.536747,,,,,,0
+6593,6593,Dunbrack St After Farnham Gate Rd (6593),,44.672931,-63.664146,,,,,,0
+6594,6594,Dunbrack St After Knightsridge Dr (6594),,44.670503,-63.662799,,,,,,0
+6595,6595,Dunbrack St After Lacewood Dr (6595),,44.663548,-63.654941,,,,,,0
+6596,6596,Dunbrack St After Langbrae Dr (6596),,44.669755,-63.662521,,,,,,0
+6597,6597,Dunbrack St After Main Ave (6597),,44.65313,-63.649964,,,,,,0
+6598,6598,Dunbrack St After Lincoln Cross (6598),,44.66641,-63.658802,,,,,,0
+6599,6599,Dunbrack St After Radcliffe Dr (6599),,44.665755,-63.658208,,,,,,0
+6600,6600,Dunbrack St After Wentworth Dr (6600),,44.677608,-63.663666,,,,,,0
+6601,6601,Dunbrack St After Ross St (6601),,44.676918,-63.663349,,,,,,0
+6602,6602,Dunbrack St After Willett St (6602),,44.656736,-63.650925,,,,,,0
+6604,6604,Dunbrack St Before Main Ave (6604),,44.653185,-63.650303,,,,,,0
+6605,6605,Dunbrack St After Birkdale Cr (6605),,44.655553,-63.651346,,,,,,0
+6607,6607,Dunbrack St After Farnham Gate Rd (6607),,44.673675,-63.66381,,,,,,0
+6608,6608,Old Sambro Rd Before Schnare St (6608),,44.617629,-63.621793,,,,,,0
+6609,6609,Dutch Village Rd Before Andrew St (6609),,44.656563,-63.631944,,,,,,0
+6610,6610,Joseph Howe Dr After Mumford Rd (6610),,44.649041,-63.62989,,,,,,0
+6612,6612,Joseph Howe Dr Before Mumford Rd (6612),,44.649288,-63.630284,,,,,,0
+6613,6613,Dutch Village Rd Before Rosedale Ave (6613),,44.656068,-63.632095,,,,,,0
+6614,6614,Dutch Village Rd Before Rufus Ave (6614),,44.657638,-63.632415,,,,,,0
+6616,6616,Dutch Village Rd Opposite Percy St (6616),,44.65979,-63.630062,,,,,,0
+6617,6617,East Perimeter Rd After Mumford Rd (6617),,44.647871,-63.618849,,,,,,0
+6618,6618,East Perimeter Rd 2nd Stop (6618),,44.64948,-63.61648,,,,,,0
+6619,6619,East Perimeter Rd Before Bayers Rd (6619),,44.65119,-63.616369,,,,,,0
+6620,6620,East Perimeter Rd Before Parkade (6620),,44.650005,-63.616479,,,,,,0
+6621,6621,East Perimeter Rd Before Mumford Rd (6621),,44.648187,-63.618409,,,,,,0
+6622,6622,Bluewater Rd Before Hammonds Plains Rd (6622),,44.726543,-63.707442,,,,,,0
+6623,6623,Eileen Stubbs Ave After MacLean Ave (6623),,44.698119,-63.578193,,,,,,0
+6624,6624,Eisener St Opposite Wedgewood Ave (6624),,44.653344,-63.737897,,,,,,0
+6625,6625,Eisener Blvd Before Woodlawn Public Library (6625),,44.668157,-63.522354,,,,,,0
+6626,6626,Eisener Blvd Before Norm Newman Dr (6626),,44.669272,-63.524795,,,,,,0
+6627,6627,Eisener Blvd After Norm Newman Dr (6627),,44.669998,-63.524696,,,,,,0
+6628,6628,Eisener St After Wedgewood Ave (6628),,44.653585,-63.738141,,,,,,0
+6629,6629,Ellenvale Ave Opposite Anderson St (6629),,44.677503,-63.520167,,,,,,0
+6630,6630,Ellenvale Ave After Anderson St (6630),,44.677456,-63.519886,,,,,,0
+6631,6631,Ellenvale Ave Before Alberta St (6631),,44.676828,-63.522463,,,,,,0
+6632,6632,Ellenvale Ave After Spring Ave (6632),,44.677884,-63.518304,,,,,,0
+6633,6633,Ellenvale Ave Before Clifford Dr (6633),,44.676292,-63.525767,,,,,,0
+6634,6634,Ellenvale Ave Before Waltdale Dr (6634),,44.676281,-63.525689,,,,,,0
+6635,6635,Ellenvale Ave Before Alberta St (6635),,44.676566,-63.522959,,,,,,0
+6636,6636,Ellenvale Ave Before Spring Ave (6636),,44.677705,-63.518466,,,,,,0
+6637,6637,Endeavour Dr After Navicula Ln (6637),,44.681628,-63.611014,,,,,,0
+6639,6639,Eisener Blvd Before Woodlawn Public Library (6639),,44.66788,-63.521373,,,,,,0
+6640,6640,Everette St After Pleasant St (6640),,44.644799,-63.540517,,,,,,0
+6641,6641,Eileen Stubbs Ave Before MacLean Ave (6641),,44.696752,-63.576469,,,,,,0
+6642,6642,First Lake Dr At Sackville Lakes Park (6642),,44.768926,-63.651533,,,,,,0
+6643,6643,Bedford Windsor Ramp Before Windsor St (6643),,44.662355,-63.622561,,,,,,0
+6644,6644,Fairview Overpass After Main Ave (6644),,44.66203,-63.628573,,,,,,0
+6645,6645,Farnham Gate Rd After Dunbrack St (6645),,44.67336,-63.664818,,,,,,0
+6647,6647,Farnham Gate Rd Opposite Ross St (6647),,44.67269,-63.66625,,,,,,0
+6648,6648,Farnham Gate Rd Before Chelton Woods Ln (6648),,44.672011,-63.668225,,,,,,0
+6649,6649,Farnham Gate Rd Before Montgomery Ct (6649),,44.672296,-63.669914,,,,,,0
+6650,6650,Farnham Gate Before Glenbourne Ct (6650),,44.671601,-63.672193,,,,,,0
+6651,6651,First Lake Dr After Sackville Lakes Park (6651),,44.769198,-63.65036,,,,,,0
+6652,6652,Farnham Gate Rd Before Ross St (6652),,44.673014,-63.66609,,,,,,0
+6653,6653,Farnham Gate Rd Before Red Fern Terr (6653),,44.671371,-63.674183,,,,,,0
+6654,6654,Farnham Gate Rd Before Montgomery Ct (6654),,44.672116,-63.668333,,,,,,0
+6655,6655,Farnham Gate Rd Before Scotch Pine Terr (6655),,44.672333,-63.670387,,,,,,0
+6656,6656,Farnham Gate Rd Before Parkland Dr (6656),,44.671401,-63.674874,,,,,,0
+6664,6664,Forest Hills Pky After Cole Harbour Rd (6664),,44.67332,-63.490588,,,,,,0
+6665,6665,Forest Hills Pky After Merrimac Dr (6665),,44.67758,-63.491781,,,,,,0
+6666,6666,Forest Hills Pky Before Chameau Cr (6666),,44.681076,-63.491308,,,,,,0
+6667,6667,Forest Hills Pky Before Cole Harbour Rd (6667),,44.6733,-63.490789,,,,,,0
+6668,6668,Forest Hills Pky Before Taranaki Dr (6668),,44.688158,-63.492228,,,,,,0
+6669,6669,Forest Hills Pky At Cole Harbour Place (6669),,44.683595,-63.490901,,,,,,0
+6670,6670,Forest Hills Pky Before Circassion Dr (6670),,44.677246,-63.491943,,,,,,0
+6671,6671,Forest Hills Pky Opposite CHP (6671),,44.683397,-63.490963,,,,,,0
+6672,6672,Fielding Ave After Moore Rd (6672),,44.706523,-63.603913,,,,,,0
+6673,6673,Fielding Ave After Wright Ave (6673),,44.703865,-63.59908,,,,,,0
+6674,6674,Fielding Ave After Moore Rd (6674),,44.705365,-63.601776,,,,,,0
+6675,6675,Fielding Ave Before Akerley Blvd (6675),,44.707739,-63.606615,,,,,,0
+6676,6676,Fielding Ave Before Moore Rd (6676),,44.706579,-63.604038,,,,,,0
+6677,6677,Fielding Ave Before Wright Ave (6677),,44.703918,-63.59917,,,,,,0
+6678,6678,Fielding Ave Before Moore Rd (6678),,44.705262,-63.601588,,,,,,0
+6679,6679,First Lake Dr After Cabot Cr (6679),,44.773084,-63.659017,,,,,,0
+6680,6680,First Lake Dr After Crimson Dr (6680),,44.771214,-63.657688,,,,,,0
+6681,6681,First Lake Dr After Cobequid Rd (6681),,44.768912,-63.644617,,,,,,0
+6682,6682,First Lake Dr After Lakehead Ct (6682),,44.777526,-63.673213,,,,,,0
+6683,6683,First Lake Dr After Civic 192 (6683),,44.776585,-63.664183,,,,,,0
+6684,6684,First Lake Dr After Quaker Cr (6684),,44.776954,-63.66549,,,,,,0
+6685,6685,First Lake Dr Opposite Cabot Cr (6685),,44.772895,-63.658929,,,,,,0
+6686,6686,First Lake Dr Before Cavendish Dr (6686),,44.774082,-63.66037,,,,,,0
+6687,6687,First Lake Dr After Cavendish Dr (6687),,44.774082,-63.660539,,,,,,0
+6688,6688,First Lake Dr Before Cobequid Rd (6688),,44.768819,-63.644538,,,,,,0
+6689,6689,First Lake Dr Before Crimson Dr (6689),,44.771176,-63.657621,,,,,,0
+6690,6690,First Lake Dr Before Lakehead Ct (6690),,44.777429,-63.673312,,,,,,0
+6691,6691,First Lake Dr Before Quaker Cr (6691),,44.777053,-63.665325,,,,,,0
+6692,6692,First Lake Dr Before Civic 133 (6692),,44.777549,-63.66808,,,,,,0
+6693,6693,First Lake Dr Opposite Civic 200 (6693),,44.776431,-63.664111,,,,,,0
+6694,6694,First Lake Dr Opposite Civic 133 (6694),,44.777487,-63.667645,,,,,,0
+6695,6695,First Lake Dr After Lakehead Ct (6695),,44.777329,-63.671361,,,,,,0
+6696,6696,First Lake Dr Before Lakehead Ct (6696),,44.777378,-63.671491,,,,,,0
+6697,6697,Flamingo Dr After Bedford Hwy (6697),,44.675189,-63.648396,,,,,,0
+6698,6698,Flamingo Dr After Nightingale Dr (6698),,44.670509,-63.657723,,,,,,0
+6699,6699,Flamingo Dr After Nightingale Dr (6699),,44.670182,-63.657537,,,,,,0
+6700,6700,Flamingo Dr Before Bedford Hwy (6700),,44.675075,-63.648439,,,,,,0
+6701,6701,Flamingo Dr Before Dove St (6701),,44.670931,-63.652562,,,,,,0
+6702,6702,Flamingo Dr Before Meadowlark Cr (6702),,44.66941,-63.656064,,,,,,0
+6703,6703,Flamingo Dr Before Starling St (6703),,44.674805,-63.649791,,,,,,0
+6704,6704,Flamingo Dr Before Skylark St (6704),,44.674118,-63.649779,,,,,,0
+6705,6705,Flamingo Dr Before Canary Cr (6705),,44.671197,-63.652383,,,,,,0
+6706,6706,Flamingo Dr After Meadowlark Cr (6706),,44.669454,-63.655897,,,,,,0
+6707,6707,Flying Cloud Dr After Havelock Cr (6707),,44.679923,-63.493067,,,,,,0
+6708,6708,Flying Cloud Dr Before Havelock Cr (6708),,44.683877,-63.49371,,,,,,0
+6709,6709,Flying Cloud Dr Before Nestor Cr (6709),,44.688327,-63.494718,,,,,,0
+6710,6710,Flying Cloud Dr Before Forest Hills Pky (6710),,44.690321,-63.495083,,,,,,0
+6711,6711,Flying Cloud Dr After Tamerlane Ct (6711),,44.682389,-63.493916,,,,,,0
+6712,6712,Forestglen Dr Before Fraser Rd (6712),,44.662137,-63.746687,,,,,,0
+6713,6713,Forestglen Dr After Richard St (6713),,44.660702,-63.745819,,,,,,0
+6715,6715,Washmill Lake Dr After Chain Lake Dr (6715),,44.647064,-63.672518,,,,,,0
+6716,6716,Forestglen Dr After Meadowdale Cr (6716),,44.658868,-63.745195,,,,,,0
+6717,6717,Washmill Lake Dr At Civic 303 (6717),,44.648117,-63.664393,,,,,,0
+6718,6718,Hammonds Plains Rd Before Doyle St (6718),,44.716332,-63.681892,,,,,,0
+6720,6720,Franklyn St After Everette St (6720),,44.646356,-63.539445,,,,,,0
+6721,6721,Franklyn St Before Irving St (6721),,44.64754,-63.54145,,,,,,0
+6722,6722,Washmill Lake Dr Before Abercrombie Lane (6722),,44.649521,-63.652263,,,,,,0
+6723,6723,Gaston Rd After Macrae Ave (6723),,44.666356,-63.541956,,,,,,0
+6724,6724,Gaston Rd After Regency Dr (6724),,44.666357,-63.54208,,,,,,0
+6725,6725,Gaston Rd After Lacomb Dr (6725),,44.664453,-63.533622,,,,,,0
+6726,6726,Gaston Rd After Dominion Ct (6726),,44.664906,-63.537086,,,,,,0
+6727,6727,Gaston Rd After Marilyn Dr (6727),,44.664827,-63.535209,,,,,,0
+6728,6728,Gaston Rd Before Dominion Ct (6728),,44.664905,-63.536987,,,,,,0
+6729,6729,Gaston Rd Before Galaxy Ave (6729),,44.665783,-63.539999,,,,,,0
+6730,6730,Gaston Rd Before Marilyn Dr (6730),,44.66485,-63.535287,,,,,,0
+6731,6731,Gaston Rd Opposite Cleary Dr (6731),,44.665521,-63.53917,,,,,,0
+6732,6732,Gaston Rd After Portland St (6732),,44.666941,-63.54431,,,,,,0
+6733,6733,George St Before Hollis St (6733),,44.648361,-63.573587,,,,,,0
+6734,6734,Glebe St After Acadia St (6734),,44.671333,-63.6093,,,,,,0
+6735,6735,Glen Manor Dr Before Crichton Ave (6735),,44.683225,-63.560921,,,,,,0
+6736,6736,Glen Manor Dr Before Brookdale Cr (6736),,44.683404,-63.56038,,,,,,0
+6737,6737,Glendale Dr Opposite Smokey Dr (6737),,44.78129,-63.689191,,,,,,0
+6738,6738,Glendale Dr After Chandler Dr (6738),,44.768214,-63.667287,,,,,,0
+6739,6739,Glendale Dr After Cobequid Rd (6739),,44.760362,-63.660451,,,,,,0
+6740,6740,Glendale Dr After McDougall Ave (6740),,44.772933,-63.675369,,,,,,0
+6741,6741,Glendale Dr Before McGee Dr (6741),,44.764997,-63.66351,,,,,,0
+6742,6742,Glendale Dr After Metropolitan Ave (6742),,44.775992,-63.677185,,,,,,0
+6743,6743,Glendale Dr After Metropolitan Ave (6743),,44.777486,-63.679262,,,,,,0
+6744,6744,Glendale Dr After Pinehill Dr (6744),,44.769918,-63.672083,,,,,,0
+6745,6745,Glendale Dr After Rankin Dr (6745),,44.779713,-63.684705,,,,,,0
+6746,6746,Glendale Dr After Riverside Dr (6746),,44.778534,-63.6813,,,,,,0
+6747,6747,Glendale Dr After Smokey Dr (6747),,44.781401,-63.689215,,,,,,0
+6748,6748,Glendale Dr Before Beaver Bank Rd (6748),,44.782225,-63.690916,,,,,,0
+6749,6749,Glendale Dr Before Chandler Dr (6749),,44.768048,-63.667208,,,,,,0
+6750,6750,Glendale Dr Before Cobequid Rd (6750),,44.760136,-63.660404,,,,,,0
+6751,6751,Glendale Dr Before McDougall Ave (6751),,44.773085,-63.675551,,,,,,0
+6752,6752,Glendale Dr Before McGee Dr (6752),,44.765988,-63.664259,,,,,,0
+6753,6753,Glendale Dr Before Metropolitan Ave (6753),,44.777309,-63.679026,,,,,,0
+6754,6754,Glendale Dr Before Metropolitan Ave (6754),,44.77598,-63.676975,,,,,,0
+6755,6755,Glendale Dr Before Old Beaver Bank Rd (6755),,44.782148,-63.690837,,,,,,0
+6756,6756,Glendale Dr Before Pinehill Dr (6756),,44.770031,-63.671979,,,,,,0
+6757,6757,Glendale Dr Before Riverside Dr (6757),,44.778281,-63.680854,,,,,,0
+6758,6758,Glendale Dr At Rankin Dr (6758),,44.779569,-63.684136,,,,,,0
+6765,6765,Gloria McCluskey Ave After Akerley Blvd (6765),,44.718097,-63.582942,,,,,,0
+6766,6766,Gloria McCluskey Ave After Civic 80 (6766),,44.720017,-63.586826,,,,,,0
+6767,6767,Colford Ave After Gloria McCluskey Ave (6767),,44.719586,-63.589641,,,,,,0
+6768,6768,Gottingen St Before Almon St (6768),,44.659721,-63.594549,,,,,,0
+6769,6769,Gottingen St After North St (6769),,44.657548,-63.591319,,,,,,0
+6770,6770,Gottingen St After Young St (6770),,44.662292,-63.598409,,,,,,0
+6771,6771,Gottingen St Before Cogswell St (6771),,44.650928,-63.581777,,,,,,0
+6773,6773,Gottingen St After Cogswell St (6773),,44.650866,-63.581669,,,,,,0
+6774,6774,Gottingen St After Charles St (6774),,44.655709,-63.588748,,,,,,0
+6775,6775,Gottingen St After Prince William St (6775),,44.653993,-63.586354,,,,,,0
+6776,6776,Gottingen St Before Almon St (6776),,44.660341,-63.595493,,,,,,0
+6777,6777,Gottingen St Before Black St (6777),,44.658503,-63.592832,,,,,,0
+6778,6778,Gottingen St Before Cornwallis St (6778),,44.652073,-63.583472,,,,,,0
+6779,6779,Gottingen St Before Cunard St (6779),,44.653238,-63.585187,,,,,,0
+6780,6780,Gottingen St Before Buddy Daye St (6780),,44.654931,-63.587685,,,,,,0
+6781,6781,Gottingen St Before North St (6781),,44.657734,-63.591727,,,,,,0
+6782,6782,Gottingen St Before Russell St (6782),,44.661185,-63.596618,,,,,,0
+6783,6783,Gottingen St Before Russell St (6783),,44.661856,-63.597696,,,,,,0
+6784,6784,Hammonds Plains Rd After Doyle St (6784),,44.716076,-63.681342,,,,,,0
+6785,6785,Gottingen St Before Black St (6785),,44.658446,-63.592486,,,,,,0
+6786,6786,Gottingen St Opposite Prince William St (6786),,44.653515,-63.585596,,,,,,0
+6787,6787,Gottingen St After Uniacke St (6787),,44.655624,-63.588716,,,,,,0
+6788,6788,Dutch Village Rd Before Central Ave (6788),,44.654173,-63.631701,,,,,,0
+6790,6790,Gottingen St After Cornwallis St (6790),,44.652132,-63.583591,,,,,,0
+6792,6792,Gregory Dr After Flying Cloud Dr (6792),,44.685819,-63.495007,,,,,,0
+6793,6793,Gregory Dr Before Flying Cloud Dr (6793),,44.685733,-63.495105,,,,,,0
+6795,6795,Greystone Dr Opposite Cranberry Ct (6795),,44.599741,-63.612658,,,,,,0
+6796,6796,Countryview Dr Before Shubie Dr (6796),,44.709435,-63.562317,,,,,,0
+6797,6797,Countryview Dr Before Shubie Dr (6797),,44.706016,-63.563569,,,,,,0
+6798,6798,Greystone Dr After Cobalt Walk (6798),,44.599429,-63.614578,,,,,,0
+6799,6799,Greystone Dr At Cranberry Ct (6799),,44.599962,-63.61247,,,,,,0
+6800,6800,Herring Cove Rd After Bronson Ave (6800),,44.590938,-63.59558,,,,,,0
+6801,6801,Hammonds Plains Rd Before 2nd Yankeetown Rd (6801),,44.733952,-63.805605,,,,,,0
+6802,6802,Hammonds Plains Rd Before Yankeetown Rd (6802),,44.727707,-63.816945,,,,,,0
+6803,6803,Hammonds Plains Rd After Brookshire Ct (6803),,44.720828,-63.687782,,,,,,0
+6804,6804,Hammonds Plains Rd After Basinview Dr (6804),,44.71728,-63.683325,,,,,,0
+6805,6805,Hammonds Plains Rd After Bedford Hills Rd (6805),,44.718939,-63.685603,,,,,,0
+6806,6806,Hammonds Plains Rd Before Pockwock Rd (6806),,44.735538,-63.791972,,,,,,0
+6807,6807,Hammonds Plains Rd Before Lucasville Rd (6807),,44.733015,-63.761975,,,,,,0
+6808,6808,Hammonds Plains Rd Before Glen Arbour Way (6808),,44.733772,-63.783423,,,,,,0
+6809,6809,Hammonds Plains Rd After Glen Arbour Way (6809),,44.733862,-63.783912,,,,,,0
+6810,6810,Hammonds Plains Rd After Pockwock Rd (6810),,44.734919,-63.79085,,,,,,0
+6811,6811,Hammonds Plains Rd After Lucasville Rd (6811),,44.732811,-63.761012,,,,,,0
+6812,6812,Hammonds Plains Rd After Crestfield Dr (6812),,44.724725,-63.737571,,,,,,0
+6813,6813,Hammonds Plains Rd After Northwood Rd (6813),,44.722059,-63.823229,,,,,,0
+6814,6814,Hammonds Plains Rd After Rockcliffe Cr (6814),,44.714138,-63.834128,,,,,,0
+6815,6815,Hammonds Plains Rd After Stillwater Lake Dr (6815),,44.707536,-63.848854,,,,,,0
+6816,6816,Hammonds Plains Rd After St George Blvd (6816),,44.726137,-63.741161,,,,,,0
+6817,6817,Hammonds Plains Rd After St George Blvd (6817),,44.727072,-63.744349,,,,,,0
+6818,6818,Hammonds Plains Rd Before Brookshire Ct (6818),,44.720559,-63.687475,,,,,,0
+6819,6819,Hammonds Plains Rd At Civic 1541 (6819),,44.730761,-63.754056,,,,,,0
+6820,6820,Hammonds Plains Rd Before Civic 1881 (6820),,44.733877,-63.77235,,,,,,0
+6821,6821,Hammonds Plains Rd Before Civic 2465 (6821),,44.734059,-63.805662,,,,,,0
+6822,6822,Hammonds Plains Rd After Nottingham Dr (6822),,44.710103,-63.842644,,,,,,0
+6823,6823,Hammonds Plains Rd After Ellard Ln (6823),,44.730915,-63.754747,,,,,,0
+6824,6824,Hammonds Plains Rd After Winslow Dr (6824),,44.707424,-63.848959,,,,,,0
+6825,6825,Hammonds Plains Rd Before Lake Dr (6825),,44.718902,-63.685692,,,,,,0
+6826,6826,Hammonds Plains Rd Before Northwood Rd (6826),,44.72214,-63.823311,,,,,,0
+6827,6827,Hammonds Plains Rd Opposite Nottingham Dr (6827),,44.709638,-63.844026,,,,,,0
+6828,6828,Hammonds Plains Rd At Civic 1858 (6828),,44.733792,-63.771794,,,,,,0
+6829,6829,Hammonds Plains Rd After 1st Yankeetown Rd (6829),,44.727686,-63.816829,,,,,,0
+6830,6830,Hammonds Plains Rd After Gatehouse Run (6830),,44.724635,-63.737068,,,,,,0
+6831,6831,Hammonds Plains Rd Before Rockcliffe Cr (6831),,44.714143,-63.834244,,,,,,0
+6832,6832,Harris Rd Before Curley Dr (6832),,44.680494,-63.545015,,,,,,0
+6833,6833,Harris Rd After Curley Dr (6833),,44.68034,-63.544747,,,,,,0
+6834,6834,Hartlen St After Main St (6834),,44.681752,-63.537303,,,,,,0
+6835,6835,Hartlen St After Tacoma Dr (6835),,44.681227,-63.537305,,,,,,0
+6836,6836,Hawthorne St After Prince Albert Rd (6836),,44.672899,-63.561229,,,,,,0
+6837,6837,Hawthorne St After Prince Albert Rd (6837),,44.673949,-63.562971,,,,,,0
+6838,6838,Hawthorne St Before Prince Albert Rd (6838),,44.673063,-63.561364,,,,,,0
+6839,6839,Hawthorne St Before Prince Albert Rd (6839),,44.674113,-63.563313,,,,,,0
+6840,6840,Bluewater Rd After Hammonds Plains Rd (6840),,44.72598,-63.707529,,,,,,0
+6841,6841,Countryview Dr Before McClure Cl (6841),,44.702686,-63.565388,,,,,,0
+6842,6842,Countryview Dr Before Ferindonald Cl (6842),,44.704992,-63.564222,,,,,,0
+6843,6843,Hebridean Dr Before Brackett Ct (6843),,44.570946,-63.564107,,,,,,0
+6844,6844,Herring Cove Rd Before Winchester Ave (6844),,44.634124,-63.619915,,,,,,0
+6845,6845,Herring Cove Rd After Spry Ave (6845),,44.618678,-63.615415,,,,,,0
+6846,6846,Herring Cove Rd Before Green Acres Rd (6846),,44.595806,-63.600796,,,,,,0
+6847,6847,Herring Cove Rd Opposite Fotherby Ave (6847),,44.588752,-63.593362,,,,,,0
+6848,6848,Herring Cove Rd After Highfield St (6848),,44.625641,-63.616991,,,,,,0
+6849,6849,Herring Cove Rd After Lynnett Rd (6849),,44.602529,-63.61,,,,,,0
+6850,6850,Herring Cove Rd After Brighton Ave (6850),,44.630277,-63.618136,,,,,,0
+6852,6852,Herring Cove Rd After Catamaran Rd (6852),,44.620034,-63.616556,,,,,,0
+6853,6853,Herring Cove Rd Before Dentith Rd (6853),,44.613589,-63.61689,,,,,,0
+6854,6854,Herring Cove Rd After Civic 600 (6854),,44.596466,-63.601709,,,,,,0
+6855,6855,Herring Cove Rd Before Princeton Ave (6855),,44.59271,-63.597151,,,,,,0
+6856,6856,Herring Cove Rd After Cowie Hill Rd (6856),,44.631982,-63.618592,,,,,,0
+6857,6857,Herring Cove Rd After Dentith Rd (6857),,44.612011,-63.617887,,,,,,0
+6858,6858,Herring Cove Rd After Drysdale Rd (6858),,44.606803,-63.614213,,,,,,0
+6859,6859,Herring Cove Rd After Fotherby Ave (6859),,44.589035,-63.593525,,,,,,0
+6860,6860,Herring Cove Rd After Glenora Ave (6860),,44.628225,-63.616496,,,,,,0
+6861,6861,Herring Cove Rd After Green Acres Rd (6861),,44.59535,-63.599876,,,,,,0
+6862,6862,Herring Cove Rd After Green Acres Rd (6862),,44.594771,-63.599287,,,,,,0
+6863,6863,Herring Cove Rd After Hartlen Ave (6863),,44.613701,-63.616503,,,,,,0
+6864,6864,Herring Cove Rd After Levis St (6864),,44.610322,-63.616967,,,,,,0
+6865,6865,Herring Cove Rd After Sarah Dr (6865),,44.585316,-63.588869,,,,,,0
+6866,6866,Herring Cove Rd Before Dentith Rd (6866),,44.61248,-63.617517,,,,,,0
+6867,6867,Herring Cove Rd After Williams Lake Rd (6867),,44.616105,-63.614442,,,,,,0
+6868,6868,Herring Cove Rd After Withrod Dr (6868),,44.635783,-63.621965,,,,,,0
+6869,6869,Herring Cove Rd Before Shoreham Ln (6869),,44.628819,-63.617031,,,,,,0
+6870,6870,Herring Cove Rd After McMullen Rd (6870),,44.623165,-63.617639,,,,,,0
+6871,6871,Herring Cove Rd Before Mont St (6871),,44.623053,-63.617845,,,,,,0
+6872,6872,Herring Cove Rd At Civic 236 (6872),,44.620481,-63.616818,,,,,,0
+6873,6873,Herring Cove Rd At Civic 412 (6873),,44.608374,-63.615557,,,,,,0
+6874,6874,Herring Cove Rd After Drysdale Rd (6874),,44.606137,-63.61394,,,,,,0
+6875,6875,Herring Cove Rd After Auburn Ave (6875),,44.60475,-63.612525,,,,,,0
+6876,6876,Herring Cove Rd At Civic 540 (6876),,44.599694,-63.606141,,,,,,0
+6877,6877,Herring Cove Rd At Civic 554 (6877),,44.598706,-63.604823,,,,,,0
+6878,6878,Herring Cove Rd After Barclay Ave (6878),,44.586927,-63.591048,,,,,,0
+6879,6879,Herring Cove Rd Before Esso Rd (6879),,44.585123,-63.588727,,,,,,0
+6880,6880,Herring Cove Rd After Arbutus Ave (6880),,44.582216,-63.584247,,,,,,0
+6881,6881,Herring Cove Rd Opposite Dale Ave (6881),,44.579903,-63.58017,,,,,,0
+6882,6882,Herring Cove Rd After Civic 862 (6882),,44.579883,-63.580049,,,,,,0
+6883,6883,Herring Cove Rd At Civic 865 (6883),,44.579057,-63.578808,,,,,,0
+6884,6884,Herring Cove Rd At Civic 872 (6884),,44.578955,-63.578561,,,,,,0
+6885,6885,Herring Cove Rd Before Birch Tree Ln (6885),,44.573826,-63.573285,,,,,,0
+6886,6886,Herring Cove Rd After Birch Tree Ln (6886),,44.57398,-63.573326,,,,,,0
+6887,6887,Herring Cove Rd After Norawarren Dr (6887),,44.572994,-63.572474,,,,,,0
+6888,6888,Herring Cove Rd After Tanglewood Ln (6888),,44.572839,-63.572202,,,,,,0
+6889,6889,Herring Cove Rd After Hebridean Dr (6889),,44.570811,-63.569132,,,,,,0
+6890,6890,Herring Cove Rd Before Circle Dr (6890),,44.618701,-63.615153,,,,,,0
+6891,6891,Herring Cove Rd Before Highfield St (6891),,44.6257,-63.616834,,,,,,0
+6892,6892,Herring Cove Rd Before Civic 427 (6892),,44.608238,-63.615698,,,,,,0
+6893,6893,Herring Cove Rd After Civic 565 (6893),,44.598922,-63.605245,,,,,,0
+6894,6894,Herring Cove Rd Before Barclay Ave (6894),,44.586826,-63.590806,,,,,,0
+6895,6895,Herring Cove Rd After Arbutus Ave (6895),,44.581886,-63.583712,,,,,,0
+6896,6896,Herring Cove Rd Before Glen Baker Dr (6896),,44.57699,-63.576238,,,,,,0
+6897,6897,Herring Cove Rd Before Greystone Dr (6897),,44.603395,-63.611479,,,,,,0
+6898,6898,Herring Cove Rd Before Lynnett Rd (6898),,44.602019,-63.609378,,,,,,0
+6899,6899,Herring Cove Rd Before McIntosh St (6899),,44.60087,-63.607691,,,,,,0
+6900,6900,Herring Cove Rd Before Melwood Ave (6900),,44.636728,-63.620853,,,,,,0
+6901,6901,Herring Cove Rd Before Melwood Ave (6901),,44.637216,-63.620548,,,,,,0
+6902,6902,Herring Cove Rd Before Oceanbreeze Ave (6902),,44.570541,-63.56874,,,,,,0
+6903,6903,Herring Cove Rd Before Purcells Cove Rd (6903),,44.637906,-63.620001,,,,,,0
+6904,6904,Herring Cove Rd Before Sylvia Ave (6904),,44.603405,-63.61125,,,,,,0
+6905,6905,Herring Cove Rd After Williams Lake Rd (6905),,44.615649,-63.615038,,,,,,0
+6906,6906,Herring Cove Rd At Winchester Ave (6906),,44.63265,-63.618422,,,,,,0
+6907,6907,Herring Cove Rd Before Levis St (6907),,44.610124,-63.61712,,,,,,0
+6908,6908,Herring Cove Rd Opposite Bronson Ave (6908),,44.591192,-63.595672,,,,,,0
+6909,6909,Herring Cove Rd After Shoreham Ln (6909),,44.62954,-63.617511,,,,,,0
+6910,6910,Herring Cove Rd Opposite Maplewood Dr (6910),,44.634889,-63.621067,,,,,,0
+6911,6911,Herring Cove Rd After Woodcrest Ave (6911),,44.592628,-63.597178,,,,,,0
+6912,6912,Herring Cove Rd Opposite Glen Baker Dr (6912),,44.577189,-63.576579,,,,,,0
+6913,6913,Herring Cove Rd After Barry Cr (6913),,44.583517,-63.586561,,,,,,0
+6914,6914,Herring Cove Rd Before Barry Cr (6914),,44.583514,-63.586649,,,,,,0
+6915,6915,Herring Cove Rd After McIntosh St (6915),,44.600501,-63.607366,,,,,,0
+6916,6916,Highfield St Before Punch Bowl Dr (6916),,44.626743,-63.617564,,,,,,0
+6917,6917,Highfield Park Dr At Civic 90 (6917),,44.686046,-63.590238,,,,,,0
+6919,6919,Highfield Park Dr Opposite Civic 72 (6919),,44.687278,-63.590578,,,,,,0
+6920,6920,Highfield Park Dr At Civic 60 (6920),,44.688198,-63.58896,,,,,,0
+6921,6921,Highfield Park Dr Before Civic 65 (6921),,44.686037,-63.590153,,,,,,0
+6922,6922,Highfield Park Dr At Civic 35 (6922),,44.688635,-63.587772,,,,,,0
+6924,6924,Highfield Park Dr Before True North Cr (6924),,44.689608,-63.585797,,,,,,0
+6925,6925,Highfield Park Dr At Civic 10 (6925),,44.691179,-63.583918,,,,,,0
+6926,6926,Highfield Park Dr At Civic 68 (6926),,44.68747,-63.590564,,,,,,0
+6927,6927,Highfield Park Dr After True North Cr (6927),,44.68969,-63.585861,,,,,,0
+6928,6928,Highfield Park Dr At Civic 15 (6928),,44.690675,-63.584405,,,,,,0
+6929,6929,Duffus St After Robie St (6929),,44.665277,-63.609762,,,,,,0
+6930,6930,Hammonds Plains Rd Before St George Blvd (6930),,44.727068,-63.744654,,,,,,0
+6931,6931,Highfield St After Punch Bowl Dr (6931),,44.626847,-63.61764,,,,,,0
+6932,6932,Hillsboro Dr After Auburn Dr (6932),,44.69374,-63.491881,,,,,,0
+6933,6933,Hillsboro Dr Before Auburn Dr (6933),,44.69352,-63.491799,,,,,,0
+6934,6934,Hillsboro Dr After Main St (6934),,44.69665,-63.493015,,,,,,0
+6935,6935,Hillsboro Dr Before Barbara Dr (6935),,44.69619,-63.492858,,,,,,0
+6937,6937,Hillsboro Dr After Karen Dr (6937),,44.69506,-63.49246,,,,,,0
+6938,6938,Hollis St After Barrington St (6938),,44.639088,-63.569355,,,,,,0
+6940,6940,Hubley Centre (6940),,44.702854,-63.858243,,,,,,0
+6941,6941,Main St At Civic 802 (6941),,44.698271,-63.490028,,,,,,0
+6942,6942,Main St After Cherry Brook Rd (6942),,44.702753,-63.472029,,,,,,0
+6943,6943,Main St Before Cherry Brook Rd (6943),,44.702778,-63.471089,,,,,,0
+6944,6944,Main St After Maclaughlin Rd (6944),,44.698384,-63.489332,,,,,,0
+6945,6945,Main St Before Westphal Way (6945),,44.701635,-63.478022,,,,,,0
+6946,6946,Main St After Riley Rd (6946),,44.700015,-63.483751,,,,,,0
+6947,6947,Main St Before Riley Rd (6947),,44.699807,-63.483608,,,,,,0
+6948,6948,Main St After Westphal Way (6948),,44.701503,-63.477825,,,,,,0
+6949,6949,Ilsley Ave Opposite Halifax Transit (6949),,44.69426,-63.583041,,,,,,0
+6950,6950,Ilsley Ave At Civic 50 (6950),,44.702553,-63.591509,,,,,,0
+6951,6951,Ilsley Ave After Wright Ave (6951),,44.704341,-63.594859,,,,,,0
+6952,6952,Ilsley Ave After Raddall Ave (6952),,44.700141,-63.587139,,,,,,0
+6953,6953,Ilsley Ave At Civic 81 (6953),,44.701686,-63.589939,,,,,,0
+6954,6954,Ilsley Ave Opposite Civic 81 (6954),,44.701657,-63.589885,,,,,,0
+6955,6955,Ilsley Ave At Civic 41 (6955),,44.702715,-63.591801,,,,,,0
+6956,6956,Ilsley Ave At Civic 101 (6956),,44.700123,-63.587117,,,,,,0
+6957,6957,Ilsley Ave Before Wright Ave (6957),,44.70456,-63.595082,,,,,,0
+6958,6958,Ilsley Ave At Civic 121 (6958),,44.697731,-63.584962,,,,,,0
+6959,6959,Ilsley Ave Before MacDonald Ave (6959),,44.695434,-63.583714,,,,,,0
+6960,6960,Inglis St Opposite SMU (6960),,44.633237,-63.580865,,,,,,0
+6961,6961,Inglis St After Bellevue Ave (6961),,44.631907,-63.586115,,,,,,0
+6962,6962,Inglis St After Robie St (6962),,44.632733,-63.582698,,,,,,0
+6963,6963,Inglis St Before Barrington St (6963),,44.635988,-63.569935,,,,,,0
+6964,6964,Inglis St Before Bellevue Ave (6964),,44.632027,-63.585991,,,,,,0
+6965,6965,Inglis St At SMU (6965),,44.633167,-63.580975,,,,,,0
+6966,6966,Inglis St Before Robie St (6966),,44.632808,-63.582579,,,,,,0
+6967,6967,Inglis St Before South Bland St (6967),,44.635059,-63.573389,,,,,,0
+6968,6968,Inglis St Before South Park St (6968),,44.634539,-63.57538,,,,,,0
+6969,6969,Inglis St Before Tower Rd (6969),,44.633664,-63.578848,,,,,,0
+6970,6970,Inglis St Before Tower Rd (6970),,44.634125,-63.577282,,,,,,0
+6971,6971,Innovation Dr Before Hammonds Plains Rd (6971),,44.72523,-63.69577,,,,,,0
+6972,6972,Inglis St Opposite South Bland St (6972),,44.635266,-63.572424,,,,,,0
+6974,6974,Inverary Dr Before Strath Ln (6974),,44.688516,-63.536022,,,,,,0
+6975,6975,Irving St Before Pleasant St (6975),,44.64657,-63.543443,,,,,,0
+6976,6976,James St At Civic 30 (6976),,44.658615,-63.743166,,,,,,0
+6977,6977,James St At Civic 27 (6977),,44.658639,-63.743211,,,,,,0
+6979,6979,Joseph Howe Dr Before Abbott Dr (6979),,44.651489,-63.630552,,,,,,0
+6980,6980,Joseph Howe Dr After Abbott Dr (6980),,44.651497,-63.630482,,,,,,0
+6981,6981,Joseph Howe Dr Before Bayers Rd (6981),,44.652652,-63.630272,,,,,,0
+6982,6982,Joseph Howe Dr After Dutch Village Rd (6982),,44.658438,-63.629127,,,,,,0
+6984,6984,Joseph Howe Dr Before Dutch Village Rd (6984),,44.658272,-63.629059,,,,,,0
+6985,6985,Joseph Howe Dr Before Scot St (6985),,44.656953,-63.629568,,,,,,0
+6986,6986,Joseph Howe Dr Before Scot St (6986),,44.655695,-63.629753,,,,,,0
+6987,6987,Joseph Zatzman Dr After Akerley Blvd (6987),,44.71203,-63.600292,,,,,,0
+6988,6988,Joseph Zatzman Dr After Simmonds Dr (6988),,44.713721,-63.601433,,,,,,0
+6989,6989,Joseph Zatzman Dr Before Topple Dr (6989),,44.715207,-63.604107,,,,,,0
+6990,6990,John Stewart Dr After Inglewood Cr (6990),,44.680451,-63.4826,,,,,,0
+6991,6991,John Stewart Dr After Auburn Dr (6991),,44.685965,-63.485827,,,,,,0
+6992,6992,John Stewart Dr After Tamara Dr (6992),,44.681777,-63.483445,,,,,,0
+6993,6993,John Stewart Dr Before Tamara Dr (6993),,44.682088,-63.483534,,,,,,0
+6994,6994,John Stewart Dr After Halo Ln (6994),,44.678168,-63.480349,,,,,,0
+6995,6995,John Stewart Dr After Gammon Cr (6995),,44.684683,-63.484665,,,,,,0
+6996,6996,John Stewart Dr Before Roseway Ct (6996),,44.68455,-63.484762,,,,,,0
+6997,6997,John Stewart Dr At Civic 153 (6997),,44.67912,-63.481243,,,,,,0
+6998,6998,John Stewart Dr Before Auburn Dr (6998),,44.686054,-63.485892,,,,,,0
+6999,6999,John Stewart Dr Opposite Civic 153 (6999),,44.679095,-63.481401,,,,,,0
+7000,7000,Johnson Rd Before North Preston Rd (7000),,44.739292,-63.46498,,,,,,0
+7001,7001,Johnson Rd After Clarence St (7001),,44.742535,-63.468155,,,,,,0
+7002,7002,Johnson Rd At Civic 80 (7002),,44.741438,-63.467331,,,,,,0
+7003,7003,Johnson Rd At Civic 60 (7003),,44.740524,-63.466405,,,,,,0
+7004,7004,Joseph Howe Dr Before Craigmore Dr (7004),,44.643645,-63.623839,,,,,,0
+7005,7005,Joseph Howe Dr Before Ascot Ave (7005),,44.645486,-63.627343,,,,,,0
+7006,7006,Joseph Howe Dr After Clinton Ave (7006),,44.642585,-63.621267,,,,,,0
+7007,7007,Joseph Howe Dr Before Lexington Ave (7007),,44.643562,-63.62345,,,,,,0
+7008,7008,Joseph Howe Dr At Civic 2668 (7008),,44.642728,-63.621786,,,,,,0
+7009,7009,Joseph Howe Dr Before Springvale Ave (7009),,44.64788,-63.629627,,,,,,0
+7010,7010,Joseph Howe Dr After Walton Dr (7010),,44.64537,-63.627104,,,,,,0
+7011,7011,Joseph Howe Dr After Murdoch Ave (7011),,44.647868,-63.629473,,,,,,0
+7012,7012,Karen Dr After Hillsboro Dr (7012),,44.695425,-63.492927,,,,,,0
+7013,7013,Karen Dr Before Hillsboro Dr (7013),,44.695288,-63.492944,,,,,,0
+7014,7014,Larry Uteck Blvd Before Bluewater Rd (7014),,44.714126,-63.715769,,,,,,0
+7015,7015,Kearney Lake Rd After Broadholme Ln (7015),,44.683801,-63.67304,,,,,,0
+7016,7016,Kearney Lake Rd After Castle Hill Dr (7016),,44.684105,-63.673686,,,,,,0
+7017,7017,Kearney Lake Rd After Civic 377 (7017),,44.697013,-63.69637,,,,,,0
+7019,7019,Kearney Lake Rd After Grosvenor Rd (7019),,44.682019,-63.668239,,,,,,0
+7020,7020,Kearney Lake Rd After Hamshaw Dr (7020),,44.686961,-63.680888,,,,,,0
+7021,7021,Kearney Lake Rd After Hamshaw Dr (7021),,44.688513,-63.684038,,,,,,0
+7022,7022,Larry Uteck Blvd Before Abbington Ave (7022),,44.704745,-63.705967,,,,,,0
+7023,7023,Kearney Lake Rd After Wedgewood Ave (7023),,44.681303,-63.667416,,,,,,0
+7024,7024,Kearney Lake Rd Before Castle Hill Dr (7024),,44.683097,-63.670621,,,,,,0
+7025,7025,Kearney Lake Rd Before Dunbrack St (7025),,44.68141,-63.66605,,,,,,0
+7026,7026,Larry Uteck Blvd After Bluewater Rd (7026),,44.714076,-63.715938,,,,,,0
+7027,7027,Larry Uteck Blvd Before Belle St (7027),,44.705579,-63.707138,,,,,,0
+7028,7028,Kearney Lake Rd Opposite Civic 83 (7028),,44.683021,-63.670821,,,,,,0
+7030,7030,Kearney Lake Rd Before Hamshaw Dr (7030),,44.688061,-63.682941,,,,,,0
+7031,7031,Kearney Lake Rd Opposite Civic 387 (7031),,44.696963,-63.696465,,,,,,0
+7034,7034,Valleyfield Rd After Woodlawn Rd (7034),,44.673779,-63.530171,,,,,,0
+7035,7035,Valleyfield Rd Before Hilton Dr (7035),,44.674094,-63.530516,,,,,,0
+7036,7036,Valleyfield Rd Before Langley Ave (7036),,44.67636,-63.531486,,,,,,0
+7037,7037,Valleyfield Rd Before Skeena Ln (7037),,44.675851,-63.531205,,,,,,0
+7038,7038,Valleyfield Rd Before Spikenard St (7038),,44.678872,-63.533947,,,,,,0
+7039,7039,Valleyfield Rd Before Virginia Ave (7039),,44.677899,-63.5328,,,,,,0
+7040,7040,Valleyfield Rd After Lawson Ave (7040),,44.677248,-63.531805,,,,,,0
+7045,7045,Kempt Rd After Lady Hammond Rd (7045),,44.663065,-63.620147,,,,,,0
+7047,7047,Kencrest Ave Before Newbery St (7047),,44.672902,-63.61112,,,,,,0
+7048,7048,Kencrest Ave At Newbery St (7048),,44.673316,-63.613092,,,,,,0
+7049,7049,Kencrest Ave After Novalea Dr (7049),,44.673415,-63.614543,,,,,,0
+7050,7050,Kencrest Ave Before Glebe St (7050),,44.67253,-63.609642,,,,,,0
+7051,7051,Kennedy Dr Before Rolieka Dr (7051),,44.691486,-63.530684,,,,,,0
+7052,7052,Kennedy Dr At Civic 37 (7052),,44.690916,-63.528443,,,,,,0
+7053,7053,Kennedy Dr After David St (7053),,44.689307,-63.527024,,,,,,0
+7054,7054,Ketch Harbour Rd After St Pauls Ave (7054),,44.569575,-63.567357,,,,,,0
+7055,7055,Ketch Harbour Rd Opposite View Royal Dr (7055),,44.567761,-63.566544,,,,,,0
+7056,7056,Ketch Harbour Rd After Latter Pond Ln (7056),,44.565577,-63.56623,,,,,,0
+7057,7057,Kincardine Dr After Greenoch Dr (7057),,44.689933,-63.536133,,,,,,0
+7058,7058,King St After Portland St (7058),,44.66582,-63.567039,,,,,,0
+7059,7059,King St Before Ochterloney St (7059),,44.666429,-63.568128,,,,,,0
+7060,7060,Knightsridge Dr After Dunbrack St (7060),,44.67038,-63.661952,,,,,,0
+7061,7061,Knightsridge Dr After Flamingo Dr (7061),,44.671802,-63.660189,,,,,,0
+7062,7062,Knightsridge Dr Before Flamingo Dr (7062),,44.671333,-63.660245,,,,,,0
+7063,7063,Lacewood Dr After Vimy Ave (7063),,44.661364,-63.636569,,,,,,0
+7064,7064,Lacewood Dr After Stratford Way (7064),,44.65951,-63.666816,,,,,,0
+7065,7065,Lacewood Dr After Braeside Ln (7065),,44.662012,-63.641056,,,,,,0
+7066,7066,Lacewood Dr After Clayton Park Dr (7066),,44.66388,-63.645183,,,,,,0
+7067,7067,Lacewood Dr After Dunbrack St (7067),,44.663355,-63.653762,,,,,,0
+7068,7068,Lacewood Dr After Glenforest Dr (7068),,44.661145,-63.638333,,,,,,0
+7069,7069,Lacewood Dr After Gateway Rd (7069),,44.66302,-63.642736,,,,,,0
+7072,7072,Lacewood Dr After Willett St (7072),,44.662297,-63.660413,,,,,,0
+7073,7073,Lacewood Dr After Thomas Raddall Dr (7073),,44.659878,-63.665699,,,,,,0
+7074,7074,Lacewood Dr After Gateway Rd (7074),,44.663375,-63.643535,,,,,,0
+7075,7075,Lacewood Dr Before Bayview Rd (7075),,44.66392,-63.645333,,,,,,0
+7076,7076,Lacewood Dr Before Cedarbrae Ln (7076),,44.664137,-63.648739,,,,,,0
+7077,7077,Lacewood Dr Before Dunbrack St (7077),,44.663458,-63.653822,,,,,,0
+7078,7078,Lacewood Dr Before Dunbrack St (7078),,44.662355,-63.656158,,,,,,0
+7079,7079,Titus St Before Evans Ave (7079),,44.660599,-63.635458,,,,,,0
+7080,7080,Lacewood Dr Before Parkland Dr (7080),,44.659043,-63.668787,,,,,,0
+7081,7081,Lacewood Dr After Parkland Dr (7081),,44.658905,-63.668662,,,,,,0
+7082,7082,Lacewood Dr Before Willett St (7082),,44.662043,-63.658663,,,,,,0
+7083,7083,Lacewood Dr Before Glenforest Dr (7083),,44.661244,-63.638327,,,,,,0
+7084,7084,Lacewood Dr At Braeside Ln (7084),,44.661829,-63.640882,,,,,,0
+7085,7085,Lacewood Dr After Briarwood Cr (7085),,44.664291,-63.648416,,,,,,0
+7086,7086,Willett St Before Lacewood Dr(7086),,44.661663,-63.657338,,,,,,0
+7088,7088,Lady Hammond Rd Opposite Basinview Dr (7088),,44.665144,-63.615271,,,,,,0
+7089,7089,Lady Hammond Rd Opposite MacKintosh St (7089),,44.66413,-63.619217,,,,,,0
+7091,7091,Lady Hammond Rd After High St (7091),,44.665338,-63.613369,,,,,,0
+7093,7093,Lady Hammond Rd After MacKintosh St (7093),,44.664127,-63.619705,,,,,,0
+7095,7095,Lady Hammond Rd Before Basinview Dr (7095),,44.665286,-63.615212,,,,,,0
+7096,7096,Duffus St Before Robie St (7096),,44.665349,-63.610105,,,,,,0
+7097,7097,Lady Hammond Rd Before Robie St (7097),,44.665189,-63.611597,,,,,,0
+7098,7098,Lake Loon Rd At Civic 151 (7098),,44.709736,-63.492444,,,,,,0
+7099,7099,Lake Loon Rd After Montague Rd (7099),,44.708756,-63.500016,,,,,,0
+7100,7100,Lake Loon Rd Before Maclaughlin Rd (7100),,44.70759,-63.488829,,,,,,0
+7101,7101,Lake Loon Rd After Sparks Rd (7101),,44.710491,-63.495905,,,,,,0
+7102,7102,North Preston Rd Before Upper Governor St (7102),,44.74281,-63.464652,,,,,,0
+7103,7103,Lake Major Rd After Chamberlain Dr (7103),,44.705184,-63.467281,,,,,,0
+7104,7104,Lake Major Rd At Civic 148 (7104),,44.709856,-63.467828,,,,,,0
+7106,7106,Lake Major Rd After Main St (7106),,44.704164,-63.46685,,,,,,0
+7107,7107,North Preston Rd After Beals Cr (7107),,44.744877,-63.464367,,,,,,0
+7108,7108,Lake Major Rd At Civic 137 (7108),,44.709845,-63.467768,,,,,,0
+7109,7109,Lake Major Rd After Old German Rd (7109),,44.711576,-63.467573,,,,,,0
+7110,7110,Lake Major Rd After Old German Rd (7110),,44.714369,-63.467207,,,,,,0
+7111,7111,Lake Major Rd Before Reddy Dr (7111),,44.716623,-63.467269,,,,,,0
+7112,7112,Lake Major Rd Before Crane Hill Rd (7112),,44.705571,-63.467325,,,,,,0
+7113,7113,North Preston Rd Before Beals Cr (7113),,44.744761,-63.464331,,,,,,0
+7114,7114,Lake Major Rd Before Old German Rd (7114),,44.71153,-63.467554,,,,,,0
+7115,7115,Lake Major Rd After Reddy Dr (7115),,44.716734,-63.46724,,,,,,0
+7116,7116,North Preston Rd After Smith Ln (7116),,44.741264,-63.464731,,,,,,0
+7117,7117,North Preston Rd Before Johnson Rd (7117),,44.738156,-63.463951,,,,,,0
+7118,7118,North Preston Rd After Ernie Ln (7118),,44.738312,-63.464141,,,,,,0
+7119,7119,Lakelands Blvd After St Margarets Bay Rd (7119),,44.636448,-63.66909,,,,,,0
+7120,7120,Lakelands Blvd Before St Margarets Bay Rd (7120),,44.636303,-63.669379,,,,,,0
+7121,7121,Lancaster Dr Before Dragonfly Ln (7121),,44.565961,-63.561919,,,,,,0
+7122,7122,Lancaster Dr After Ketch Harbour Rd (7122),,44.565098,-63.563638,,,,,,0
+7124,7124,Larry Uteck Blvd At Civic 54 (7124),,44.698592,-63.664215,,,,,,0
+7125,7125,Larry Uteck Blvd Before Bedros Ln (7125),,44.698474,-63.665312,,,,,,0
+7126,7126,Leaman Dr After Ambercrest Pl (7126),,44.686436,-63.580149,,,,,,0
+7127,7127,Leaman Dr Before Albro Lake Rd (7127),,44.685208,-63.578239,,,,,,0
+7128,7128,Windmill Rd After Wyse Rd (7128),,44.667575,-63.575701,,,,,,0
+7129,7129,Windmill Rd After Mott St (7129),,44.667526,-63.578432,,,,,,0
+7130,7130,Leeds St Before Novalea Dr (7130),,44.670213,-63.610784,,,,,,0
+7131,7131,Leeds St Before Rosemeade Ave (7131),,44.668187,-63.613753,,,,,,0
+7133,7133,Leeds St Before Rosemeade Ave (7133),,44.668562,-63.613425,,,,,,0
+7134,7134,Leiblin Dr At 2nd Carnation Cr (7134),,44.604063,-63.626137,,,,,,0
+7135,7135,Leiblin Dr At 2nd Elmdale Cr (7135),,44.601924,-63.628803,,,,,,0
+7136,7136,Leiblin Dr Before Guildwood Cr (7136),,44.598605,-63.632827,,,,,,0
+7137,7137,Leiblin Dr After Avon Cr (7137),,44.606304,-63.623641,,,,,,0
+7138,7138,Leiblin Dr Before Ivylea Cr (7138),,44.595755,-63.636098,,,,,,0
+7139,7139,Leiblin Dr Opposite Avon Cr (7139),,44.606074,-63.623898,,,,,,0
+7140,7140,Leiblin Dr After Carnation Cr (7140),,44.603507,-63.627,,,,,,0
+7141,7141,Leiblin Dr After Elmdale Cr (7141),,44.601876,-63.628966,,,,,,0
+7142,7142,Leiblin Dr Opposite Guildwood Cr (7142),,44.598729,-63.63276,,,,,,0
+7143,7143,Leiblin Dr Before Juniper Cr (7143),,44.595322,-63.636655,,,,,,0
+7144,7144,Lemarchant St Before University Ave (7144),,44.636652,-63.58978,,,,,,0
+7145,7145,Windmill Rd Before Mott St (7145),,44.667517,-63.57839,,,,,,0
+7146,7146,Lexington Ave At Walnut Hall (7146),,44.701544,-63.537432,,,,,,0
+7147,7147,Hornes Rd After Cow Bay Rd (7147),,44.612685,-63.48798,,,,,,0
+7148,7148,Lucien Dr After Whynette Pl (7148),,44.680577,-63.508416,,,,,,0
+7150,7150,Macdonald Bridge Ramp At Barrington St (7150),,44.658924,-63.588731,,,,,,0
+7156,7156,Cherry Brook Rd After Riley Rd (7156),,44.708518,-63.485454,,,,,,0
+7157,7157,Cherry Brook Rd At Civic 292 (7157),,44.708908,-63.482706,,,,,,0
+7158,7158,Main Ave After Willett St (7158),,44.654499,-63.645711,,,,,,0
+7162,7162,Main Ave After Dunbrack St (7162),,44.65322,-63.64863,,,,,,0
+7163,7163,Main Ave After Ford St (7163),,44.66055,-63.631895,,,,,,0
+7164,7164,Main Ave After Hillcrest St (7164),,44.655742,-63.642884,,,,,,0
+7165,7165,Main Ave After Maple St (7165),,44.658952,-63.635663,,,,,,0
+7166,7166,Main Ave After Titus St (7166),,44.659839,-63.633388,,,,,,0
+7167,7167,Main Ave At Flint St (7167),,44.658054,-63.637871,,,,,,0
+7168,7168,Main Ave Before Borden St (7168),,44.657429,-63.63906,,,,,,0
+7169,7169,Main Ave Before Fairview Overpass (7169),,44.661985,-63.628967,,,,,,0
+7170,7170,Main Ave Before Gebhardt St (7170),,44.657174,-63.639871,,,,,,0
+7171,7171,Main Ave Before Homeward Ave (7171),,44.655911,-63.642758,,,,,,0
+7172,7172,Main Ave Before Willett St (7172),,44.654345,-63.64629,,,,,,0
+7173,7173,Main St After Gordon Ave (7173),,44.68173,-63.540277,,,,,,0
+7175,7175,Main St Before Major St (7175),,44.681921,-63.539987,,,,,,0
+7176,7176,Flamingo Dr Before Swallow St (7176),,44.672305,-63.652331,,,,,,0
+7177,7177,Manor Dr Before Peddars Way (7177),,44.669464,-63.543806,,,,,,0
+7178,7178,Maplewood Dr Before Eisener St (7178),,44.655072,-63.739284,,,,,,0
+7179,7179,Maplewood Dr After Eisener St (7179),,44.654971,-63.739342,,,,,,0
+7180,7180,Maplewood Dr Before St Margarets Bay Rd (7180),,44.656502,-63.736616,,,,,,0
+7181,7181,Maplewood Dr Before Norway Maple Dr (7181),,44.65639,-63.736961,,,,,,0
+7182,7182,Margaret Rd Before Mountain Rd (7182),,44.633139,-63.621599,,,,,,0
+7183,7183,Margaret Rd Before Civic 43 (7183),,44.633272,-63.619947,,,,,,0
+7184,7184,Margaret Rd After Knob Hill Cr (7184),,44.633267,-63.621338,,,,,,0
+7186,7186,Osborne St After Marriott St (7186),,44.633311,-63.625895,,,,,,0
+7187,7187,Osborne St After Withrod Dr (7187),,44.634393,-63.624705,,,,,,0
+7188,7188,Osborne St Before Withrod Dr (7188),,44.63428,-63.624783,,,,,,0
+7189,7189,Meadowbrook Dr After Basinview Dr (7189),,44.72817,-63.680156,,,,,,0
+7190,7190,Meadowbrook Dr After Beech St (7190),,44.726994,-63.677104,,,,,,0
+7191,7191,Meadowbrook Dr Before Beech St (7191),,44.727234,-63.677544,,,,,,0
+7192,7192,Meadowbrook Dr Before Douglas Dr (7192),,44.726822,-63.673049,,,,,,0
+7193,7193,Meadowbrook Dr Before Pleasant St (7193),,44.725803,-63.669791,,,,,,0
+7194,7194,Meadowbrook Dr After Pleasant St (7194),,44.725912,-63.670272,,,,,,0
+7195,7195,Meadowbrook Dr After Douglas Dr (7195),,44.726922,-63.672712,,,,,,0
+7197,7197,Victoria Rd Before Garden Dr (7197),,44.674069,-63.575314,,,,,,0
+7198,7198,Merrimac Dr After Forest Hills Pkwy (7198),,44.676947,-63.490887,,,,,,0
+7199,7199,Merrimac Dr After Silistria Dr (7199),,44.676062,-63.489708,,,,,,0
+7200,7200,Forest Hills Pky after Circassion Dr (7200),,44.67612,-63.491825,,,,,,0
+7201,7201,Merrimac Dr Before Arklow Dr (7201),,44.675449,-63.486535,,,,,,0
+7202,7202,Merrimac Dr Before Silistria Dr (7202),,44.675953,-63.489576,,,,,,0
+7203,7203,Merrimac Dr After Arklow Dr (7203),,44.675481,-63.486497,,,,,,0
+7204,7204,Metropolitan Ave Before Polara Dr (7204),,44.781678,-63.673055,,,,,,0
+7205,7205,Ilsley Ave At Halifax Transit (7205),,44.694073,-63.583101,,,,,,0
+7206,7206,Metropolitan Ave After Polara Dr (7206),,44.781466,-63.673035,,,,,,0
+7207,7207,Metropolitan Ave Before First Lake Dr (7207),,44.779392,-63.673561,,,,,,0
+7208,7208,Metropolitan Ave After First Lake Dr (7208),,44.779464,-63.673434,,,,,,0
+7209,7209,Micmac Blvd After Brookdale Cr (7209),,44.684623,-63.557266,,,,,,0
+7210,7210,Micmac Blvd At Civic 10 (7210),,44.684574,-63.556806,,,,,,0
+7211,7211,Micmac Blvd Before Horizon Ct (7211),,44.686759,-63.563629,,,,,,0
+7212,7212,Bluewater Rd After Topsail Ct (7212),,44.723097,-63.70966,,,,,,0
+7213,7213,Micmac Blvd After Horizon Ct (7213),,44.686693,-63.56355,,,,,,0
+7214,7214,Micmac Blvd After Woodland Ave (7214),,44.684828,-63.56745,,,,,,0
+7215,7215,Micmac Blvd Before Woodland Ave (7215),,44.685283,-63.568273,,,,,,0
+7216,7216,Bluewater Rd After Command Ct (7216),,44.721685,-63.712041,,,,,,0
+7217,7217,Bluewater Rd At Civic 217 (7217),,44.720029,-63.714236,,,,,,0
+7220,7220,Millwood Dr Before Lumberman Dr (7220),,44.788866,-63.709272,,,,,,0
+7221,7221,Millwood Dr Before Sackville Dr (7221),,44.782105,-63.7084,,,,,,0
+7222,7222,Millwood Dr After Beaver Bank Rd (7222),,44.790319,-63.693063,,,,,,0
+7223,7223,Millwood Dr After Rafting Dr (7223),,44.79033,-63.709458,,,,,,0
+7224,7224,Millwood Dr After Crossroads Ct (7224),,44.789914,-63.700152,,,,,,0
+7225,7225,Millwood Dr At Civic 65 (7225),,44.787363,-63.709416,,,,,,0
+7226,7226,Millwood Dr After Kindling Cr (7226),,44.7844,-63.709388,,,,,,0
+7227,7227,Millwood Dr Before Wagner Dr (7227),,44.790331,-63.695568,,,,,,0
+7228,7228,Millwood Dr Before Beaver Bank Cross Rd (7228),,44.791448,-63.703087,,,,,,0
+7229,7229,Millwood Dr Before Beaver Bank Rd (7229),,44.790242,-63.693362,,,,,,0
+7230,7230,Millwood Dr After Rossing Dr (7230),,44.79288,-63.704581,,,,,,0
+7231,7231,Millwood Dr After Bianca Ct (7231),,44.784373,-63.709416,,,,,,0
+7232,7232,Millwood Dr Before Jackladder Dr (7232),,44.792867,-63.706965,,,,,,0
+7233,7233,Millwood Dr After Sackville Dr (7233),,44.782002,-63.708342,,,,,,0
+7234,7234,Millwood Dr Before Crossroads Ct (7234),,44.790013,-63.700007,,,,,,0
+7235,7235,Millwood Dr Opposite Jackladder Dr (7235),,44.792572,-63.70753,,,,,,0
+7236,7236,Millwood Dr After Beaver Bank Cross Rd (7236),,44.791395,-63.702899,,,,,,0
+7237,7237,Millwood Dr After Rafting Dr (7237),,44.791276,-63.708719,,,,,,0
+7238,7238,Millwood Dr At Wagner Dr (7238),,44.790267,-63.696286,,,,,,0
+7239,7239,Millwood Dr After Canting Dr (7239),,44.786546,-63.709492,,,,,,0
+7240,7240,Millwood Dr Opposite Rossing Dr (7240),,44.792574,-63.7041,,,,,,0
+7241,7241,Milsom Ave Before Arlington Ave (7241),,44.643158,-63.638564,,,,,,0
+7242,7242,Montague Rd After Main St (7242),,44.698722,-63.493249,,,,,,0
+7243,7243,Montague Rd Before Serpentine Ave (7243),,44.705557,-63.499019,,,,,,0
+7244,7244,Montague Rd After Lake Loon Cr (7244),,44.699948,-63.494719,,,,,,0
+7245,7245,Montague Rd Before Gander Ave (7245),,44.70259,-63.497725,,,,,,0
+7246,7246,Morris St After Birmingham St (7246),,44.640667,-63.57551,,,,,,0
+7247,7247,Morris St Before Birmingham St (7247),,44.640714,-63.575515,,,,,,0
+7248,7248,Mosher Dr After Pettipas Dr (7248),,44.709152,-63.612197,,,,,,0
+7249,7249,Mosher Dr Before Akerley Blvd (7249),,44.708036,-63.608746,,,,,,0
+7250,7250,Mosher Dr Before Gurholt Dr (7250),,44.708703,-63.610977,,,,,,0
+7251,7251,Mountain Rd Before Knob Hill Cr (7251),,44.632199,-63.622168,,,,,,0
+7252,7252,Mountain Rd Before Sunset Ave (7252),,44.630814,-63.623853,,,,,,0
+7253,7253,Mountain Rd After Civic 17 (7253),,44.631589,-63.62304,,,,,,0
+7254,7254,Mountain Rd Before Wildwood Ave (7254),,44.630346,-63.624462,,,,,,0
+7255,7255,Mountain Rd After Withrod Dr (7255),,44.629041,-63.625937,,,,,,0
+7256,7256,Mt Edward Rd Opposite Belle Vista Dr (7256),,44.683281,-63.51847,,,,,,0
+7257,7257,Mt Edward Rd Before Lucien Dr (7257),,44.685215,-63.514088,,,,,,0
+7258,7258,Mt Edward Rd After Brigadoon Ave (7258),,44.683774,-63.517363,,,,,,0
+7259,7259,Mt Edward Rd After Cranberry Cr (7259),,44.688974,-63.505522,,,,,,0
+7260,7260,Mt Edward Rd Opposite John Cross Dr (7260),,44.680389,-63.524155,,,,,,0
+7261,7261,Mt Edward Rd Before John Cross Dr (7261),,44.680763,-63.523808,,,,,,0
+7262,7262,Mt Edward Rd Before Gerald St (7262),,44.688293,-63.507415,,,,,,0
+7263,7263,Mt Edward Rd Before Spring Ave (7263),,44.682001,-63.521173,,,,,,0
+7264,7264,Mt Edward Rd Before Cranberry Cr (7264),,44.689036,-63.50516,,,,,,0
+7265,7265,Mt Edward Rd Before Stuart Harris Dr (7265),,44.687516,-63.509941,,,,,,0
+7266,7266,Mt Edward Rd After Lucien Dr (7266),,44.685381,-63.51388,,,,,,0
+7267,7267,Mt Edward Rd After Gerald St (7267),,44.688365,-63.507274,,,,,,0
+7268,7268,Mt Edward Rd After Spring Ave (7268),,44.68192,-63.521156,,,,,,0
+7269,7269,Mt Edward Rd After Stuart Harris Dr (7269),,44.687488,-63.51007,,,,,,0
+7270,7270,Acadia St Opposite Ragus Rd (7270),,44.656763,-63.545861,,,,,,0
+7271,7271,Acadia St After Pleasant St (7271),,44.655952,-63.548368,,,,,,0
+7272,7272,Mt Hope Ave After Acadia St (7272),,44.655441,-63.543469,,,,,,0
+7274,7274,Mumford Rd Before Leppert St (7274),,44.646316,-63.616755,,,,,,0
+7275,7275,Mumford Rd After Chebucto Rd (7275),,44.645907,-63.615682,,,,,,0
+7277,7277,Mumford Rd After Olivet St (7277),,44.649494,-63.624136,,,,,,0
+7278,7278,Kearney Lake Rd At Civic 327 (7278),,44.694018,-63.691184,,,,,,0
+7279,7279,Mumford Rd Opposite Hemlock St (7279),,44.649085,-63.626741,,,,,,0
+7280,7280,Mumford Rd Before Ashburn Ave (7280),,44.649113,-63.627507,,,,,,0
+7281,7281,Mumford Rd Before Ralston Ave (7281),,44.649643,-63.624388,,,,,,0
+7283,7283,Mumford Rd Opposite St Agnes School (7283),,44.646848,-63.618414,,,,,,0
+7285,7285,Mumford Terminal Bay 1 (7285),,44.648405,-63.621257,,,,10000,,0
+7286,7286,Nappan Dr Opposite Newcombe Dr (7286),,44.782572,-63.675367,,,,,,0
+7287,7287,Nappan Dr After Nictaux Dr (7287),,44.784807,-63.677058,,,,,,0
+7288,7288,Nappan Dr Before Newcombe Dr (7288),,44.782272,-63.674998,,,,,,0
+7289,7289,Nappan Dr Before Nictaux Dr (7289),,44.784752,-63.676934,,,,,,0
+7292,7292,Sackville Dr After Beaconsfield Way (7292),,44.789587,-63.71486,,,,,,0
+7293,7293,Sackville Dr After Executive Dr (7293),,44.790441,-63.71559,,,,,,0
+7294,7294,Sackville Dr At Civic 745 (7294),,44.77301,-63.692098,,,,,,0
+7295,7295,Sackville Dr After Beaver Bank Rd (7295),,44.776988,-63.696544,,,,,,0
+7296,7296,Sackville Dr After Hillcrest Ave (7296),,44.757526,-63.667931,,,,,,0
+7297,7297,Sackville Dr Before Beaver Bank Rd (7297),,44.775648,-63.694955,,,,,,0
+7298,7298,Sackville Dr After Jubilee Ln (7298),,44.781664,-63.704147,,,,,,0
+7299,7299,Sackville Dr After Leaside Dr (7299),,44.766237,-63.681909,,,,,,0
+7300,7300,Sackville Dr After Lucasville Rd (7300),,44.782711,-63.711402,,,,,,0
+7301,7301,Sackville Dr After Millwood Dr (7301),,44.781418,-63.707638,,,,,,0
+7302,7302,Sackville Dr After Wilson Lake Dr  (7302),,44.79475,-63.721995,,,,,,0
+7303,7303,Sackville Dr After Hillcrest Ave (7303),,44.756741,-63.667895,,,,,,0
+7304,7304,Sackville Dr After Oakdale Dr (7304),,44.763116,-63.674735,,,,,,0
+7305,7305,Sackville Dr After Sackville Cross Rd (7305),,44.767421,-63.684158,,,,,,0
+7306,7306,Sackville Dr After Sharon Dr (7306),,44.781541,-63.700926,,,,,,0
+7307,7307,Sackville Dr After Stanley St (7307),,44.78035,-63.699359,,,,,,0
+7308,7308,Sackville Dr After Hamilton Dr (7308),,44.795635,-63.728219,,,,,,0
+7309,7309,Sackville Dr At Civic 614 (7309),,44.768581,-63.686632,,,,,,0
+7310,7310,Sackville Dr Opposite Civic 614 (7310),,44.768729,-63.686744,,,,,,0
+7311,7311,Sackville Dr Before Sackville Cross Rd (7311),,44.767633,-63.684282,,,,,,0
+7312,7312,Sackville Dr At Civic 475 (7312),,44.765413,-63.679965,,,,,,0
+7313,7313,Sackville Dr Before Armoyan Dr (7313),,44.760811,-63.672489,,,,,,0
+7314,7314,Sackville Dr Before Beaver Bank Cross Rd (7314),,44.781729,-63.703992,,,,,,0
+7315,7315,Sackville Dr Before Beaver Bank Connector (7315),,44.777199,-63.696937,,,,,,0
+7316,7316,Sackville Dr After Lively Rd (7316),,44.795307,-63.726116,,,,,,0
+7317,7317,Sackville Dr Before Hamilton Dr (7317),,44.795706,-63.728221,,,,,,0
+7318,7318,Sackville Dr At Civic 791 (7318),,44.773878,-63.693083,,,,,,0
+7319,7319,Sackville Dr Before Lively Rd (7319),,44.795264,-63.725471,,,,,,0
+7320,7320,Sackville Dr Before Lucasville Rd (7320),,44.782303,-63.710962,,,,,,0
+7321,7321,Sackville Dr Before Melham Dr (7321),,44.785512,-63.713123,,,,,,0
+7322,7322,Sackville Dr Before Millwood Dr (7322),,44.781474,-63.707746,,,,,,0
+7323,7323,Sackville Dr Before Oakdale Dr (7323),,44.763142,-63.674764,,,,,,0
+7324,7324,Sackville Dr Opposite Wilson Lake Dr (7324),,44.794685,-63.721914,,,,,,0
+7325,7325,Sackville Dr Before Leaside Dr (7325),,44.766891,-63.682967,,,,,,0
+7326,7326,Sackville Dr Before Orchard Dr (7326),,44.796513,-63.731684,,,,,,0
+7327,7327,Sackville Dr Before Pinehill Dr (7327),,44.764224,-63.676488,,,,,,0
+7328,7328,Sackville Dr Opposite Pinehill Dr (7328),,44.764473,-63.677101,,,,,,0
+7329,7329,Sackville Dr Before Riverside Dr (7329),,44.769869,-63.689085,,,,,,0
+7330,7330,Sackville Dr Before Civic 222 (7330),,44.759267,-63.669844,,,,,,0
+7331,7331,Sackville Dr Before Skyridge Ave (7331),,44.760403,-63.671651,,,,,,0
+7332,7332,Sackville Dr At Civic 1000 (7332),,44.780908,-63.700048,,,,,,0
+7333,7333,Sackville Dr At Twelve Mile House Ln (7333),,44.753517,-63.665306,,,,,,0
+7334,7334,Sackville Dr Before Rosemary Dr (7334),,44.796044,-63.730402,,,,,,0
+7335,7335,Sackville Dr At Civic 1800 (7335),,44.798509,-63.734465,,,,,,0
+7336,7336,Sackville Dr After Melham Dr (7336),,44.785673,-63.713091,,,,,,0
+7337,7337,Sackville Dr Before Riverside Dr (7337),,44.770182,-63.689695,,,,,,0
+7338,7338,Sackville Dr After Twelve Mile House Ln (7338),,44.753707,-63.665371,,,,,,0
+7339,7339,Nordic Cr After Stokil Dr (7339),,44.78434,-63.679309,,,,,,0
+7340,7340,Nordic Cr Before Stokil Dr (7340),,44.784404,-63.679291,,,,,,0
+7341,7341,North St Before Robie St (7341),,44.655016,-63.594454,,,,,,0
+7342,7342,North St Before Robie St (7342),,44.654481,-63.595114,,,,,,0
+7343,7343,North St After Brunswick St (7343),,44.658644,-63.58826,,,,,,0
+7344,7344,North St Before Dublin St (7344),,44.650609,-63.600679,,,,,,0
+7345,7345,North St Before Dublin St (7345),,44.650186,-63.60115,,,,,,0
+7346,7346,North St After Gottingen St (7346),,44.6571,-63.591495,,,,,,0
+7347,7347,North St Before Gottingen St (7347),,44.657059,-63.591419,,,,,,0
+7348,7348,North St After Lorne Terr (7348),,44.658305,-63.590248,,,,,,0
+7349,7349,North St Before Agricola St (7349),,44.65521,-63.594145,,,,,,0
+7350,7350,North St After Fuller Terr (7350),,44.656133,-63.592824,,,,,,0
+7351,7351,North St Before Brunswick St (7351),,44.65819,-63.589728,,,,,,0
+7352,7352,North St Before Clifton St (7352),,44.653627,-63.596306,,,,,,0
+7353,7353,North St Before Clifton St (7353),,44.653862,-63.596147,,,,,,0
+7354,7354,North St Before Maynard St (7354),,44.65613,-63.592764,,,,,,0
+7355,7355,North St Before Oxford St (7355),,44.648954,-63.602868,,,,,,0
+7356,7356,North St Before Oxford St (7356),,44.649311,-63.602477,,,,,,0
+7357,7357,North St Before Windsor St (7357),,44.652091,-63.598515,,,,,,0
+7358,7358,North St Before Windsor St (7358),,44.652359,-63.598226,,,,,,0
+7360,7360,North Ridge Rd After Novalea Dr (7360),,44.673207,-63.615425,,,,,,0
+7361,7361,Novalea Dr Opposite Kencrest Ave (7361),,44.673208,-63.614702,,,,,,0
+7362,7362,Novalea Dr At Cabot Pl (7362),,44.666551,-63.604917,,,,,,0
+7364,7364,Novalea Dr Before Livingstone Pl (7364),,44.664092,-63.601139,,,,,,0
+7365,7365,Novalea Dr Before Stanley Pl (7365),,44.664992,-63.602575,,,,,,0
+7366,7366,Novalea Dr After Young St (7366),,44.662639,-63.598808,,,,,,0
+7368,7368,Novalea Dr At Samuel Prince Manor (7368),,44.67165,-63.612274,,,,,,0
+7369,7369,Novalea Dr Before Devonshire Ave (7369),,44.667116,-63.605644,,,,,,0
+7370,7370,Novalea Dr Before Duffus St (7370),,44.667605,-63.606506,,,,,,0
+7371,7371,Novalea Dr Before Leeds St (7371),,44.670821,-63.610959,,,,,,0
+7372,7372,Kearney Lake Rd Opposite Civic 327 (7372),,44.693912,-63.691139,,,,,,0
+7373,7373,Novalea Dr Before Vestry St (7373),,44.668692,-63.607802,,,,,,0
+7374,7374,Novalea Dr Opposite Cabot Pl (7374),,44.666196,-63.604177,,,,,,0
+7376,7376,Novalea Dr Opposite Leeds St (7376),,44.670379,-63.610327,,,,,,0
+7377,7377,Novalea Dr Opposite Livingstone Pl (7377),,44.663756,-63.600464,,,,,,0
+7378,7378,Novalea Dr Opposite Samuel Prince Manor (7378),,44.671677,-63.612322,,,,,,0
+7379,7379,Novalea Dr Opposite Samuel Prince Manor (7379),,44.671566,-63.612255,,,,,,0
+7381,7381,Novalea Dr Before Kenny St (7381),,44.664736,-63.601871,,,,,,0
+7382,7382,Novalea Dr After Vestry St (7382),,44.668569,-63.607726,,,,,,0
+7383,7383,Oathill Cr Before Peddars Way (7383),,44.673423,-63.546052,,,,,,0
+7384,7384,Oathill Cr Before Colburn Walk (7384),,44.673529,-63.545831,,,,,,0
+7385,7385,Ochterloney St Before Pine St (7385),,44.669508,-63.564995,,,,,,0
+7386,7386,Ochterloney St After Irishtown Rd (7386),,44.669407,-63.565299,,,,,,0
+7388,7388,Ochterloney St Before King St (7388),,44.666705,-63.568235,,,,,,0
+7389,7389,Ochterloney St Before Wentworth St (7389),,44.66762,-63.567219,,,,,,0
+7390,7390,Old Sambro Rd After Sussex St (7390),,44.610494,-63.623938,,,,,,0
+7391,7391,Old Sambro Rd Before Civic 120 (7391),,44.613782,-63.622925,,,,,,0
+7392,7392,Old Sambro Rd At Civic 143 (7392),,44.612862,-63.624035,,,,,,0
+7393,7393,Old Sambro Rd Before Sussex St (7393),,44.610192,-63.624073,,,,,,0
+7394,7394,Old Sambro Rd After Dobbin Ln (7394),,44.620175,-63.618803,,,,,,0
+7395,7395,Osborne St After Kelly St (7395),,44.631753,-63.627797,,,,,,0
+7396,7396,Osborne St Before Sunset Ave (7396),,44.631581,-63.627832,,,,,,0
+7397,7397,Osborne St At Civic 7 (7397),,44.633341,-63.625909,,,,,,0
+7398,7398,Otago Dr Before Poplar Dr (7398),,44.672554,-63.498783,,,,,,0
+7399,7399,Otago Dr After Poplar Dr (7399),,44.672616,-63.498861,,,,,,0
+7400,7400,Outrigger Cr After Fleetview Dr (7400),,44.697381,-63.669003,,,,,,0
+7401,7401,Oxford St After Coburg Rd (7401),,44.638046,-63.596792,,,,,,0
+7402,7402,Oxford St Before Waegwoltic Ave (7402),,44.639042,-63.597395,,,,,,0
+7403,7403,Oxford St Before Jennings St (7403),,44.639367,-63.597487,,,,,,0
+7404,7404,Oxford St After Allan St (7404),,44.646985,-63.601418,,,,,,0
+7405,7405,Oxford St Before Berlin St (7405),,44.651011,-63.605248,,,,,,0
+7406,7406,Oxford St Before Norwood St (7406),,44.642595,-63.599151,,,,,,0
+7407,7407,Oxford St After Almon St (7407),,44.651987,-63.606562,,,,,,0
+7408,7408,Oxford St After Almon St (7408),,44.651461,-63.605921,,,,,,0
+7409,7409,Oxford St After Jubilee Rd (7409),,44.640458,-63.598145,,,,,,0
+7410,7410,Oxford St After Jubilee Rd (7410),,44.641168,-63.598432,,,,,,0
+7411,7411,Oxford St After North St (7411),,44.649338,-63.60292,,,,,,0
+7412,7412,Oxford St After Quinpool Rd (7412),,44.644185,-63.600146,,,,,,0
+7413,7413,Oxford St Before Bayers Rd (7413),,44.654567,-63.609968,,,,,,0
+7414,7414,Oxford St At Civic 1350 (7414),,44.635935,-63.595961,,,,,,0
+7415,7415,Oxford St Before Edzell Castle Cir (7415),,44.635713,-63.595709,,,,,,0
+7416,7416,Oxford St Before Liverpool St (7416),,44.653399,-63.608401,,,,,,0
+7417,7417,Oxford St Before Liverpool St (7417),,44.653103,-63.608063,,,,,,0
+7418,7418,Oxford St Before North St (7418),,44.649321,-63.603066,,,,,,0
+7419,7419,Oxford St Before Norwood St (7419),,44.64303,-63.59953,,,,,,0
+7420,7420,Oxford St After Oak St (7420),,44.646459,-63.601257,,,,,,0
+7421,7421,Oxford St Before Quinpool Rd (7421),,44.644411,-63.600177,,,,,,0
+7422,7422,Oxford St Before Summit St (7422),,44.650243,-63.604319,,,,,,0
+7423,7423,Oxford St Before Young St (7423),,44.654402,-63.609769,,,,,,0
+7424,7424,Parkland Dr Before Farnham Gate Rd (7424),,44.671746,-63.676129,,,,,,0
+7425,7425,Parkland Dr Opposite Carlina Ct (7425),,44.674235,-63.676069,,,,,,0
+7427,7427,Parkland Dr After Lacewood Dr (7427),,44.660331,-63.669969,,,,,,0
+7428,7428,Parkland Dr After Farnham Gate Rd (7428),,44.670435,-63.675928,,,,,,0
+7429,7429,Parkland Dr After Langbrae Dr (7429),,44.665529,-63.671965,,,,,,0
+7430,7430,Parkland Dr After Carrington Pl (7430),,44.66653,-63.673918,,,,,,0
+7431,7431,Parkland Dr Before Carrington Pl (7431),,44.667074,-63.674894,,,,,,0
+7432,7432,Parkland Dr Before Bethany Way (7432),,44.661781,-63.670592,,,,,,0
+7433,7433,Parkland Dr Before Farnham Gate Rd (7433),,44.670762,-63.675859,,,,,,0
+7434,7434,Parkland Dr Before Lancaster Dr (7434),,44.664309,-63.670826,,,,,,0
+7435,7435,Parkland Dr After Langbrae Dr (7435),,44.666022,-63.672577,,,,,,0
+7436,7436,Parkland Dr Before Civic 429 (7436),,44.66831,-63.67528,,,,,,0
+7437,7437,Parkland Dr Opposite Bethany Way (7437),,44.662802,-63.67072,,,,,,0
+7438,7438,Parkland Dr Before Lacewood Dr (7438),,44.660292,-63.670057,,,,,,0
+7439,7439,Pearl Dr Before Opal Ct (7439),,44.646164,-63.476161,,,,,,0
+7440,7440,Atholea Dr Before Caldwell Rd (7440),,44.644735,-63.47973,,,,,,0
+7441,7441,Peddars Way After Civic 29 (7441),,44.670282,-63.544048,,,,,,0
+7442,7442,Peddars Way After Bow St (7442),,44.670508,-63.543913,,,,,,0
+7443,7443,Peddars Way After Bow St (7443),,44.672021,-63.544717,,,,,,0
+7444,7444,Peddars Way Opposite Civic 45 (7444),,44.671852,-63.544407,,,,,,0
+7445,7445,Washmill Lake After Abercrombie Lane (7445),,44.649843,-63.652111,,,,,,0
+7446,7446,Washmill Lake Dr Before Bently Dr (7446),,44.649829,-63.656364,,,,,,0
+7447,7447,Pettipas Dr After Vidito Dr (7447),,44.71205,-63.61003,,,,,,0
+7448,7448,Pettipas Dr Before Mosher Dr (7448),,44.710563,-63.61191,,,,,,0
+7449,7449,Pinecrest Dr After Albro Lake Rd (7449),,44.683435,-63.580023,,,,,,0
+7450,7450,Pinecrest Dr Before Albro Lake Rd (7450),,44.683457,-63.58008,,,,,,0
+7451,7451,Pinecrest Dr After Brule St (7451),,44.68364,-63.587232,,,,,,0
+7452,7452,Pinecrest Dr At Civic 103 (7452),,44.686065,-63.585743,,,,,,0
+7453,7453,Pinecrest Dr Before Civic 108 (7453),,44.685942,-63.585973,,,,,,0
+7454,7454,Pinecrest Dr At Civic 122 (7454),,44.68499,-63.587084,,,,,,0
+7455,7455,Pinecrest Dr At Civic 123 (7455),,44.684863,-63.587175,,,,,,0
+7456,7456,Pinecrest Dr At Civic 63 (7456),,44.684542,-63.581995,,,,,,0
+7457,7457,Pinecrest Dr Before Crystal Dr (7457),,44.685581,-63.583795,,,,,,0
+7458,7458,Pinecrest Dr At Crystal Dr (7458),,44.685881,-63.584378,,,,,,0
+7459,7459,Pinecrest Dr Before Primrose St (7459),,44.684885,-63.58257,,,,,,0
+7460,7460,Plaza Dr Opposite Eljay Dr (7460),,44.682079,-63.515728,,,,,,0
+7461,7461,Main Rd Before Morris Ave (7461),,44.621538,-63.507811,,,,,,0
+7462,7462,Main Rd Before Bonaventure St (7462),,44.626829,-63.515433,,,,,,0
+7463,7463,Main Rd After Silvers Ln (7463),,44.612041,-63.494848,,,,,,0
+7464,7464,Pleasant St After Acadia St (7464),,44.655669,-63.54978,,,,,,0
+7465,7465,Pleasant St After Arthur St (7465),,44.659358,-63.551522,,,,,,0
+7466,7466,Pleasant St After Atlantic St (7466),,44.650186,-63.546297,,,,,,0
+7467,7467,Pleasant St After Atlantic St (7467),,44.648969,-63.545834,,,,,,0
+7468,7468,Pleasant St Before St Georges Ln (7468),,44.667849,-63.558753,,,,,,0
+7469,7469,Pleasant St After Civic 600 (7469),,44.64107,-63.534052,,,,,,0
+7470,7470,Pleasant St Before Mawiomi Pl (7470),,44.655713,-63.549851,,,,,,0
+7471,7471,Main Rd Opposite Harvard Dr (7471),,44.629984,-63.519649,,,,,,0
+7472,7472,Pleasant St After Hwy 111 (7472),,44.648701,-63.545581,,,,,,0
+7473,7473,Main Rd Opposite Civic 1350 (7473),,44.618394,-63.50231,,,,,,0
+7474,7474,Main Rd After Hines Rd (7474),,44.62513,-63.513145,,,,,,0
+7475,7475,Main Rd Before Avenger Pl (7475),,44.628017,-63.517058,,,,,,0
+7476,7476,Pleasant St Before Old Ferry Rd (7476),,44.665481,-63.554573,,,,,,0
+7477,7477,Main Rd At Civic 1341 (7477),,44.616907,-63.500555,,,,,,0
+7478,7478,Washmill Lake Dr After Grandhaven Blvd (7478),,44.648258,-63.664452,,,,,,0
+7479,7479,Pleasant St Before Cuisack St (7479),,44.658748,-63.551094,,,,,,0
+7480,7480,Pleasant St After Linden Lea (7480),,44.666793,-63.556977,,,,,,0
+7481,7481,Pleasant St At Dartmouth General (7481),,44.653569,-63.548612,,,,,,0
+7482,7482,Pleasant St After Mt Hope Centre (7482),,44.651733,-63.547468,,,,,,0
+7483,7483,Main Rd After Monster Ln (7483),,44.620145,-63.504791,,,,,,0
+7484,7484,Pleasant St After Belmont Ave (7484),,44.63582,-63.526769,,,,,,0
+7485,7485,Pleasant St Before Southdale St (7485),,44.661236,-63.552876,,,,,,0
+7486,7486,Main Rd Before Bonaventure St (7486),,44.626486,-63.514799,,,,,,0
+7487,7487,Main Rd Opposite Monster Ln (7487),,44.620031,-63.504691,,,,,,0
+7488,7488,Pleasant St Before Everette St (7488),,44.644447,-63.540527,,,,,,0
+7490,7490,Main Rd Before Hines Rd (7490),,44.625419,-63.513403,,,,,,0
+7491,7491,Main Rd Before Howard Ave (7491),,44.623292,-63.509827,,,,,,0
+7492,7492,Pleasant St Before Irving St (7492),,44.645983,-63.543373,,,,,,0
+7493,7493,Pleasant St Before Linden Lea (7493),,44.66673,-63.556774,,,,,,0
+7494,7494,Main Rd After Morris Ave (7494),,44.621652,-63.507764,,,,,,0
+7495,7495,Main Rd Before Myers Ln (7495),,44.614344,-63.497276,,,,,,0
+7496,7496,Pleasant St Before Newcastle St (7496),,44.662903,-63.553665,,,,,,0
+7497,7497,Main Rd At Civic 1491 (7497),,44.612026,-63.494939,,,,,,0
+7498,7498,Pleasant St Before Shirley St (7498),,44.64575,-63.543343,,,,,,0
+7499,7499,Pleasant St Before Hwy 111 (7499),,44.647241,-63.544745,,,,,,0
+7500,7500,Main Rd At Civic 1350 (7500),,44.618467,-63.502244,,,,,,0
+7601,7601,Bridge Terminal Bay 1 (7601),,44.671047,-63.575111,,,,10001,,0
+7602,7602,Bridge Terminal Bay 2 (7602),,44.670943,-63.57492,,,,10001,,0
+7603,7603,Bridge Terminal Bay 3 (7603),,44.670834,-63.574727,,,,10001,,0
+7604,7604,Bridge Terminal Bay 4 (7604),,44.670662,-63.57443,,,,10001,,0
+7605,7605,Bridge Terminal Bay 5 (7605),,44.670554,-63.574202,,,,10001,,0
+7606,7606,Bridge Terminal Bay 6 (7606),,44.670413,-63.573955,,,,10001,,0
+7607,7607,Bridge Terminal Bay 7 (7607),,44.670323,-63.573781,,,,10001,,0
+7608,7608,Bridge Terminal Bay 8 (7608),,44.670202,-63.573567,,,,10001,,0
+7609,7609,Bridge Terminal Bay 9 (7609),,44.670062,-63.57385,,,,10001,,0
+7610,7610,Bridge Terminal Bay 10 (7610),,44.670166,-63.57403,,,,10001,,0
+7611,7611,Bridge Terminal Bay 11 (7611),,44.670282,-63.574279,,,,10001,,0
+7612,7612,Bridge Terminal Bay 12 (7612),,44.670384,-63.574569,,,,10001,,0
+7613,7613,Bridge Terminal Bay 13 (7613),,44.67056,-63.574796,,,,10001,,0
+7614,7614,Bridge Terminal Bay 14 (7614),,44.670682,-63.574982,,,,10001,,0
+7615,7615,Bridge Terminal Bay 15 (7615),,44.67077,-63.57516,,,,10001,,0
+7616,7616,Bridge Terminal Bay 16 (7616),,44.670872,-63.575321,,,,10001,,0
+7618,7618,Sheldrake Lake Park and Ride (7618),,44.672797,-63.782669,,,,,,0
+8001,8001,Main Rd After Corsair Dr (8001),,44.632233,-63.521902,,,,,,0
+8002,8002,Main Rd After Labrador Ave (8002),,44.628241,-63.517203,,,,,,0
+8003,8003,Pleasant St After Cameron St (8003),,44.661542,-63.553134,,,,,,0
+8004,8004,Pleasant St Opposite Carleton St (8004),,44.636223,-63.527489,,,,,,0
+8005,8005,Main Rd Before Howard Ave (8005),,44.624125,-63.511361,,,,,,0
+8006,8006,Pleasant St After Old Ferry Rd (8006),,44.665458,-63.554566,,,,,,0
+8008,8008,Pleasant St At Civic 153 (8008),,44.663918,-63.553688,,,,,,0
+8009,8009,Pleasant St After Marvin St (8009),,44.657935,-63.550693,,,,,,0
+8010,8010,Pleasant St Opposite Dartmouth General (8010),,44.65349,-63.54854,,,,,,0
+8011,8011,Pleasant St Opposite Everette St (8011),,44.644453,-63.541218,,,,,,0
+8012,8012,Main Rd After Howard Ave (8012),,44.623331,-63.510095,,,,,,0
+8013,8013,Pleasant St Opposite Civic 600 (8013),,44.641225,-63.534124,,,,,,0
+8014,8014,Main Rd After Alex Ln (8014),,44.614272,-63.497377,,,,,,0
+8015,8015,Main Rd Opposite Civic 1341 (8015),,44.616989,-63.50042,,,,,,0
+8016,8016,Pleasant St Before Portland St (8016),,44.667878,-63.558639,,,,,,0
+8017,8017,Pleasant St Before Mt Hope Ave (8017),,44.652221,-63.547637,,,,,,0
+8018,8018,Main Rd After Harvard Dr (8018),,44.629723,-63.519473,,,,,,0
+8019,8019,Main Rd After Albacore Pl (8019),,44.63178,-63.521629,,,,,,0
+8024,8024,Poplar Dr At Civic 118 (8024),,44.676732,-63.498299,,,,,,0
+8025,8025,Poplar Dr After Evergreen Dr (8025),,44.674438,-63.497359,,,,,,0
+8026,8026,Poplar Dr At Civic 113 (8026),,44.676587,-63.498114,,,,,,0
+8027,8027,Poplar Dr Before Evergreen Dr (8027),,44.674513,-63.497274,,,,,,0
+8028,8028,Portland St Before Joffre St (8028),,44.668536,-63.543808,,,,,,0
+8030,8030,Fall River Park and Ride (8030),,44.802721,-63.597466,,,,,,0
+8031,8031,Portland Estates Blvd West At Civic 51 (8031),,44.66497,-63.516236,,,,,,0
+8034,8034,Portland Estates Blvd West At Civic 69 (8034),,44.663204,-63.517542,,,,,,0
+8035,8035,Portland St After Canal St (8035),,44.667727,-63.563007,,,,,,0
+8036,8036,Portland St After Chestnut Ln (8036),,44.669386,-63.542678,,,,,,0
+8037,8037,Portland St After Eisener Blvd (8037),,44.671857,-63.524824,,,,,,0
+8038,8038,Portland St After Gaston Rd (8038),,44.667591,-63.544273,,,,,,0
+8039,8039,Portland St Before Pleasant St (8039),,44.668841,-63.559173,,,,,,0
+8040,8040,Portland St After Jersey Dr (8040),,44.672025,-63.52189,,,,,,0
+8041,8041,Portland St After Jersey Dr (8041),,44.672127,-63.523839,,,,,,0
+8042,8042,Portland St After Lakefront Rd (8042),,44.667422,-63.548746,,,,,,0
+8043,8043,Portland St After Maynard St (8043),,44.668043,-63.553658,,,,,,0
+8044,8044,Portland St After Prince Arthur Ave (8044),,44.667165,-63.546335,,,,,,0
+8045,8045,Portland St After Settle St (8045),,44.67108,-63.529311,,,,,,0
+8046,8046,Portland St After Portland Estates Blvd (8046),,44.671511,-63.517504,,,,,,0
+8047,8047,Portland St After Spring Ave (8047),,44.672014,-63.519047,,,,,,0
+8048,8048,Upper Partridge River Rd After Brooks Dr (8048),,44.727428,-63.41912,,,,,,0
+8049,8049,Upper Partridge River Rd Before Brooks Dr (8049),,44.727434,-63.418984,,,,,,0
+8050,8050,Portland St After Baker Dr (8050),,44.670764,-63.531037,,,,,,0
+8051,8051,Portland St After Pleasant St (8051),,44.668633,-63.559542,,,,,,0
+8052,8052,Portland St Before Old Ferry Rd (8052),,44.668211,-63.554148,,,,,,0
+8053,8053,Portland St Before Rodney Rd (8053),,44.667723,-63.550637,,,,,,0
+8055,8055,Portland St Opposite Settle St (8055),,44.671094,-63.528433,,,,,,0
+8056,8056,Bluewater Rd Before Larry Uteck Blvd (8056),,44.716349,-63.716101,,,,,,0
+8057,8057,Portland St Before Canal St (8057),,44.66784,-63.562585,,,,,,0
+8058,8058,Portland St Before James St (8058),,44.669089,-63.55762,,,,,,0
+8059,8059,Portland St Before Lakefront Rd (8059),,44.667452,-63.548841,,,,,,0
+8060,8060,Portland St Before St Georges Ln (8060),,44.669193,-63.557561,,,,,,0
+8062,8062,Portland St After Rodney Rd (8062),,44.667746,-63.550569,,,,,,0
+8065,8065,Primrose St Before Victoria Rd (8065),,44.6819,-63.586278,,,,,,0
+8066,8066,Prince Albert Rd After Bartlin Rd (8066),,44.680375,-63.5479,,,,,,0
+8067,8067,Sinclair St Before Prince Albert Rd (8067),,44.677807,-63.555208,,,,,,0
+8068,8068,Prince Albert Rd After Celtic Dr (8068),,44.678795,-63.552223,,,,,,0
+8069,8069,Prince Albert Rd Before Celtic Dr (8069),,44.678937,-63.552228,,,,,,0
+8070,8070,Princess Margaret Blvd After Hudson Way (8070),,44.686074,-63.603104,,,,,,0
+8071,8071,Princess Margaret Blvd At Civic 40 (8071),,44.686807,-63.606501,,,,,,0
+8072,8072,Princess Margaret Blvd At Civic 55 (8072),,44.688265,-63.607041,,,,,,0
+8073,8073,Princess Margaret Blvd Opposite Civic 320 (8073),,44.687133,-63.609287,,,,,,0
+8074,8074,Princess Margaret Blvd After Killkee Gate (8074),,44.689236,-63.610242,,,,,,0
+8075,8075,Princess Margaret Blvd After Windmill Rd (8075),,44.686355,-63.599434,,,,,,0
+8076,8076,Princess Margaret Blvd Before Hudson Way (8076),,44.686201,-63.603216,,,,,,0
+8077,8077,Princess Margaret Blvd Opposite Iroquois Dr (8077),,44.68602,-63.601407,,,,,,0
+8078,8078,Princess Margaret Blvd Before Windmill Rd (8078),,44.686234,-63.599637,,,,,,0
+8079,8079,Princess Margaret Blvd Before Ryan Gate (8079),,44.686338,-63.606986,,,,,,0
+8080,8080,Purcells Cove Rd After Civic 2310 (8080),,44.622376,-63.584898,,,,,,0
+8081,8081,Purcells Cove Rd After Colindale St (8081),,44.630328,-63.60892,,,,,,0
+8082,8082,Purcells Cove Rd Opposite Civic 2310 (8082),,44.62206,-63.584462,,,,,,0
+8083,8083,Purcells Cove Rd At Braeburn Rd (8083),,44.63618,-63.619932,,,,,,0
+8084,8084,Purcells Cove Rd At Ferguson Cove Rd (8084),,44.606734,-63.563536,,,,,,0
+8086,8086,Purcells Cove Rd After Anchor Dr (8086),,44.637237,-63.619703,,,,,,0
+8087,8087,Purcells Cove Rd After Halls Rd (8087),,44.622724,-63.58933,,,,,,0
+8088,8088,Purcells Cove Rd After Halls Rd (8088),,44.62302,-63.589942,,,,,,0
+8089,8089,Purcells Cove Rd After Herring Cove Rd (8089),,44.637525,-63.619654,,,,,,0
+8090,8090,Purcells Cove Rd After Inverness Ave (8090),,44.628406,-63.607624,,,,,,0
+8091,8091,Purcells Cove Rd After Litchfield Cr (8091),,44.623171,-63.597961,,,,,,0
+8092,8092,Purcells Cove Rd After Wenlock Grv (8092),,44.623647,-63.594965,,,,,,0
+8093,8093,Purcells Cove Rd After Williams Lake Rd (8093),,44.623358,-63.600985,,,,,,0
+8094,8094,Purcells Cove Rd After Aarons Way (8094),,44.597226,-63.557133,,,,,,0
+8095,8095,Purcells Cove Rd At St Cecelia Dr (8095),,44.612965,-63.575151,,,,,,0
+8096,8096,Purcells Cove Rd At Melvin Rd (8096),,44.618251,-63.577926,,,,,,0
+8097,8097,Purcells Cove Rd Before Colindale St (8097),,44.630288,-63.60879,,,,,,0
+8098,8098,Purcells Cove Rd At Civic 1162 (8098),,44.634194,-63.618356,,,,,,0
+8099,8099,Purcells Cove Rd After Ramsgate Ln (8099),,44.633183,-63.610613,,,,,,0
+8100,8100,Purcells Cove Rd Opposite Pinehaven Dr (8100),,44.632548,-63.609659,,,,,,0
+8101,8101,Purcells Cove Rd At Rosborough Loop (8101),,44.634254,-63.618669,,,,,,0
+8102,8102,Purcells Cove Rd At Civic 2903 (8102),,44.609732,-63.572465,,,,,,0
+8103,8103,Purcells Cove Rd At Civic 2907 (8103),,44.609505,-63.572158,,,,,,0
+8104,8104,Purcells Cove Rd After Battery Dr (8104),,44.608835,-63.568555,,,,,,0
+8105,8105,Purcells Cove Rd Opposite Civic 3101 (8105),,44.607638,-63.566181,,,,,,0
+8106,8106,Purcells Cove Rd At Civic 3081 (8106),,44.607706,-63.567057,,,,,,0
+8107,8107,Purcells Cove Rd Before Sailboat Ln (8107),,44.633768,-63.614977,,,,,,0
+8108,8108,Purcells Cove Rd At Civic 2372 (8108),,44.620862,-63.582654,,,,,,0
+8109,8109,Purcells Cove Rd Before Battery Dr (8109),,44.608701,-63.568553,,,,,,0
+8110,8110,Purcells Cove Rd Before Country Cr (8110),,44.600368,-63.560246,,,,,,0
+8111,8111,Purcells Cove Rd Before Homestead Rd (8111),,44.600331,-63.560188,,,,,,0
+8112,8112,Purcells Cove Rd Before Keefe Dr (8112),,44.6128,-63.575142,,,,,,0
+8113,8113,Purcells Cove Rd Opposite Melvin Rd (8113),,44.618432,-63.578052,,,,,,0
+8114,8114,Purcells Cove Rd Before Oceanview Dr (8114),,44.615238,-63.577681,,,,,,0
+8115,8115,Purcells Cove Rd Before Rocklyn Rd (8115),,44.615938,-63.577504,,,,,,0
+8116,8116,Purcells Cove Rd Before Westgate Dr (8116),,44.628336,-63.607465,,,,,,0
+8117,8117,Purcells Cove Rd Before Aarons Way (8117),,44.597271,-63.557254,,,,,,0
+8118,8118,Purcells Cove Rd After Dingle Rd (8118),,44.631552,-63.608679,,,,,,0
+8119,8119,Purcells Cove Rd After Williams Lake Rd (8119),,44.623968,-63.602082,,,,,,0
+8120,8120,Purcells Cove Rd After Albion Rd (8120),,44.623217,-63.59939,,,,,,0
+8121,8121,Purcells Cove Rd Before Wenlock Grv (8121),,44.6238,-63.594775,,,,,,0
+8122,8122,Purcells Cove Rd After Sailboat Ln (8122),,44.633848,-63.615219,,,,,,0
+8123,8123,Purcells Cove Rd Opposite Devil's Hill Rd (8123),,44.601536,-63.561583,,,,,,0
+8124,8124,Purcells Cove Rd Opposite Ferguson Cove Rd (8124),,44.606806,-63.563599,,,,,,0
+8125,8125,Purcells Cove Rd Opposite Civic 2372 (8125),,44.620727,-63.582619,,,,,,0
+8126,8126,Quarry Rd Before St Margarets Bay Rd (8126),,44.636439,-63.631358,,,,,,0
+8127,8127,Windmill Rd After Lyle St (8127),,44.667594,-63.581027,,,,,,0
+8128,8128,Beaver Bank Rd After Birch Rd (8128),,44.864291,-63.689024,,,,,,0
+8129,8129,Beaver Bank Rd After Birch Rd (8129),,44.864846,-63.689292,,,,,,0
+8132,8132,Quinpool Rd After Herring Cove Rd (8132),,44.641409,-63.619517,,,,,,0
+8133,8133,Quinpool Rd Before Beech St (8133),,44.643863,-63.602398,,,,,,0
+8134,8134,Quinpool Rd Before Beech St (8134),,44.644166,-63.601924,,,,,,0
+8135,8135,Quinpool Rd After Connaught Ave (8135),,44.643413,-63.603978,,,,,,0
+8136,8136,Quinpool Rd After Oxford St (8136),,44.644606,-63.599971,,,,,,0
+8137,8137,Quinpool Rd After Oxford St (8137),,44.644475,-63.600693,,,,,,0
+8138,8138,Quinpool Rd After Quingate Pl (8138),,44.646242,-63.594602,,,,,,0
+8139,8139,Quinpool Rd At Civic 7137 (8139),,44.641355,-63.616819,,,,,,0
+8146,8146,Quinpool Rd Before Poplar St (8146),,44.643565,-63.603819,,,,,,0
+8147,8147,Quinpool Rd After Preston St (8147),,44.645305,-63.59757,,,,,,0
+8148,8148,Quinpool Rd At Preston St (8148),,44.645382,-63.597708,,,,,,0
+8149,8149,Quinpool Rd Before Vernon St (8149),,44.646223,-63.594229,,,,,,0
+8150,8150,Quinpool Rd Before Windsor St (8150),,44.646925,-63.591706,,,,,,0
+8153,8153,Quinpool Rd At Civic 7111 (8153),,44.641174,-63.616329,,,,,,0
+8156,8156,Radcliffe Dr Before Dunbrack St (8156),,44.665486,-63.659427,,,,,,0
+8157,8157,Radcliffe Dr Before Stockleigh Pl (8157),,44.664925,-63.664581,,,,,,0
+8159,8159,Radcliffe Dr Before Barkton Ln (8159),,44.665798,-63.661221,,,,,,0
+8160,8160,Raymoor Dr After Strath Ln (8160),,44.687218,-63.535945,,,,,,0
+8161,8161,Raymoor Dr At Civic 22 (8161),,44.685599,-63.533318,,,,,,0
+8162,8162,Raymoor Dr Before Main St (8162),,44.684334,-63.531604,,,,,,0
+8165,8165,Northridge Rd Turning Loop (8165),,44.671931,-63.616193,,,,,,0
+8166,8166,Ridgevalley Rd After Cavendish Rd (8166),,44.628841,-63.61989,,,,,,0
+8167,8167,Ridgevalley Rd After Limerick Rd (8167),,44.630043,-63.621342,,,,,,0
+8168,8168,Ridgevalley Rd Before Bromley Rd (8168),,44.629881,-63.621131,,,,,,0
+8169,8169,Ridgevalley Rd Before Highfield St (8169),,44.627978,-63.619029,,,,,,0
+8170,8170,Riverview Cr At Civic 46 (8170),,44.741652,-63.651038,,,,,,0
+8173,8173,Riverview Cr After Rockmanor Dr (8173),,44.743413,-63.650716,,,,,,0
+8174,8174,Riverview Cr Before Rockmanor Dr (8174),,44.740246,-63.650413,,,,,,0
+8176,8176,Robert Burns Dr After Brule St (8176),,44.683093,-63.586467,,,,,,0
+8177,8177,Robert Burns Dr After Primrose St (8177),,44.682807,-63.585822,,,,,,0
+8178,8178,Robie St After Charles St (8178),,44.653156,-63.593691,,,,,,0
+8179,8179,Robie St After Veterans Memorial Ln (8179),,44.644321,-63.588787,,,,,,0
+8181,8181,Robie St After North St (8181),,44.654875,-63.595067,,,,,,0
+8182,8182,Robie St After May St (8182),,44.656036,-63.596827,,,,,,0
+8183,8183,Robie St After Pepperell St (8183),,44.646221,-63.589963,,,,,,0
+8184,8184,Robie St After Quinpool Rd (8184),,44.648023,-63.590724,,,,,,0
+8185,8185,Robie St After Spring Garden Rd (8185),,44.640721,-63.586908,,,,,,0
+8186,8186,Robie St After Coburg Rd (8186),,44.639726,-63.586655,,,,,,0
+8187,8187,Robie St After University Ave (8187),,44.638643,-63.58584,,,,,,0
+8188,8188,Robie St After University Ave (8188),,44.637772,-63.58556,,,,,,0
+8190,8190,Robie St After Welsford St (8190),,44.648601,-63.591242,,,,,,0
+8192,8192,Robie St After Young St (8192),,44.660017,-63.60274,,,,,,0
+8193,8193,Robie St After Young St (8193),,44.658966,-63.601332,,,,,,0
+8194,8194,Robie St Before Bliss St (8194),,44.6416,-63.587585,,,,,,0
+8195,8195,Robie St After Jubilee Rd (8195),,44.643169,-63.588383,,,,,,0
+8196,8196,Robie St Before Cedar St (8196),,44.644707,-63.589199,,,,,,0
+8197,8197,Robie St Before Stairs St (8197),,44.661677,-63.605234,,,,,,0
+8199,8199,Damascus Rd After Verdi Dr (8199),,44.75,-63.640805,,,,,,0
+8200,8200,Damascus Rd Before Verdi Dr (8200),,44.750128,-63.640375,,,,,,0
+8201,8201,Robie St Before Almon St (8201),,44.657172,-63.598437,,,,,,0
+8202,8202,Robie St Before Almon St (8202),,44.657551,-63.599255,,,,,,0
+8203,8203,Robie St Before Cabot St (8203),,44.663761,-63.608347,,,,,,0
+8204,8204,Robie St Before Cabot St (8204),,44.663158,-63.607869,,,,,,0
+8205,8205,Robie St After Cunard St (8205),,44.650399,-63.592239,,,,,,0
+8206,8206,Robie St Before Cunard St (8206),,44.650119,-63.591777,,,,,,0
+8207,8207,Robie St Before Wells St (8207),,44.664405,-63.609408,,,,,,0
+8208,8208,Robie St Before Lady Hammond Rd (8208),,44.665556,-63.611028,,,,,,0
+8209,8209,Robie St Before Livingstone St (8209),,44.660953,-63.604352,,,,,,0
+8210,8210,Robie St Before May St (8210),,44.656092,-63.596762,,,,,,0
+8211,8211,Robie St Before Normandy Dr (8211),,44.666625,-63.612566,,,,,,0
+8212,8212,Robie St Before Normandy Dr (8212),,44.667046,-63.613077,,,,,,0
+8213,8213,Robie St Before North St (8213),,44.654975,-63.595453,,,,,,0
+8214,8214,Robie St Before Quinpool Rd (8214),,44.647653,-63.59073,,,,,,0
+8215,8215,Robie St Before Russell St (8215),,44.658753,-63.600841,,,,,,0
+8217,8217,Robie St Before Stanley St (8217),,44.661961,-63.605678,,,,,,0
+8218,8218,Robie St Before Young St (8218),,44.660077,-63.602985,,,,,,0
+8219,8219,Robie St Opposite Binney St (8219),,44.642355,-63.587838,,,,,,0
+8220,8220,Robie St After South St (8220),,44.636894,-63.584964,,,,,,0
+8221,8221,Robie St After West St (8221),,44.651793,-63.592814,,,,,,0
+8222,8222,Robie St After Charles St (8222),,44.653588,-63.594017,,,,,,0
+8223,8223,Robie St Before Quinpool Rd (8223),,44.646278,-63.589799,,,,,,0
+8225,8225,Robie St After South St (8225),,44.636165,-63.584831,,,,,,0
+8226,8226,Rockmanor Dr After Redbank Rd (8226),,44.738846,-63.651363,,,,,,0
+8227,8227,Rockmanor Dr After Rocky Lake Dr (8227),,44.737943,-63.651813,,,,,,0
+8228,8228,Rockmanor Dr Before Rocky Lake Dr (8228),,44.737902,-63.651864,,,,,,0
+8229,8229,Rockmanor Dr At Civic 125 (8229),,44.74148,-63.648928,,,,,,0
+8230,8230,Rockmanor Dr After Riverview Cr (8230),,44.7399,-63.650149,,,,,,0
+8231,8231,Rockingstone Rd At Civic 25 (8231),,44.608259,-63.623302,,,,,,0
+8232,8232,Rockingstone Rd At Civic 26 (8232),,44.608002,-63.623104,,,,,,0
+8238,8238,James St After St Margarets Bay Rd (8238),,44.659709,-63.740765,,,,,,0
+8239,8239,James St Before St Margarets Bay Rd (8239),,44.65968,-63.740694,,,,,,0
+8240,8240,Ronald Smith Ave After Burnside Dr (8240),,44.699146,-63.585006,,,,,,0
+8241,8241,Ronald Smith Ave After Ilsley Ave (8241),,44.699077,-63.584748,,,,,,0
+8242,8242,Rosedale Ave At Civic 34 (8242),,44.654179,-63.635081,,,,,,0
+8243,8243,Rosedale Ave Before Dutch Village Rd (8243),,44.655161,-63.632988,,,,,,0
+8244,8244,Rosedale Ave At Civic 23 (8244),,44.654602,-63.634384,,,,,,0
+8245,8245,Rosedale Ave After Dutch Village Rd (8245),,44.655313,-63.632917,,,,,,0
+8246,8246,Rosedale Ave After Hillcrest St (8246),,44.651702,-63.640892,,,,,,0
+8247,8247,Rosedale Ave Before Hillcrest St (8247),,44.652421,-63.639182,,,,,,0
+8248,8248,Rosedale Ave Before Alex St (8248),,44.653064,-63.637506,,,,,,0
+8249,8249,Rosedale Ave After Alex St (8249),,44.653047,-63.637797,,,,,,0
+8250,8250,Rosedale Ave At Hillcrest St (8250),,44.651751,-63.640492,,,,,,0
+8253,8253,Russell Lake Dr After Hillview Dr (8253),,44.663775,-63.52068,,,,,,0
+8254,8254,Russell Lake Dr After Eisener Dr (8254),,44.666527,-63.520738,,,,,,0
+8255,8255,Russell Lake Dr At Civic 2 (8255),,44.662264,-63.518401,,,,,,0
+8256,8256,Russell Lake Dr Before Eisener Dr (8256),,44.666416,-63.520803,,,,,,0
+8257,8257,Russell Lake Dr Before Georgian Ct (8257),,44.662327,-63.51949,,,,,,0
+8258,8258,Russell Lake Dr At Civic 50 (8258),,44.663583,-63.520493,,,,,,0
+8259,8259,Sackville Dr Opposite Civic 745 (8259),,44.772137,-63.69165,,,,,,0
+8261,8261,Quinpool Rd Before Windsor St (8261),,44.647212,-63.591228,,,,,,0
+8262,8262,Scot St Before Desmond Ave (8262),,44.656425,-63.628106,,,,,,0
+8263,8263,Sea King Dr After Lancaster Dr (8263),,44.687187,-63.572207,,,,,,0
+8264,8264,Sea King Dr After Ernest Ave (8264),,44.68587,-63.575734,,,,,,0
+8265,8265,Sea King Dr Before Lancaster Dr (8265),,44.686831,-63.572505,,,,,,0
+8266,8266,Sea King Dr Before Ernest Ave (8266),,44.685914,-63.575565,,,,,,0
+8267,8267,Sherwood St Before Carlisle Dr (8267),,44.648057,-63.47631,,,,,,0
+8268,8268,Sherwood St Opposite Woodbury Dr (8268),,44.6477,-63.478642,,,,,,0
+8269,8269,Shore Rd Before Shoreview Dr (8269),,44.60451,-63.477857,,,,,,0
+8270,8270,Shore Rd After Oceanlea Dr (8270),,44.606348,-63.482953,,,,,,0
+8271,8271,Shore Rd After Romkey Dr (8271),,44.6037,-63.474029,,,,,,0
+8273,8273,Shore Rd Before Romkey Dr (8273),,44.602622,-63.471548,,,,,,0
+8274,8274,Shore Rd Before Himmelman Dr (8274),,44.601259,-63.469157,,,,,,0
+8275,8275,Shore Rd Before Francis Dr (8275),,44.60994,-63.492576,,,,,,0
+8276,8276,Shore Rd After Normans Ln (8276),,44.607185,-63.489864,,,,,,0
+8277,8277,Shore Rd Before Normans Ln (8277),,44.606185,-63.48811,,,,,,0
+8278,8278,Shrewsbury Rd After Huntingdon Dr (8278),,44.650723,-63.480913,,,,,,0
+8279,8279,Shrewsbury Rd Before Sherwood St (8279),,44.649083,-63.482139,,,,,,0
+8280,8280,Simmonds Rd After North Preston Rd (8280),,44.746218,-63.465123,,,,,,0
+8281,8281,Simmonds Rd Before North Preston Rd (8281),,44.74622,-63.465001,,,,,,0
+8282,8282,Simmonds Rd At Community Centre (8282),,44.745717,-63.467065,,,,,,0
+8284,8284,Sinclair St Before Highwood St (8284),,44.674466,-63.558841,,,,,,0
+8285,8285,Sinclair St After Prince Albert Rd (8285),,44.677976,-63.555343,,,,,,0
+8286,8286,Sinclair St After Highwood St (8286),,44.674511,-63.558855,,,,,,0
+8287,8287,Somerset St Before Centre St (8287),,44.677043,-63.542706,,,,,,0
+8288,8288,Somerset St Before Glenwood Ave (8288),,44.675263,-63.544608,,,,,,0
+8289,8289,Somerset St Before Berkley Brae (8289),,44.675026,-63.544842,,,,,,0
+8290,8290,Somerset St Before Penhorn Dr (8290),,44.676979,-63.54267,,,,,,0
+8291,8291,South St Before Studley Ave (8291),,44.634767,-63.592483,,,,,,0
+8292,8292,South St After Queen St (8292),,44.638978,-63.574528,,,,,,0
+8293,8293,South St Before Barrington St (8293),,44.639745,-63.571706,,,,,,0
+8294,8294,South St Before Church St (8294),,44.639517,-63.572408,,,,,,0
+8295,8295,South St After South Park St (8295),,44.638571,-63.576398,,,,,,0
+8296,8296,South St After Robie St (8296),,44.63667,-63.584148,,,,,,0
+8297,8297,South St Before Robie St (8297),,44.636912,-63.583584,,,,,,0
+8298,8298,South St Before I.W.K Hospital (8298),,44.637272,-63.581767,,,,,,0
+8299,8299,South St Before Queen St (8299),,44.639108,-63.574419,,,,,,0
+8300,8300,South St Before South Park St (8300),,44.638383,-63.577097,,,,,,0
+8301,8301,South St Before Tower Rd (8301),,44.637966,-63.578573,,,,,,0
+8302,8302,South St Opposite Cartaret St (8302),,44.635699,-63.588635,,,,,,0
+8303,8303,South St Opposite I.W.K Hospital (8303),,44.637292,-63.581961,,,,,,0
+8304,8304,South St After Studley Ave (8304),,44.634841,-63.592528,,,,,,0
+8305,8305,South St Before Tower Rd (8305),,44.637886,-63.579562,,,,,,0
+8306,8306,South Park St After Fenwick St (8306),,44.637319,-63.577371,,,,,,0
+8307,8307,South Park St After South St (8307),,44.638422,-63.577813,,,,,,0
+8308,8308,South Park St After Spring Garden Rd (8308),,44.642068,-63.579735,,,,,,0
+8309,8309,South Park St After Morris St (8309),,44.640139,-63.57873,,,,,,0
+8310,8310,South Park St Before Inglis St (8310),,44.634902,-63.57627,,,,,,0
+8311,8311,South Park St Before South St (8311),,44.638299,-63.577955,,,,,,0
+8312,8312,South Park St Before Spring Garden Rd (8312),,44.64209,-63.579623,,,,,,0
+8313,8313,South Park St Before University Ave (8313),,44.640212,-63.578952,,,,,,0
+8314,8314,South Park St Before Victoria Rd (8314),,44.635673,-63.576588,,,,,,0
+8315,8315,South Park St After Fenwick St (8315),,44.636894,-63.577252,,,,,,0
+8316,8316,South St After Cartaret St (8316),,44.635758,-63.588387,,,,,,0
+8317,8317,South St Before Edward St (8317),,44.636318,-63.58585,,,,,,0
+8318,8318,Spikenard St Before Farquharson St (8318),,44.680888,-63.528497,,,,,,0
+8319,8319,Spikenard St Before Valleyfield Rd (8319),,44.679663,-63.533601,,,,,,0
+8320,8320,Spikenard St After Farquharson St (8320),,44.680911,-63.528425,,,,,,0
+8321,8321,Spikenard St Before Weyburn Rd (8321),,44.680508,-63.530544,,,,,,0
+8323,8323,Spikenard St Before Louisburg Ln (8323),,44.680257,-63.531533,,,,,,0
+8324,8324,Spring Ave Before Grandview Dr (8324),,44.675677,-63.516659,,,,,,0
+8325,8325,Spring Ave Before Pembroke Ct (8325),,44.672206,-63.518036,,,,,,0
+8326,8326,Spring Ave After Dorothea Dr (8326),,44.676126,-63.516856,,,,,,0
+8327,8327,Spring Garden Rd After Queen St (8327),,44.6435,-63.575384,,,,,,0
+8328,8328,Spring Garden Rd Before Carlton St (8328),,44.640694,-63.585578,,,,,,0
+8329,8329,Spring Garden Rd Before Carlton St (8329),,44.64098,-63.584834,,,,,,0
+8330,8330,Spring Garden Rd Before Dresden Row (8330),,44.643001,-63.577546,,,,,,0
+8331,8331,Spring Garden Rd Before Queen St (8331),,44.643423,-63.57567,,,,,,0
+8332,8332,Spring Garden Rd Before Robie St (8332),,44.640529,-63.586475,,,,,,0
+8333,8333,Spring Garden Rd Before South Park St (8333),,44.642144,-63.580006,,,,,,0
+8334,8334,Spring Garden Rd Before South Park St (8334),,44.642487,-63.579346,,,,,,0
+8335,8335,Spring Garden Rd Before Summer St (8335),,44.641453,-63.583128,,,,,,0
+8336,8336,Spring Garden Rd After Dresden Row (8336),,44.642985,-63.57737,,,,,,0
+8337,8337,Spring Garden Rd After Summer St (8337),,44.64138,-63.582888,,,,,,0
+8338,8338,Spring Garden Rd Before Barrington St (8338),,44.64413,-63.573214,,,,,,0
+8339,8339,Spring Ave Before Ellenvale Ave (8339),,44.677157,-63.51748,,,,,,0
+8340,8340,Springfield Ave After Sackville Dr (8340),,44.799535,-63.737471,,,,,,0
+8341,8341,Springfield Ave Before Sackville Dr (8341),,44.799405,-63.737424,,,,,,0
+8342,8342,Springfield Ave After Elcona Ave (8342),,44.796976,-63.73972,,,,,,0
+8343,8343,Springvale Ave Before Winter St (8343),,44.64475,-63.637285,,,,,,0
+8344,8344,Springvale Ave Before Joseph Howe Dr (8344),,44.646766,-63.630722,,,,,,0
+8345,8345,Springvale Ave After Joseph Howe Dr (8345),,44.646885,-63.630352,,,,,,0
+8346,8346,Springvale Ave Before Arlington Ave (8346),,44.646512,-63.632501,,,,,,0
+8347,8347,Springvale Ave After Winter St (8347),,44.645744,-63.635186,,,,,,0
+8348,8348,Springvale Ave Before Winter St (8348),,44.645717,-63.635184,,,,,,0
+8349,8349,St Pauls Ave Before Hebridean Dr (8349),,44.571035,-63.561969,,,,,,0
+8350,8350,St Pauls St  Before Vestry St (8350),,44.669568,-63.607633,,,,,,0
+8351,8351,Starboard Dr After Brigadier Ct (8351),,44.697526,-63.666988,,,,,,0
+8352,8352,Starboard Dr Before Larry Uteck Blvd (8352),,44.697516,-63.666784,,,,,,0
+8353,8353,Stokil Dr After Beaver Bank Rd (8353),,44.78981,-63.690652,,,,,,0
+8354,8354,Stokil Dr After Grennan Dr (8354),,44.787703,-63.687832,,,,,,0
+8355,8355,Stokil Dr After Sampson Dr (8355),,44.785688,-63.68579,,,,,,0
+8356,8356,Stokil Dr After Grennan Dr (8356),,44.788211,-63.68814,,,,,,0
+8357,8357,Stokil Dr Before Beaver Bank Rd (8357),,44.78958,-63.690081,,,,,,0
+8358,8358,Stokil Dr Before Smokey Dr (8358),,44.786106,-63.686427,,,,,,0
+8359,8359,Stokil Dr Before Spinner Cr (8359),,44.78399,-63.682017,,,,,,0
+8360,8360,Stokil Dr Opposite Saratoga Dr (8360),,44.783977,-63.681428,,,,,,0
+8361,8361,Stonehaven Rd Before Glenmore Ave (8361),,44.635173,-63.629919,,,,,,0
+8363,8363,Summer St After Bell Rd (8363),,44.645812,-63.585765,,,,,,0
+8364,8364,Summer St Before Bell Rd (8364),,44.646125,-63.585793,,,,,,0
+8365,8365,Summer St After Veterans Memorial Ln (8365),,44.644664,-63.585038,,,,,,0
+8366,8366,Susie Lake Cr Before Chain Lake Dr (8366),,44.645864,-63.674374,,,,,,0
+8367,8367,Susie Lake Cr After Chain Lake Dr (8367),,44.646055,-63.674432,,,,,,0
+8370,8370,Tamarack Dr After Medina Ct (8370),,44.629964,-63.62874,,,,,,0
+8371,8371,Tamarack Dr After Mountain Rd (8371),,44.628466,-63.627466,,,,,,0
+8372,8372,Tamarack Dr Opposite Medina Ct (8372),,44.629654,-63.628543,,,,,,0
+8373,8373,Tamarack Dr Before Mountain Rd (8373),,44.628395,-63.627487,,,,,,0
+8375,8375,Taranaki Dr After Karen Dr (8375),,44.694624,-63.494436,,,,,,0
+8376,8376,Taranaki Dr After Greely Ct (8376),,44.691993,-63.493612,,,,,,0
+8377,8377,Taranaki Dr Before Greely Ct (8377),,44.692088,-63.493751,,,,,,0
+8378,8378,Taranaki Dr Before Forest Hills Pky (8378),,44.690847,-63.493927,,,,,,0
+8379,8379,Taranaki Dr At Civic 194 (8379),,44.693504,-63.494638,,,,,,0
+8380,8380,Taranaki Dr After Forest Hill Pky (8380),,44.690807,-63.494037,,,,,,0
+8381,8381,Taranaki Dr Opposite Karen Dr (8381),,44.694648,-63.4944,,,,,,0
+8383,8383,Thistle St After Beech St (8383),,44.674641,-63.567833,,,,,,0
+8384,8384,Thistle St After Chrichton Park Rd (8384),,44.677635,-63.565264,,,,,,0
+8385,8385,Thistle St After Maple St (8385),,44.673572,-63.569009,,,,,,0
+8386,8386,Thistle St After Mayflower St (8386),,44.675705,-63.566674,,,,,,0
+8387,8387,Thistle St Before Slayter St (8387),,44.672801,-63.569901,,,,,,0
+8388,8388,Thistle St Before Mayflower St (8388),,44.675545,-63.566857,,,,,,0
+8389,8389,Thistle St After Victoria Rd (8389),,44.67107,-63.571856,,,,,,0
+8390,8390,Thistle St Opposite Beech St (8390),,44.674559,-63.567946,,,,,,0
+8391,8391,Thistle St Before Crichton Park Rd (8391),,44.677669,-63.565073,,,,,,0
+8393,8393,Thistle St Before Victoria Rd (8393),,44.670975,-63.571915,,,,,,0
+8394,8394,Porters Lake Park & Ride (8394),,44.735084,-63.286586,,,,,,0
+8396,8396,Titus St Before Evans Ave (8396),,44.659993,-63.634733,,,,,,0
+8398,8398,Topple Dr At Civic 21 (8398),,44.714065,-63.605954,,,,,,0
+8399,8399,Topple Dr Before Vidito Dr (8399),,44.712077,-63.608005,,,,,,0
+8400,8400,Topsail Blvd After Plaza Dr (8400),,44.682673,-63.514023,,,,,,0
+8401,8401,Tower Rd After Rogers Dr (8401),,44.629538,-63.577351,,,,,,0
+8402,8402,Tower Rd After Atlantic St (8402),,44.631569,-63.577933,,,,,,0
+8403,8403,Tower Rd At Atlantic St (8403),,44.631508,-63.577861,,,,,,0
+8404,8404,Tower Rd At Harbourview Dr (8404),,44.627885,-63.576117,,,,,,0
+8405,8405,Tower Rd At Ogilvie St (8405),,44.626951,-63.575219,,,,,,0
+8406,8406,Tower Rd Before Point Pleasant Dr (8406),,44.62637,-63.574698,,,,,,0
+8407,8407,Tower Rd Opposite Harbourview Dr (8407),,44.628038,-63.576323,,,,,,0
+8408,8408,Tower Rd Before Inglis St (8408),,44.633229,-63.57811,,,,,,0
+8409,8409,Tower Rd At Tower Rd Turning Loop (8409),,44.625848,-63.574319,,,,,,0
+8410,8410,University Ave Before Summer St (8410),,44.639227,-63.581943,,,,,,0
+8411,8411,University Ave After Summer St (8411),,44.639085,-63.581909,,,,,,0
+8412,8412,Upper Water St Before Purdys Ln (8412),,44.651486,-63.57524,,,,,,0
+8413,8413,Upper Water St After Valour Way (8413),,44.653519,-63.579449,,,,,,0
+8414,8414,Upper Water St Before Valour Way (8414),,44.654298,-63.579958,,,,,,0
+8415,8415,Flamingo Dr After Oriole St (8415),,44.672842,-63.652358,,,,,,0
+8416,8416,Valleyfield Rd After Oakwood Ave (8416),,44.679362,-63.53459,,,,,,0
+8418,8418,Victoria Rd After Albro Lake Rd (8418),,44.679889,-63.584694,,,,,,0
+8419,8419,Victoria Rd After Boland Rd (8419),,44.675243,-63.577294,,,,,,0
+8420,8420,Victoria Rd Before Chappell St (8420),,44.678789,-63.583014,,,,,,0
+8421,8421,Victoria Rd After Chappell St (8421),,44.678699,-63.583022,,,,,,0
+8422,8422,Victoria Rd After Farrell St (8422),,44.6805,-63.586216,,,,,,0
+8424,8424,Victoria Rd Before Frances St (8424),,44.676258,-63.578889,,,,,,0
+8425,8425,Victoria Rd After Symonds St (8425),,44.677656,-63.581242,,,,,,0
+8426,8426,Victoria Rd Before Primrose St (8426),,44.680859,-63.586513,,,,,,0
+8428,8428,Victoria Rd Before Vanessa Dr (8428),,44.676398,-63.578938,,,,,,0
+8429,8429,Victoria Rd After Nantucket Ave (8429),,44.67302,-63.573665,,,,,,0
+8431,8431,Downsview Dr After Quinella Ct (8431),,44.770173,-63.696553,,,,,,0
+8432,8432,Downsview Dr Before Old Sackville Rd (8432),,44.770379,-63.69678,,,,,,0
+8433,8433,Downsview Plaza After Sackville Dr (8433),,44.771377,-63.692773,,,,,,0
+8435,8435,Water St Terminal (8435),,44.64964,-63.573103,,,,10010,,0
+8436,8436,Braemar Dr At Sutherland Terr (8436),,44.688614,-63.546706,,,,,,0
+8437,8437,Waverley Rd At Civic 739 (8437),,44.724322,-63.542322,,,,,,0
+8438,8438,Waverley Rd After Civic 922 (8438),,44.734928,-63.54951,,,,,,0
+8439,8439,Waverley Rd After Civic 929 (8439),,44.734681,-63.549711,,,,,,0
+8440,8440,Waverley Rd After Lethbridge Ave (8440),,44.70508,-63.549298,,,,,,0
+8441,8441,Waverley Rd Before Montebello Dr (8441),,44.698688,-63.547678,,,,,,0
+8442,8442,Waverley Rd After Micmac Dr (8442),,44.693956,-63.546811,,,,,,0
+8443,8443,Waverley Rd At Civic 867 (8443),,44.731097,-63.549554,,,,,,0
+8444,8444,Waverley Rd After Lakewood Ct (8444),,44.717522,-63.54529,,,,,,0
+8445,8445,Waverley Rd Before Charles Keating Dr (8445),,44.726955,-63.541987,,,,,,0
+8446,8446,Waverley Rd Before Breeze Dr (8446),,44.708972,-63.548297,,,,,,0
+8447,8447,Waverley Rd Before Mountbatten Ave (8447),,44.701247,-63.548232,,,,,,0
+8448,8448,Waverley Rd Before Micmac Dr (8448),,44.694122,-63.547045,,,,,,0
+8449,8449,Waverley Rd Before Spider Lake Rd (8449),,44.738427,-63.554516,,,,,,0
+8450,8450,Waverley Rd After Boutiliers Ln (8450),,44.695571,-63.547472,,,,,,0
+8451,8451,Waverley Rd After Crest Dr (8451),,44.705092,-63.549213,,,,,,0
+8452,8452,Waverley Rd After Breeze Dr (8452),,44.708989,-63.548313,,,,,,0
+8453,8453,Waverley Rd Opposite Hemlock St (8453),,44.711485,-63.547421,,,,,,0
+8454,8454,Waverley Rd Before Civic 409 (8454),,44.714964,-63.545467,,,,,,0
+8455,8455,Waverley Rd After Twilight Ln (8455),,44.719903,-63.545153,,,,,,0
+8456,8456,Waverley Rd At Civic 730 (8456),,44.724456,-63.542104,,,,,,0
+8457,8457,Waverley Rd Before Montague Rd (8457),,44.726134,-63.541642,,,,,,0
+8458,8458,Waverley Rd After Lake Charles Dr (8458),,44.728825,-63.545335,,,,,,0
+8459,8459,Waverley Rd At Turning Loop (8459),,44.743193,-63.559871,,,,,,0
+8460,8460,Braemar Dr After Braeside Ct (8460),,44.686319,-63.547233,,,,,,0
+8461,8461,Waverley Rd Before Civic 1053 (8461),,44.74097,-63.557202,,,,,,0
+8462,8462,Waverley Rd After Mountbatten Ave (8462),,44.701672,-63.548284,,,,,,0
+8463,8463,Waverley Rd Before Applewood Ln (8463),,44.719148,-63.545461,,,,,,0
+8464,8464,Waverley Rd At Lake Charles Dr (8464),,44.728721,-63.5453,,,,,,0
+8465,8465,Waverley Rd Before Montebello Dr (8465),,44.698212,-63.547684,,,,,,0
+8466,8466,Waverley Rd After Creelman Dr (8466),,44.691407,-63.546132,,,,,,0
+8467,8467,Waverley Rd After Spider Lake Rd (8467),,44.738523,-63.554669,,,,,,0
+8468,8468,Waverley Rd Before Ellis Ct (8468),,44.696002,-63.547473,,,,,,0
+8469,8469,Waverley Rd Opposite Civic 867 (8469),,44.73109,-63.549432,,,,,,0
+8470,8470,Waverley Rd Opposite Civic 1053 (8470),,44.740908,-63.55725,,,,,,0
+8471,8471,Waverley Rd Before Hemlock St (8471),,44.710719,-63.54733,,,,,,0
+8472,8472,Waverley Rd After Garden Ct (8472),,44.718002,-63.545227,,,,,,0
+8473,8473,Waverley Rd After Craigburn Dr (8473),,44.722069,-63.543761,,,,,,0
+8474,8474,Waverley Rd After Craigburn Dr (8474),,44.723191,-63.542815,,,,,,0
+8476,8476,Waverley Rd At Civic 408 (8476),,44.714903,-63.545476,,,,,,0
+8477,8477,Waverley Rd After Rocklin Dr (8477),,44.721542,-63.543976,,,,,,0
+8482,8482,Weyburn Rd Before Spikenard St (8482),,44.6808,-63.53114,,,,,,0
+8483,8483,Weyburn Rd After Main St (8483),,44.683614,-63.532364,,,,,,0
+8484,8484,Weyburn Rd Before Athabaskan Ln (8484),,44.682198,-63.531726,,,,,,0
+8485,8485,Wildwood Blvd After Roslyn Dr (8485),,44.682718,-63.497736,,,,,,0
+8486,8486,Wildwood Blvd Before Roslyn Dr (8486),,44.682344,-63.49774,,,,,,0
+8487,8487,Wildwood Blvd Before Gregory Dr (8487),,44.684418,-63.498422,,,,,,0
+8488,8488,Willett St After Chadwick Pl (8488),,44.660274,-63.65638,,,,,,0
+8489,8489,Willett St After Chelsea Ln (8489),,44.657351,-63.652084,,,,,,0
+8490,8490,Willett St After Coronation Ave (8490),,44.651994,-63.645017,,,,,,0
+8491,8491,Willett St After Dunbrack St (8491),,44.657626,-63.652573,,,,,,0
+8492,8492,Willett St After Glenforest Dr (8492),,44.656667,-63.649452,,,,,,0
+8493,8493,Willett St After Main Ave (8493),,44.653849,-63.64662,,,,,,0
+8494,8494,Willett St After Main Ave (8494),,44.654638,-63.647216,,,,,,0
+8495,8495,Willett St Opposite Glenforest Dr (8495),,44.656289,-63.648942,,,,,,0
+8496,8496,Willett St Before Chadwick Pl (8496),,44.659986,-63.656014,,,,,,0
+8497,8497,Willett St Before Harlington Cr (8497),,44.65815,-63.654228,,,,,,0
+8498,8498,Willett St Before Adelaide Ave (8498),,44.652622,-63.645473,,,,,,0
+8499,8499,Willett St Before Apollo Ct (8499),,44.655208,-63.647804,,,,,,0
+8500,8500,Willett St Before Frederick Ave (8500),,44.650768,-63.643876,,,,,,0
+8502,8502,Willett St After Frederick Ave (8502),,44.650841,-63.644017,,,,,,0
+8503,8503,Willett St Before Westridge Dr (8503),,44.658114,-63.654456,,,,,,0
+8505,8505,Damascus Rd At Turning Loop (8505),,44.749063,-63.647399,,,,,,0
+8506,8506,Clarence St After Cain St (8506),,44.743762,-63.466657,,,,,,0
+8507,8507,Clarence St Before Johnson Rd (8507),,44.743138,-63.468372,,,,,,0
+8508,8508,Windmill Rd After Akerley Blvd (8508),,44.703711,-63.612394,,,,,,0
+8509,8509,Windmill Rd After Albro Lake Rd (8509),,44.676097,-63.590635,,,,,,0
+8510,8510,Windmill Rd After Dawson St (8510),,44.66889,-63.582913,,,,,,0
+8511,8511,Windmill Rd Before Waddell Ave (8511),,44.687313,-63.599013,,,,,,0
+8512,8512,Windmill Rd Before Nootka Ave (8512),,44.684602,-63.598563,,,,,,0
+8513,8513,Windmill Rd After Trinity Ave (8513),,44.67957,-63.594586,,,,,,0
+8514,8514,Windmill Rd After Victoria Rd (8514),,44.695043,-63.60059,,,,,,0
+8515,8515,Windmill Rd After Wright Ave (8515),,44.698722,-63.60524,,,,,,0
+8516,8516,Windmill Rd After Parkstone Rd (8516),,44.680653,-63.595432,,,,,,0
+8517,8517,Windmill Rd After Wright Ave (8517),,44.697739,-63.604145,,,,,,0
+8518,8518,Windmill Rd At Civic 520 (8518),,44.691154,-63.599903,,,,,,0
+8519,8519,Windmill Rd Before Victoria Rd (8519),,44.693423,-63.600411,,,,,,0
+8520,8520,Windmill Rd Before Wright Ave (8520),,44.697626,-63.603655,,,,,,0
+8521,8521,Windmill Rd Before Fernhill Dr (8521),,44.682354,-63.597089,,,,,,0
+8522,8522,Windmill Rd Before Dawn Dr (8522),,44.702237,-63.60821,,,,,,0
+8523,8523,Windmill Rd Before Elmwood Ave (8523),,44.672607,-63.588845,,,,,,0
+8524,8524,Windmill Rd Before Henry St (8524),,44.671656,-63.586972,,,,,,0
+8525,8525,Windmill Rd Before Jamieson St (8525),,44.670761,-63.584117,,,,,,0
+8526,8526,Windmill Rd Before Nivens Ave (8526),,44.676438,-63.590924,,,,,,0
+8527,8527,Windmill Rd After Waddell Ave (8527),,44.687176,-63.59911,,,,,,0
+8528,8528,Windmill Rd Before Ralston Ave (8528),,44.700506,-63.606725,,,,,,0
+8529,8529,Windmill Rd Before Sunnydale Ave (8529),,44.678185,-63.592719,,,,,,0
+8530,8530,Windmill Rd Before Victoria Rd (8530),,44.694815,-63.600647,,,,,,0
+8531,8531,Windmill Rd Before Wallace St (8531),,44.674535,-63.590168,,,,,,0
+8532,8532,Windmill Rd Before Wright Ave (8532),,44.698569,-63.605412,,,,,,0
+8533,8533,Windmill Rd After Akerley Blvd (8533),,44.703185,-63.611537,,,,,,0
+8534,8534,Windmill Rd Before Nootka Ave (8534),,44.68298,-63.597397,,,,,,0
+8535,8535,Windmill Rd After Civic 520 (8535),,44.690679,-63.599942,,,,,,0
+8536,8536,Windmill Rd Before Wrights Cove Rd (8536),,44.693386,-63.600595,,,,,,0
+8537,8537,Windmill Rd Opposite Dawn Dr (8537),,44.702115,-63.608353,,,,,,0
+8538,8538,Windmill Rd Opposite Dawson St (8538),,44.668597,-63.582904,,,,,,0
+8539,8539,Windmill Rd Before Elmwood Ave (8539),,44.673196,-63.589237,,,,,,0
+8540,8540,Windmill Rd After Jamieson St (8540),,44.670962,-63.584564,,,,,,0
+8541,8541,Windmill Rd Before Parkstone Rd (8541),,44.68046,-63.595364,,,,,,0
+8542,8542,Windmill Rd Opposite Pelzant St (8542),,44.669859,-63.583495,,,,,,0
+8543,8543,Windmill Rd Before Seapoint Rd (8543),,44.700926,-63.60727,,,,,,0
+8544,8544,Windmill Rd Before Yorkshire Ave Ext (8544),,44.685221,-63.598521,,,,,,0
+8545,8545,Windmill Rd Before Bethel Ave (8545),,44.678,-63.592305,,,,,,0
+8546,8546,Windmill Rd Opposite Wallace St (8546),,44.674935,-63.590323,,,,,,0
+8547,8547,Hwy 207 Before Keating Dr (8547),,44.741032,-63.278289,,,,,,0
+8548,8548,Hwy 207 Before Keating Dr (8548),,44.740646,-63.277781,,,,,,0
+8549,8549,Windsor St After Maxwell St (8549),,44.660112,-63.61271,,,,,,0
+8550,8550,Windsor St Before Engineers Way (8550),,44.658258,-63.609395,,,,,,0
+8551,8551,Windsor St After Connaught Ave (8551),,44.660313,-63.619114,,,,,,0
+8552,8552,Windsor St After Connaught Ave (8552),,44.660653,-63.620254,,,,,,0
+8553,8553,Windsor St After Lady Hammond Rd (8553),,44.662384,-63.622312,,,,,,0
+8554,8554,Windsor St After North St (8554),,44.652531,-63.598956,,,,,,0
+8556,8556,Windsor St Before Almon St (8556),,44.654183,-63.602449,,,,,,0
+8557,8557,Windsor St Before Almon St (8557),,44.654391,-63.60308,,,,,,0
+8558,8558,Windsor St Before Charles St (8558),,44.651225,-63.596621,,,,,,0
+8559,8559,Windsor St Before Charles St (8559),,44.651498,-63.59703,,,,,,0
+8560,8560,Windsor St Before Connaught Ave (8560),,44.660433,-63.620142,,,,,,0
+8561,8561,Windsor St Before Cork St (8561),,44.656106,-63.606338,,,,,,0
+8562,8562,Windsor St Before Hood St (8562),,44.660796,-63.615791,,,,,,0
+8563,8563,Windsor St Before Lady Hammond Rd (8563),,44.661882,-63.621768,,,,,,0
+8564,8564,Windsor St Before London St (8564),,44.655097,-63.604689,,,,,,0
+8565,8565,Windsor St Before Maxwell St (8565),,44.660106,-63.612835,,,,,,0
+8566,8566,Windsor St At North St (8566),,44.652321,-63.598589,,,,,,0
+8567,8567,Windsor St Before Strawberry Hill St (8567),,44.660852,-63.615788,,,,,,0
+8569,8569,Windsor St Before Summit St (8569),,44.653254,-63.600588,,,,,,0
+8570,8570,Windsor St Opposite Connolly St (8570),,44.660402,-63.618701,,,,,,0
+8571,8571,Windsor St Before Cork St (8571),,44.655769,-63.60579,,,,,,0
+8572,8572,Windsor St Opposite London St (8572),,44.655031,-63.604403,,,,,,0
+8573,8573,Windsor St Before Hawk Terr (8573),,44.658571,-63.609965,,,,,,0
+8575,8575,Windward Ave After Lea St (8575),,44.682192,-63.511597,,,,,,0
+8576,8576,Windward Ave Before Lucien Dr (8576),,44.682106,-63.510419,,,,,,0
+8577,8577,Winter St Before Piers Ave (8577),,44.64445,-63.634813,,,,,,0
+8578,8578,Osborne St Before Sullivan Terr (8578),,44.635793,-63.622525,,,,,,0
+8579,8579,Osborne St After Sullivan Terr (8579),,44.635837,-63.622403,,,,,,0
+8580,8580,Woodland Ave After Clarke St (8580),,44.679728,-63.577008,,,,,,0
+8581,8581,Woodland Ave After Laurier St (8581),,44.681738,-63.574553,,,,,,0
+8582,8582,Woodland Ave After Laurier St (8582),,44.68206,-63.57409,,,,,,0
+8583,8583,Woodland Ave After Pine Hill Rd (8583),,44.680707,-63.575829,,,,,,0
+8584,8584,Woodland Ave After Sheridan St (8584),,44.679762,-63.577008,,,,,,0
+8585,8585,Woodland Ave After Slayter St (8585),,44.677819,-63.57945,,,,,,0
+8586,8586,Woodland Ave Before Frederick St (8586),,44.680609,-63.575879,,,,,,0
+8587,8587,Woodland Ave Before Slayter St (8587),,44.677766,-63.579372,,,,,,0
+8588,8588,Woodlawn Rd After Guysborough Ave (8588),,44.677005,-63.528087,,,,,,0
+8589,8589,Woodlawn Rd After Portland St (8589),,44.671602,-63.531825,,,,,,0
+8590,8590,Woodlawn Rd After Mt Edward Rd (8590),,44.678746,-63.525994,,,,,,0
+8591,8591,Woodlawn Rd After Day Ave (8591),,44.674102,-63.528911,,,,,,0
+8592,8592,Woodlawn Rd Before Mt Edward Rd (8592),,44.678457,-63.526135,,,,,,0
+8593,8593,Woodlawn Rd After Ellenvale Ave (8593),,44.675493,-63.528872,,,,,,0
+8594,8594,Woodlawn Rd After Main St (8594),,44.683289,-63.528849,,,,,,0
+8595,8595,Woodlawn Rd Before Belle Vista Dr (8595),,44.676967,-63.527985,,,,,,0
+8596,8596,Woodlawn Rd Before Bruce St (8596),,44.672672,-63.531389,,,,,,0
+8597,8597,Woodlawn Rd Before Ellenvale Ave (8597),,44.675672,-63.528786,,,,,,0
+8598,8598,Woodlawn Rd Before Main St (8598),,44.683527,-63.528825,,,,,,0
+8599,8599,Woodlawn Rd After Shawinigan Rd (8599),,44.680037,-63.5264,,,,,,0
+8600,8600,Woodlawn Rd Before Portland St (8600),,44.671729,-63.53216,,,,,,0
+8601,8601,Woodlawn Rd Before Saguenay Pl (8601),,44.673938,-63.529074,,,,,,0
+8602,8602,Woodlawn Rd Opposite Bruce St (8602),,44.672895,-63.531054,,,,,,0
+8603,8603,Woodlawn Rd After Spikenard St (8603),,44.681711,-63.527665,,,,,,0
+8604,8604,Woodlawn Rd Before Spikenard St (8604),,44.680631,-63.526841,,,,,,0
+8606,8606,Upper Water St Before Cogswell St (8606),,44.652454,-63.577537,,,,,,0
+8608,8608,Wright Ave After Fielding Ave (8608),,44.703802,-63.597905,,,,,,0
+8609,8609,Wright Ave After Windmill Rd (8609),,44.698747,-63.603662,,,,,,0
+8610,8610,Wright Ave Before Fielding Ave (8610),,44.704092,-63.597573,,,,,,0
+8611,8611,Wright Ave Opposite McCurdy Ave (8611),,44.700192,-63.601796,,,,,,0
+8612,8612,Wyse Rd After Boland Rd (8612),,44.672478,-63.5819,,,,,,0
+8615,8615,Wyse Rd Before Russell St (8615),,44.675245,-63.585699,,,,,,0
+8616,8616,Wyse Rd Before Boland Rd (8616),,44.671603,-63.580118,,,,,,0
+8617,8617,Wyse Rd Before Jamieson St (8617),,44.673292,-63.583188,,,,,,0
+8618,8618,Wyse Rd After Jamieson St (8618),,44.673829,-63.583862,,,,,,0
+8619,8619,Wyse Rd Before Albro Lake Rd (8619),,44.676277,-63.587137,,,,,,0
+8620,8620,Wyse Rd Before Elmwood Ave (8620),,44.675291,-63.58581,,,,,,0
+8621,8621,Wyse Rd Before Boland Rd (8621),,44.672332,-63.581846,,,,,,0
+8622,8622,Wyse Rd Before Howe St (8622),,44.676152,-63.58703,,,,,,0
+8624,8624,Wyse Rd Before Thistle St (8624),,44.668804,-63.575609,,,,,,0
+8625,8625,Wyse Rd Before Nantucket Ave (8625),,44.669271,-63.576415,,,,,,0
+8627,8627,York Redoubt Turning Loop (8627),,44.597129,-63.55457,,,,,,0
+8629,8629,Young St After Monaghan Dr (8629),,44.658159,-63.604463,,,,,,0
+8631,8631,Young St Before Agricola St (8631),,44.660938,-63.600742,,,,,,0
+8633,8633,Young St Before Monaghan Dr (8633),,44.658098,-63.604421,,,,,,0
+8634,8634,Young St Before Windsor St (8634),,44.656856,-63.606559,,,,,,0
+8637,8637,Penhorn Terminal Metrolink (8637),,44.670316,-63.538762,,,,10008,,0
+8638,8638,Macdonald Bridge Exit Ramp (8638),,44.658481,-63.589847,,,,,,0
+8639,8639,Cogswell St After Albemarle St (8639),,44.651203,-63.577711,,,,,,0
+8643,8643,Hwy 207 At Shore Rd (8643),,44.719829,-63.266078,,,,,,0
+8645,8645,Hwy 207 At Civic 7396 (8645),,44.725416,-63.266403,,,,,,0
+8646,8646,Hwy 207 After Keller Ln (8646),,44.729835,-63.270398,,,,,,0
+8651,8651,St Margarets Bay Rd At Long Lake Park (8651),,44.632298,-63.658198,,,,,,0
+8653,8653,St Margarets Bay Rd Opposite Long Lake Park (8653),,44.632326,-63.658549,,,,,,0
+8654,8654,Countryview Dr Before Ferindonald Cl (8654),,44.706065,-63.563785,,,,,,0
+8655,8655,Countryview Dr After McClure Cl (8655),,44.702752,-63.565642,,,,,,0
+8656,8656,Gale Terr After Commodore Dr (8656),,44.699134,-63.564872,,,,,,0
+8657,8657,Finnian Row Before Lamont Terr (8657),,44.69689,-63.566299,,,,,,0
+8658,8658,Hwy 207 At Civic 6774 (8658),,44.697965,-63.255847,,,,,,0
+8659,8659,Commodore Dr After Lamont Terr (8659),,44.70025,-63.566356,,,,,,0
+8660,8660,Hornes Rd At Civic 65 (8660),,44.614282,-63.485924,,,,,,0
+8661,8661,Hornes Rd At Civic 41 (8661),,44.616207,-63.483643,,,,,,0
+8662,8662,Hornes Rd After Scott Dr (8662),,44.617999,-63.481512,,,,,,0
+8663,8663,Caldwell Rd After Hornes Rd (8663),,44.618854,-63.479933,,,,,,0
+8664,8664,Caldwell Rd After Briarwood Dr (8664),,44.616615,-63.478147,,,,,,0
+8665,8665,Caldwell Rd After Aubrey Terr (8665),,44.612853,-63.474559,,,,,,0
+8666,8666,Cow Bay Rd After Caldwell Rd (8666),,44.612302,-63.472516,,,,,,0
+8667,8667,Cow Bay Rd After Heritage Hills Dr (8667),,44.613626,-63.470211,,,,,,0
+8668,8668,Cow Bay Rd After Forestgate Dr (8668),,44.616427,-63.465891,,,,,,0
+8669,8669,Samuel Danial Dr After Cow Bay Rd (8669),,44.617169,-63.463777,,,,,,0
+8670,8670,Samuel Danial Dr Before Melrose Cr (8670),,44.615615,-63.461945,,,,,,0
+8671,8671,Melrose Cr At Civic 180 (8671),,44.613301,-63.464253,,,,,,0
+8672,8672,Heritage Hills Dr Before Serop Cr (8672),,44.611903,-63.468465,,,,,,0
+8673,8673,Heritage Hills Dr Before Cow Bay Rd (8673),,44.613309,-63.469996,,,,,,0
+8674,8674,Cow Bay Rd Before Caldwell Rd (8674),,44.612425,-63.472348,,,,,,0
+8675,8675,Cow Bay Rd Before Aubrey Terr (8675),,44.611736,-63.475466,,,,,,0
+8676,8676,Cow Bay Rd Opposite Garrison Dr (8676),,44.611408,-63.479948,,,,,,0
+8677,8677,Cow Bay Rd After Ridding Rd (8677),,44.610868,-63.483227,,,,,,0
+8678,8678,Cow Bay Rd Before Hornes Rd (8678),,44.612207,-63.487944,,,,,,0
+8679,8679,Cow Bay Rd After Disciples Way (8679),,44.612103,-63.492439,,,,,,0
+8680,8680,Spring Ave Before Portland St (8680),,44.672147,-63.518118,,,,,,0
+8681,8681,Glendale Ave At Civic 21 (8681),,44.758989,-63.65841,,,,,,0
+8682,8682,Glendale Ave Before Estates Rd (8682),,44.758557,-63.653619,,,,,,0
+8692,8692,Parkland Dr Opposite Castlepark Grv (8692),,44.681193,-63.678199,,,,,,0
+8693,8693,Hwy 7 After Civic 2491 (8693),,44.721834,-63.410829,,,,,,0
+8695,8695,Silver Dart Dr At Halifax Airport (8695),,44.886253,-63.515709,,,,,,0
+8696,8696,Barnes Dr At Civic 573 (8696),,44.881436,-63.519536,,,,,,0
+8697,8697,Barnes Dr After Red Wing Dr (8697),,44.879264,-63.521725,,,,,,0
+8698,8698,Pratt and Whitney Dr At Civic 200 (8698),,44.861844,-63.543672,,,,,,0
+8699,8699,Pratt and Whitney Dr Before Civic 189 (8699),,44.860908,-63.543376,,,,,,0
+8701,8701,Sackville Dr At Civic 1823 (8701),,44.798512,-63.734375,,,,,,0
+8709,8709,Beaver Bank Rd After Glendale Dr (8709),,44.783036,-63.691605,,,,,,0
+8710,8710,Beaver Bank Rd After Stokil Dr (8710),,44.791092,-63.692293,,,,,,0
+8711,8711,Beaver Bank Rd After Windgate Dr (8711),,44.796844,-63.689804,,,,,,0
+8712,8712,Beaver Bank Rd After Woodbine Dr (8712),,44.799084,-63.688342,,,,,,0
+8713,8713,Beaver Bank Rd Before Welkin Dr (8713),,44.801886,-63.688212,,,,,,0
+8714,8714,Beaver Bank Rd Before Majestic Ave (8714),,44.806872,-63.688125,,,,,,0
+8715,8715,Beaver Bank Rd At Civic 619 (8715),,44.813894,-63.686147,,,,,,0
+8716,8716,Beaver Bank Rd Before Pinehaven Dr (8716),,44.817559,-63.684438,,,,,,0
+8717,8717,Beaver Bank Rd After Grove Ave (8717),,44.821623,-63.681233,,,,,,0
+8718,8718,Beaver Bank Rd After Mayflower Ave (8718),,44.82461,-63.680716,,,,,,0
+8719,8719,Beaver Bank Rd Before Meadow Dr (8719),,44.83065,-63.680978,,,,,,0
+8720,8720,Beaver Bank Rd Before Trinity Ln (8720),,44.833277,-63.68143,,,,,,0
+8721,8721,Beaver Bank Rd Before Pinehurst Way (8721),,44.837211,-63.679216,,,,,,0
+8722,8722,Beaver Bank Rd After Rosley Rd (8722),,44.844646,-63.684828,,,,,,0
+8723,8723,Beaver Bank Rd After Kinsac Rd (8723),,44.849226,-63.685341,,,,,,0
+8724,8724,Beaver Bank Rd Before Lakeridge Dr (8724),,44.854265,-63.684282,,,,,,0
+8725,8725,Beaver Bank Rd After Castor Ln (8725),,44.858484,-63.68616,,,,,,0
+8726,8726,Beaver Bank Rd At Davis Dr (8726),,44.868632,-63.692808,,,,,,0
+8727,8727,Beaver Bank Rd At Civic 2155 (8727),,44.871272,-63.695413,,,,,,0
+8728,8728,Beaver Bank Rd Opposite Chesapeake Rd (8728),,44.873269,-63.697161,,,,,,0
+8729,8729,Beaver Bank Rd At Civic 2409 (8729),,44.879692,-63.699644,,,,,,0
+8730,8730,Beaver Bank Rd At Civic 2443 (8730),,44.882092,-63.701474,,,,,,0
+8731,8731,Beaver Bank Rd After Gilby Cr (8731),,44.887135,-63.704026,,,,,,0
+8732,8732,Beaver Bank Rd At Civic 2661 (8732),,44.891044,-63.705275,,,,,,0
+8733,8733,Beaver Bank Rd Opposite Civic 2846 (8733),,44.898163,-63.707951,,,,,,0
+8734,8734,Scotia Terr Before Beaver Bank Rd (8734),,44.903683,-63.709809,,,,,,0
+8735,8735,Beaver Bank Rd At Civic 2846 (8735),,44.898024,-63.707901,,,,,,0
+8736,8736,Beaver Bank Rd Opposite Civic 2661 (8736),,44.89098,-63.705302,,,,,,0
+8737,8737,Beaver Bank Rd After Gilby Cr (8737),,44.886433,-63.703886,,,,,,0
+8738,8738,Beaver Bank Rd At Civic 2438 (8738),,44.881889,-63.70136,,,,,,0
+8739,8739,Beaver Bank Rd Before West Ave (8739),,44.879465,-63.699525,,,,,,0
+8740,8740,Beaver Bank Rd Before Chesapeake Rd (8740),,44.873947,-63.697727,,,,,,0
+8741,8741,Beaver Bank Rd At Civic 2120 (8741),,44.869798,-63.694301,,,,,,0
+8742,8742,Beaver Bank Rd Opposite Davis Dr (8742),,44.868615,-63.692881,,,,,,0
+8743,8743,Beaver Bank Rd Before Castor Ln (8743),,44.858312,-63.686157,,,,,,0
+8744,8744,Beaver Bank Rd Before Lakeridge Dr (8744),,44.855908,-63.685267,,,,,,0
+8745,8745,Beaver Bank Rd Opposite Kinsac Rd (8745),,44.849107,-63.685371,,,,,,0
+8746,8746,Beaver Bank Rd Before Rosley Rd (8746),,44.844815,-63.684773,,,,,,0
+8747,8747,Beaver Bank Rd Before Pinehurst Way (8747),,44.83825,-63.679236,,,,,,0
+8748,8748,Beaver Bank Rd Before Guptill Cl (8748),,44.835905,-63.680212,,,,,,0
+8749,8749,Beaver Bank Rd After Meadow Dr (8749),,44.830363,-63.680921,,,,,,0
+8750,8750,Beaver Bank Rd After Danny Dr (8750),,44.824428,-63.680706,,,,,,0
+8751,8751,Beaver Bank Rd Before Grove Ave (8751),,44.821849,-63.681204,,,,,,0
+8752,8752,Beaver Bank Rd After Pinehaven Dr (8752),,44.817787,-63.684491,,,,,,0
+8753,8753,Beaver Bank Rd After Civic 632 (8753),,44.813341,-63.68621,,,,,,0
+8754,8754,Beaver Bank Rd Opposite Majestic Ave (8754),,44.807551,-63.688236,,,,,,0
+8755,8755,Beaver Bank Rd After Welkin Dr (8755),,44.801724,-63.688233,,,,,,0
+8756,8756,Beaver Bank Rd After Woodbine Dr (8756),,44.797492,-63.689387,,,,,,0
+8757,8757,Beaver Bank Rd Before Millwood Dr (8757),,44.791357,-63.692331,,,,,,0
+8758,8758,Beaver Bank Rd At Civic 82 (8758),,44.784199,-63.692188,,,,,,0
+8759,8759,Cole Harbour Rd After Bisset Rd (8759),,44.672449,-63.47719,,,,,,0
+8760,8760,Cole Harbour Rd Before Ross Rd (8760),,44.682443,-63.454169,,,,,,0
+8761,8761,Ross Rd Before Greenvale Cr (8761),,44.684694,-63.453609,,,,,,0
+8762,8762,Ross Rd After Brookside Ave (8762),,44.687556,-63.453618,,,,,,0
+8763,8763,Ross Rd After Glendale Dr (8763),,44.691365,-63.455759,,,,,,0
+8764,8764,Ross Rd At Civic 156 (8764),,44.696105,-63.458811,,,,,,0
+8765,8765,Ross Rd Before Salmon River Dr (8765),,44.70074,-63.461358,,,,,,0
+8766,8766,Ross Rd Before Hwy 7 (8766),,44.703868,-63.465201,,,,,,0
+8767,8767,Hwy 7 After Civic 1776 (8767),,44.709364,-63.439365,,,,,,0
+8768,8768,Hwy 7 Before Lower Governor St (8768),,44.715309,-63.434592,,,,,,0
+8769,8769,Brooks Dr Opposite East Preston Rec Centre (8769),,44.719744,-63.433394,,,,,,0
+8770,8770,Brooks Dr At Civic 253 (8770),,44.726775,-63.426732,,,,,,0
+8771,8771,Brooks Dr At Civic 344 (8771),,44.727919,-63.419531,,,,,,0
+8772,8772,Upper Partridge River Rd At Civic 52 (8772),,44.724971,-63.418671,,,,,,0
+8773,8773,Hwy 7 After Lower Partridge River Rd (8773),,44.722303,-63.416329,,,,,,0
+8774,8774,Hwy 7 Before 2nd Diggs Dr (8774),,44.721002,-63.407702,,,,,,0
+8775,8775,Hwy 7 Before Mineville Rd (8775),,44.721831,-63.400466,,,,,,0
+8776,8776,Hwy 7 After Canopy Ln (8776),,44.730024,-63.393697,,,,,,0
+8777,8777,Hwy 7 After Robina Dr (8777),,44.734292,-63.390868,,,,,,0
+8778,8778,Hwy 7 After Linda Ln (8778),,44.736504,-63.388219,,,,,,0
+8779,8779,Hwy 7 Before Kings Way (8779),,44.739457,-63.38636,,,,,,0
+8780,8780,Hwy 7 After Circle Dr (8780),,44.738985,-63.381466,,,,,,0
+8781,8781,Hwy 7 At Civic 3372 (8781),,44.737347,-63.377123,,,,,,0
+8782,8782,Hwy 7 After Sandy Ln (8782),,44.740604,-63.324816,,,,,,0
+8783,8783,Hwy 7 After Davidsons Rd (8783),,44.739877,-63.319418,,,,,,0
+8784,8784,Hwy 7 After West Porters Lake Rd (8784),,44.737598,-63.310213,,,,,,0
+8785,8785,Hwy 7 After This St (8785),,44.73878,-63.305375,,,,,,0
+8786,8786,Hwy 7 Before Post Office Rd (8786),,44.742994,-63.300752,,,,,,0
+8787,8787,Hwy 7 Before Cove Rd (8787),,44.746982,-63.300266,,,,,,0
+8788,8788,Hwy 7 After Millside Dr (8788),,44.746647,-63.292164,,,,,,0
+8790,8790,Hwy 207 Before Aspen Rd (8790),,44.73558,-63.274321,,,,,,0
+8791,8791,Hwy 207 At Les Collins Ave (8791),,44.732157,-63.272596,,,,,,0
+8792,8792,Hwy 207 Before Johnson Ave (8792),,44.729663,-63.270291,,,,,,0
+8793,8793,Hwy 207 After Old Harvey Ln (8793),,44.725775,-63.266878,,,,,,0
+8794,8794,Hwy 207 After Eleanor Marie Ln (8794),,44.717565,-63.264825,,,,,,0
+8795,8795,Hwy 207 After Petain Station Rd (8795),,44.711088,-63.259976,,,,,,0
+8796,8796,Hwy 207 At Bellefontaine Rd (8796),,44.708035,-63.258897,,,,,,0
+8797,8797,Hwy 207 After Conrod Rd (8797),,44.690161,-63.257409,,,,,,0
+8798,8798,Hwy 207 Opposite Civic 6344 (8798),,44.678673,-63.258791,,,,,,0
+8800,8800,Stonehaven Rd Before Alton Dr (8800),,44.635185,-63.629632,,,,,,0
+8801,8801,Alton Dr Before Kelly St (8801),,44.634464,-63.629255,,,,,,0
+8802,8802,Walter Havill Dr After Osborne St (8802),,44.631925,-63.629612,,,,,,0
+8803,8803,Walter Havill Dr After Ridgestone Ct (8803),,44.632092,-63.631031,,,,,,0
+8804,8804,Walter Havill Dr Before Ridgepark Ln (8804),,44.633613,-63.632666,,,,,,0
+8805,8805,Walter Havill Dr After Civic 129 (8805),,44.634968,-63.634084,,,,,,0
+8806,8806,Walter Havill Dr Before Civic 201 (8806),,44.63543,-63.63685,,,,,,0
+8807,8807,Ragged Lake Blvd After Prospect Rd (8807),,44.627592,-63.66557,,,,,,0
+8809,8809,Walter Havill Dr After North West Arm Dr (8809),,44.635366,-63.637141,,,,,,0
+8810,8810,Walter Havill Dr At Civic 50 (8810),,44.63507,-63.635023,,,,,,0
+8811,8811,Walter Havill Dr Before Civic 76 (8811),,44.633601,-63.632825,,,,,,0
+8812,8812,Walter Havill Dr Before Ridgestone Ct (8812),,44.632036,-63.631944,,,,,,0
+8813,8813,Walter Havill Dr Before Osborne St (8813),,44.631959,-63.629724,,,,,,0
+8815,8815,Alton Dr After Kelly St (8815),,44.634313,-63.629193,,,,,,0
+8816,8816,Edgehill Rd After Quarry Rd (8816),,44.635968,-63.630884,,,,,,0
+8819,8819,Lower Water St Before Bishop St (8819),,44.643132,-63.569258,,,,,,0
+8821,8821,Lower Water St Before Sackville St (8821),,44.646501,-63.571092,,,,,,0
+8822,8822,Hollis St Before Prince St (8822),,44.647629,-63.572918,,,,,,0
+8823,8823,Hollis St After Sackville St (8823),,44.646264,-63.572221,,,,,,0
+8824,8824,Hollis St Before Bishop St (8824),,44.643927,-63.571075,,,,,,0
+8825,8825,Hollis St Before Morris St (8825),,44.642566,-63.57031,,,,,,0
+8828,8828,Portland Hills Dr Before Leland Grv (8828),,44.668504,-63.507933,,,,,,0
+8829,8829,Portland Hills Dr Before Summer Field Way (8829),,44.666703,-63.508139,,,,,,0
+8830,8830,Portland Hills Dr After Surrey Way (8830),,44.665435,-63.506119,,,,,,0
+8831,8831,Portland Hills Dr After Bellbrook Cr (8831),,44.663962,-63.503984,,,,,,0
+8832,8832,Portland Hills Dr Before Waterside Terr (8832),,44.66331,-63.506755,,,,,,0
+8833,8833,Portland Hills Dr Before Civic 146 (8833),,44.664691,-63.510484,,,,,,0
+8834,8834,Portland Hills Dr At Civic 8 (8834),,44.665457,-63.515248,,,,,,0
+8835,8835,Portland Hills Dr At Civic 159 (8835),,44.664638,-63.510395,,,,,,0
+8836,8836,Portland Hills Dr After Waterside Terr (8836),,44.663419,-63.507449,,,,,,0
+8837,8837,Portland Hills Dr At Civic 367 (8837),,44.663902,-63.503815,,,,,,0
+8838,8838,Portland Hills Dr Before Woodhaven Cl (8838),,44.665514,-63.505036,,,,,,0
+8839,8839,Portland Hills Dr At Civic 537 (8839),,44.666643,-63.508046,,,,,,0
+8840,8840,Portland Hills Dr Before Hillspire Gr (8840),,44.668681,-63.507773,,,,,,0
+8841,8841,Baker Dr After Norm Newman Dr (8841),,44.667463,-63.531104,,,,,,0
+8842,8842,Baker Dr After Coldstream Run (8842),,44.66545,-63.529918,,,,,,0
+8843,8843,Baker Dr After Freshwater Tr (8843),,44.663159,-63.529917,,,,,,0
+8844,8844,Hwy 7 Before Parker Ln (8844),,44.73982,-63.347126,,,,,,0
+8845,8845,Baker Dr At Civic 220 (8845),,44.658543,-63.530053,,,,,,0
+8846,8846,Baker Dr After Basswood Run (8846),,44.655783,-63.529274,,,,,,0
+8847,8847,Baker Dr Before Basswood Run (8847),,44.655561,-63.529258,,,,,,0
+8848,8848,Baker Dr Opposite Civic 220 (8848),,44.658266,-63.529535,,,,,,0
+8849,8849,Larry Uteck Blvd After Bedford Hwy (8849),,44.699133,-63.663511,,,,,,0
+8850,8850,Baker Dr Before Freshwater Tr (8850),,44.663508,-63.529755,,,,,,0
+8851,8851,Baker Dr After Coldstream Run (8851),,44.666174,-63.530216,,,,,,0
+8852,8852,Baker Dr Before Norm Newman Dr (8852),,44.6683,-63.531317,,,,,,0
+8853,8853,Commodore Dr After Countryview Dr (8853),,44.700498,-63.565719,,,,,,0
+8854,8854,Finlay Dr After McClure Cl (8854),,44.704719,-63.568322,,,,,,0
+8855,8855,Finlay Dr After Shubie Dr (8855),,44.70778,-63.566272,,,,,,0
+8856,8856,Wright Ave After Wilkinson Ave (8856),,44.71042,-63.570715,,,,,,0
+8857,8857,Wright Ave After Burbridge Ave (8857),,44.710201,-63.574583,,,,,,0
+8858,8858,Wright Ave After John Savage Ave (8858),,44.708988,-63.57884,,,,,,0
+8859,8859,Wright Ave After Williams Ave (8859),,44.708322,-63.584244,,,,,,0
+8860,8860,Wright Ave Before Raddall Ave (8860),,44.705727,-63.593398,,,,,,0
+8861,8861,Wright Ave After Venture Run (8861),,44.707004,-63.589685,,,,,,0
+8862,8862,Wright Ave At Civic 340 (8862),,44.707959,-63.585003,,,,,,0
+8863,8863,Wright Ave After Mellor Ave (8863),,44.708782,-63.579404,,,,,,0
+8864,8864,Wright Ave Before Burbridge Ave (8864),,44.710002,-63.574478,,,,,,0
+8865,8865,Wright Ave Before Wilkinson Ave (8865),,44.709996,-63.570018,,,,,,0
+8867,8867,Wright Ave After Joseph Zatzman Dr (8867),,44.705873,-63.593289,,,,,,0
+8868,8868,Cranberry Cr Before Mt Edward Rd (8868),,44.688858,-63.504547,,,,,,0
+8869,8869,Larry Uteck Blvd Before Bedford Hwy (8869),,44.699208,-63.662174,,,,,,0
+8870,8870,Innovation Dr Opposite Civic 200 (8870),,44.722157,-63.698733,,,,,,0
+8871,8871,Innovation Dr At Civic 200 (8871),,44.722024,-63.698831,,,,,,0
+8872,8872,Hwy 207 After Pasture Rd (8872),,44.697968,-63.255962,,,,,,0
+8873,8873,Larry Uteck Blvd Before Jacob Lane (8873),,44.699783,-63.668247,,,,,,0
+8874,8874,Larry Uteck Blvd At Civic 357 (8874),,44.701964,-63.67232,,,,,,0
+8875,8875,Larry Uteck Blvd At Civic 461 (8875),,44.701845,-63.675862,,,,,,0
+8876,8876,Larry Uteck Blvd After Southgate Dr (8876),,44.700848,-63.679302,,,,,,0
+8877,8877,Larry Uteck Blvd Before Nine Mile Dr (8877),,44.700821,-63.684327,,,,,,0
+8878,8878,Larry Uteck Blvd At Civic 630 (8878),,44.700612,-63.682867,,,,,,0
+8879,8879,Larry Uteck Blvd Before Southgate Dr (8879),,44.700802,-63.679218,,,,,,0
+8880,8880,Larry Uteck Blvd At Civic 420 (8880),,44.701927,-63.675282,,,,,,0
+8881,8881,Larry Uteck Blvd At Civic 290 (8881),,44.701589,-63.671149,,,,,,0
+8882,8882,Larry Uteck Blvd After Jacob Ln (8882),,44.69943,-63.667888,,,,,,0
+8883,8883,University Ave After Robie St (8883),,44.638211,-63.585021,,,,,,0
+8884,8884,Morris St Before Barrington St (8884),,44.641514,-63.572358,,,,,,0
+8885,8885,Morris St After Barrington St (8885),,44.641706,-63.571758,,,,,,0
+8886,8886,Gary Martin Dr After Hammonds Plains Rd (8886),,44.725895,-63.703217,,,,,,0
+8887,8887,Gary Martin Dr Before Hammonds Plains Rd (8887),,44.726095,-63.702995,,,,,,0
+8889,8889,Acadia St After Ragus Rd (8889),,44.656974,-63.546003,,,,,,0
+8890,8890,Acadia St Before Pleasant St (8890),,44.656246,-63.548201,,,,,,0
+8891,8891,Mt Hope Ave After Estates Rd (8891),,44.655719,-63.543123,,,,,,0
+8892,8892,Mt Hope Ave Before Neptune Cr (8892),,44.6572,-63.540609,,,,,,0
+8893,8893,Mt Hope Ave After Neptune Cr (8893),,44.656677,-63.54113,,,,,,0
+8894,8894,Shubie Dr Before Kiltearn Row (8894),,44.706968,-63.565013,,,,,,0
+8895,8895,Back Rd After Hwy 207 (8895),,44.672535,-63.258868,,,,,,0
+8896,8896,Back Rd After Gaetz Lake Dr (8896),,44.668965,-63.260857,,,,,,0
+8897,8897,Back Rd Before Hwy 207 (8897),,44.665979,-63.257867,,,,,,0
+8898,8898,Hwy 207 At Civic 6060 (8898),,44.669512,-63.255915,,,,,,0
+8899,8899,Hwy 207 At Civic 6344 (8899),,44.679684,-63.258821,,,,,,0
+8900,8900,Hwy 207 Before Grand Desert Station Rd (8900),,44.686408,-63.258012,,,,,,0
+8901,8901,Hwy 207 Before Bellefontaine Rd (8901),,44.707629,-63.258729,,,,,,0
+8902,8902,Hwy 207 After Murphys Way (8902),,44.710588,-63.259825,,,,,,0
+8903,8903,Hwy 207 Before Eleanor Marie Ln (8903),,44.717183,-63.264297,,,,,,0
+8904,8904,Hwy 207 Opposite Les Collins Ave (8904),,44.73221,-63.272575,,,,,,0
+8905,8905,Hwy 207 Before Shore Rd (8905),,44.736458,-63.274965,,,,,,0
+8909,8909,Lakeview Shopping Centre (8909),,44.744019,-63.28321,,,,,,0
+8910,8910,Hwy 7 Before Loriann Dr (8910),,44.746901,-63.29261,,,,,,0
+8911,8911,Hwy 7 After Cove Rd (8911),,44.747069,-63.300305,,,,,,0
+8912,8912,Hwy 7 After Post Office Rd (8912),,44.743681,-63.301108,,,,,,0
+8913,8913,Hwy 7 After Laurie Ln (8913),,44.738804,-63.305569,,,,,,0
+8914,8914,Hwy 7 Before Narrows Ln (8914),,44.737897,-63.309048,,,,,,0
+8915,8915,Hwy 7 Before Davidsons Rd (8915),,44.739869,-63.319292,,,,,,0
+8916,8916,Hwy 7 Before Sandy Ln (8916),,44.740668,-63.324553,,,,,,0
+8917,8917,Hwy 7 At Civic 3351 (8917),,44.737675,-63.37791,,,,,,0
+8918,8918,Hwy 7 Before Circle Dr (8918),,44.73916,-63.3817,,,,,,0
+8919,8919,Hwy 7 After Kings Way (8919),,44.738745,-63.387214,,,,,,0
+8920,8920,Hwy 7 Before Martin Lake Dr (8920),,44.736629,-63.38825,,,,,,0
+8921,8921,Hwy 7 Before Robina Dr (8921),,44.73422,-63.391114,,,,,,0
+8922,8922,Hwy 7 Opposite Canopy Lane (8922),,44.729845,-63.393844,,,,,,0
+8923,8923,Hwy 7 After Bell St (8923),,44.721819,-63.400708,,,,,,0
+8924,8924,Hwy 7 Before O'Hearn Ln (8924),,44.721185,-63.408285,,,,,,0
+8925,8925,Hwy 7 At Civic 2403 (8925),,44.72235,-63.415369,,,,,,0
+8926,8926,Upper Partridge River Rd Before Civic 103 (8926),,44.72599,-63.419358,,,,,,0
+8927,8927,Brooks Dr Before Civic 362 (8927),,44.728375,-63.421154,,,,,,0
+8928,8928,Brooks Dr At Civic 254 (8928),,44.726805,-63.426791,,,,,,0
+8929,8929,Brooks Dr At East Preston Rec Centre (8929),,44.719203,-63.433621,,,,,,0
+8930,8930,Hwy 7 After Upper Governor St (8930),,44.715487,-63.434498,,,,,,0
+8931,8931,Hwy 7 At Civic 1799 (8931),,44.7098,-63.439386,,,,,,0
+8932,8932,Ross Rd After Hwy 7 (8932),,44.70297,-63.464472,,,,,,0
+8933,8933,Ross Rd After Salmon River Dr (8933),,44.700602,-63.461268,,,,,,0
+8934,8934,Ross Rd At Civic 163 (8934),,44.695963,-63.45874,,,,,,0
+8935,8935,Ross Rd Before Glendale Dr (8935),,44.691194,-63.45571,,,,,,0
+8936,8936,Ross Rd Before Brookside Ave (8936),,44.687371,-63.453608,,,,,,0
+8937,8937,Ross Rd After Greenvale Cr (8937),,44.684742,-63.453621,,,,,,0
+8938,8938,Cole Harbour Rd At Old Lawrencetown Rd (8938),,44.682428,-63.454345,,,,,,0
+8939,8939,Cole Harbour Rd Before Bisset Rd (8939),,44.672541,-63.476722,,,,,,0
+9000,9000,Downsview Dr After Touchstone Ct (9000),,44.772293,-63.695697,,,,,,0
+9001,9001,Downsview Dr Before Touchstone Ct (9001),,44.772683,-63.695086,,,,,,0
+9002,9002,Glendale Ave Opposite Civic 21 (9002),,44.759059,-63.657799,,,,,,0
+9003,9003,Aerotech Dr Before Pratt & Whitney Dr (9003),,44.856359,-63.54374,,,,,,0
+9004,9004,Aerotech Dr After Pratt & Whitney Dr (9004),,44.856411,-63.543849,,,,,,0
+9005,9005,Millwood Dr At Millwood High School (9005),,44.790126,-63.70942,,,,,,0
+9006,9006,Lower Water St Before Salter St (9006),,44.644899,-63.570258,,,,,,0
+9011,9011,Barnes Dr After Baldwin Dr (9011),,44.873688,-63.527154,,,,,,0
+9012,9012,Barnes Dr Before Baldwin Dr (9012),,44.873441,-63.527469,,,,,,0
+9013,9013,Barnes Dr At Civic 677 (9013),,44.87569,-63.525191,,,,,,0
+9014,9014,Barnes Dr At Civic 619 (9014),,44.878538,-63.522362,,,,,,0
+9015,9015,Barnes Dr Opposite Civic 675 (9015),,44.875627,-63.52531,,,,,,0
+9020,9020,Lancaster Dr Before St Pauls Ave (9020),,44.569185,-63.5624,,,,,,0
+9021,9021,Leiblin Dr At Sportsfield (9021),,44.599835,-63.631459,,,,,,0
+9023,9023,Bedford Hwy Opposite Moirs Mill Rd (9023),,44.713776,-63.677293,,,,,,0
+9024,9024,Bedford Hwy After Meadowbrook Dr (9024),,44.725149,-63.668252,,,,,,0
+9025,9025,Parkland Dr Before Heathside Cr (9025),,44.672884,-63.675896,,,,,,0
+9026,9026,Parkland Dr At Civic 634 (9026),,44.675151,-63.676387,,,,,,0
+9027,9027,Parkland Dr Opposite Civic 680 (9027),,44.676741,-63.677723,,,,,,0
+9028,9028,Parkland Dr After Civic 767 (9028),,44.680021,-63.678264,,,,,,0
+9029,9029,Parkland Dr After Castlepark Grv (9029),,44.68163,-63.677908,,,,,,0
+9030,9030,Parkland Dr Before Kearney Lake Rd (9030),,44.683019,-63.676165,,,,,,0
+9035,9035,Parkland Dr Opposite Civic 767 (9035),,44.679391,-63.678434,,,,,,0
+9036,9036,Parkland Dr Before Civic 680 (9036),,44.67686,-63.678,,,,,,0
+9037,9037,Sackville Dr After Beaver Bank Rd (9037),,44.775542,-63.695141,,,,,,0
+9038,9038,Cobequid Rd After Sackville Dr (9038),,44.752738,-63.664247,,,,,,0
+9039,9039,Charles Rd Before Birchdale Ave (9039),,44.662591,-63.748788,,,,,,0
+9040,9040,Damascus Rd At Civic 141 (9040),,44.751058,-63.643611,,,,,,0
+9041,9041,Damascus Rd At Civic 150 (9041),,44.750517,-63.644845,,,,,,0
+9042,9042,Dutch Village Rd After Alma Cr (9042),,44.659202,-63.631324,,,,,,0
+9053,9053,Windmill Rd Before Fernhill Dr (9053),,44.681934,-63.596603,,,,,,0
+9056,9056,Hammonds Plains Rd After Innovation Dr (9056),,44.725663,-63.693104,,,,,,0
+9057,9057,Hammonds Plains Rd Before Killarney Dr (9057),,44.725592,-63.692496,,,,,,0
+9061,9061,Albemarle St After Duke St (9061),,44.649608,-63.577295,,,,,,0
+9066,9066,Baker Dr After Lindenwood Terr (9066),,44.661089,-63.530258,,,,,,0
+9067,9067,Baker Dr After Lindenwood Terr (9067),,44.661681,-63.529971,,,,,,0
+9073,9073,Kelly St Before Halef Ct (9073),,44.633469,-63.628987,,,,,,0
+9074,9074,Kelly St Before Halef Ct (9074),,44.633181,-63.628684,,,,,,0
+9076,9076,Tacoma Dr After Hartlen St (9076),,44.680535,-63.536637,,,,,,0
+9078,9078,Hwy 7 Before William Porter Connector (9078),,44.744656,-63.286438,,,,,,0
+9079,9079,Hwy 7 After William Porter Connector (9079),,44.744674,-63.285848,,,,,,0
+9080,9080,Regency Park Dr After Lacewood Dr (9080),,44.657653,-63.669405,,,,,,0
+9081,9081,Regency Park Dr After Solutions Dr (9081),,44.65584,-63.667868,,,,,,0
+9082,9082,Regency Park Dr Before Greenpark Cl (9082),,44.655033,-63.665695,,,,,,0
+9083,9083,Thomas Raddall Dr After Regency Park Dr (9083),,44.65505,-63.664285,,,,,,0
+9084,9084,Thomas Raddall Dr At Civic 210 (9084),,44.657093,-63.661309,,,,,,0
+9085,9085,Thomas Raddall Dr At Canada Games Centre (9085),,44.658793,-63.664932,,,,,,0
+9086,9086,Thomas Raddall Dr After Lacewood Dr (9086),,44.65904,-63.665564,,,,,,0
+9087,9087,Thomas Raddall Dr Opposite Civic 210 (9087),,44.657164,-63.661385,,,,,,0
+9088,9088,Thomas Raddall Dr Before Regency Park Dr (9088),,44.655017,-63.664364,,,,,,0
+9089,9089,Regency Park Dr After Greenpark Cl (9089),,44.655053,-63.665512,,,,,,0
+9090,9090,Regency Park Dr After Solutions Dr (9090),,44.656765,-63.668896,,,,,,0
+9091,9091,Regency Park Dr Before Lacewood Dr (9091),,44.6584,-63.669281,,,,,,0
+9092,9092,Starboard Dr Before Peakview Way (9092),,44.699487,-63.685818,,,,,,0
+6108,6108,Barrington St At Scotia Square Bay 3 (6108),,44.650276,-63.575778,,,,,,0
+6155,6155,Horseshoe Lake Dr At Civic 100 (6155),,44.642719,-63.67419,,,,,,0
+6505,6505,Horseshoe Lake Dr At Civic 59 (6505),,44.643948,-63.67464,,,,,,0
+6566,6566,Inglis St Before McLean St (6566),,44.634597,-63.575154,,,,,,0
+6657,6657,Radcliffe Dr After Dunbrack St (6657),,44.665776,-63.660686,,,,,,0
+6658,6658,Radcliffe Dr Before Raleigh Ct (6658),,44.664765,-63.66488,,,,,,0
+6659,6659,Radcliffe Dr After Stratford Way (6659),,44.662362,-63.665013,,,,,,0
+6660,6660,Lacewood Dr Before Willett St (6660),,44.662395,-63.656837,,,,,,0
+7105,7105,Lake Major Rd Before Old German Rd (7105),,44.714073,-63.467418,,,,,,0
+7196,7196,Windmill Rd Before Wyse Rd (7196),,44.667548,-63.575712,,,,,,0
+9051,9051,Grassy Lake Dr Opposite Transit Centre (9051),,44.630173,-63.669204,,,,,,0
+1073,1073,Ferry Stop - Halifax (1073),,44.649983,-63.571292,,,,,,0
+1074,1074,Ferry Stop - Alderney (1074),,44.663801,-63.569957,,,,,,0
+1075,1075,Ferry Stop - Woodside (1075),,44.64875,-63.549689,,,,,,0
+9102,9102,Lacewood Terminal Bay 2 (9102),,44.661033,-63.662459,,,,10002,,0
+9103,9103,Lacewood Terminal Bay 3 (9103),,44.660935,-63.662778,,,,10002,,0
+9104,9104,Lacewood Terminal Bay 4 (9104),,44.660802,-63.662939,,,,10002,,0
+9105,9105,Lacewood Terminal Bay 5 (9105),,44.660652,-63.663295,,,,10002,,0
+9106,9106,Lacewood Terminal Bay 6 (9106),,44.660576,-63.663455,,,,10002,,0
+9109,9109,Lacewood Terminal Bay 9 (9109),,44.660682,-63.663825,,,,10002,,0
+9110,9110,Lacewood Terminal Bay 10 (9110),,44.660783,-63.663592,,,,10002,,0
+9111,9111,Lacewood Terminal Bay 11 (9111),,44.660959,-63.663262,,,,10002,,0
+9112,9112,Lacewood Terminal Bay 12 (9112),,44.661096,-63.663028,,,,10002,,0
+9113,9113,Lacewood Terminal Bay 13 (9113),,44.661222,-63.662824,,,,10002,,0
+9114,9114,Lacewood Terminal Bay 14 (9114),,44.661319,-63.662596,,,,10002,,0
+9115,9115,Wright Ave After Finlay Dr (9115),,44.709766,-63.566913,,,,,,0
+9116,9116,Finlay Dr After Wright Ave (9116),,44.708731,-63.566242,,,,,,0
+8949,8949,Portland Hills Terminal  Bay 1 (8949),,44.670002,-63.505507,,,,10003,,0
+8951,8951,Portland Hills Terminal  Bay 3 (8951),,44.669859,-63.505441,,,,10003,,0
+8952,8952,Portland Hills Terminal  Bay 4 (8952),,44.669726,-63.505385,,,,10003,,0
+8953,8953,Portland Hills Terminal  Bay 5 (8953),,44.669665,-63.505756,,,,10003,,0
+8954,8954,Portland Hills Terminal  Bay 6 (8954),,44.669795,-63.505814,,,,10003,,0
+8955,8955,Portland Hills Terminal  Bay 7 (8955),,44.669892,-63.50586,,,,10003,,0
+8957,8957,Portland Hills Terminal  Bay 8 (8957),,44.670007,-63.505898,,,,10003,,0
+8962,8962,Woodside Ferry Terminal Bay 1 (8962),,44.649174,-63.548415,,,,10004,,0
+8964,8964,Woodside Ferry Terminal Bay 2 (8964),,44.649101,-63.548343,,,,10004,,0
+8965,8965,Woodside Ferry Terminal Bay 3 (8965),,44.649059,-63.548221,,,,10004,,0
+8966,8966,Woodside Ferry Terminal Bay 4 (8966),,44.649052,-63.54811,,,,10004,,0
+6063,6063,Alderney Gate Ferry Terminal Bay 2 (6063),,44.664476,-63.568661,,,,,,0
+6064,6064,Alderney Gate Ferry Terminal Bay 3 (6064),,44.664814,-63.56932,,,,,,0
+6297,6297,Cobequid Terminal Bay 1 (6297),,44.754302,-63.663286,,,,10005,,0
+6298,6298,Larry Uteck Blvd After Kearney Lake Rd (6298),,44.699548,-63.698404,,,,,,0
+6299,6299,Cobequid Terminal Bay 2 (6299),,44.754071,-63.663091,,,,,,0
+6794,6794,Gregory Dr Before Wildwood Blvd (6794),,44.684856,-63.49784,,,,,,0
+8064,8064,Portland Estates Blvd West Before Civic 64 (8064),,44.663967,-63.51781,,,,,,0
+8140,8140,Highfield Terminal Bay 1 (8140),,44.684441,-63.589164,,,,10006,,0
+8141,8141,Highfield Terminal Bay 2 (8141),,44.684383,-63.589332,,,,10006,,0
+8171,8171,Micmac Terminal Bay 1 (8171),,44.685438,-63.560944,,,,10007,,0
+8172,8172,Micmac Terminal Bay 2 (8172),,44.685584,-63.561186,,,,10007,,0
+8940,8940,Penhorn Terminal Bay 1 (8940),,44.670797,-63.538763,,,,10008,,0
+8941,8941,Penhorn Terminal Bay 2 (8941),,44.670811,-63.538585,,,,10008,,0
+8943,8943,Penhorn Terminal Bay 3 (8943),,44.670822,-63.538426,,,,10008,,0
+8944,8944,Penhorn Terminal Bay 4 (8944),,44.67084,-63.538243,,,,10008,,0
+8945,8945,Penhorn Terminal Bay 5 (8945),,44.670639,-63.538738,,,,10008,,0
+8946,8946,Penhorn Terminal Bay 6 (8946),,44.670646,-63.53861,,,,10008,,0
+8948,8948,Penhorn Terminal Bay 8 (8948),,44.670696,-63.538268,,,,10008,,0
+8958,8958,Sackville Terminal Bay 1 (8958),,44.767969,-63.698686,,,,10009,,0
+8959,8959,Sackville Terminal Bay 3 (8959),,44.767939,-63.698845,,,,10009,,0
+8960,8960,Sackville Terminal Bay 4 (8960),,44.767918,-63.698944,,,,10009,,0
+8961,8961,Sackville Terminal Bay 5 (8961),,44.767899,-63.699062,,,,10009,,0
+8967,8967,Sackville Terminal Bay 2 (8967),,44.76795,-63.698782,,,,10009,,0
+9007,9007,Pleasant St Before Prince Arthur Ave (9007),,44.660202,-63.552112,,,,,,0
+6615,6615,Dutch Village Rd Before Deal St (6615),,44.658635,-63.631877,,,,,,0
+8635,8635,Kempt Rd Before Young St (8635),,44.659711,-63.60438,,,,,,0
+8640,8640,Mumford Terminal Bay 2 (8640),,44.648075,-63.620753,,,,10000,,0
+8641,8641,Mumford Terminal Bay 3 (8641),,44.648264,-63.621084,,,,10000,,0
+8820,8820,Monarch Dr Elementary School (8820),,44.811188,-63.682021,,,,,,0
+7359,7359,Sackville Dr At Civic 1775 (7359),,44.796993,-63.732223,,,,,,0
+8054,8054,Lamont Terrace Before Lemlair Row (8054),,44.698148,-63.567061,,,,,,0
+8191,8191,Robie St After Duffus St (8191),,44.665482,-63.610904,,,,,,0
+8704,8704,Pratt And Whitney Dr At Civic 645 (8704),,44.871719,-63.534202,,,,,,0
+8705,8705,Pratt And Whitney Dr Opposite Civic 645 (8705),,44.87175,-63.534511,,,,,,0
+6789,6789,Caldwell Rd After Kaleigh Dr (6789),,44.614616,-63.476073,,,,,,0
+7375,7375,Hwy 207 Before Shore Rd (7375),,44.720018,-63.266111,,,,,,0
+8687,8687,Hwy 7 After Civic 4225 (8687),,44.740932,-63.329738,,,,,,0
+8688,8688,Hwy 7 After 2nd Parker Lane (8688),,44.73989,-63.3472,,,,,,0
+8814,8814,Brooks Dr Opposite Lake Eagle Dr (8814),,44.724613,-63.430413,,,,,,0
+8817,8817,Hwy 7 After Hummingbird Dr (8817),,44.724459,-63.395791,,,,,,0
+8818,8818,Hwy 7 After Civic 4212 (8818),,44.740833,-63.329153,,,,,,0
+8827,8827,Brooks Dr At Lake Eagle Dr (8827),,44.724714,-63.430387,,,,,,0
+9008,9008,Hwy 207 After Back Rd (9008),,44.673683,-63.256858,,,,,,0
+9009,9009,Cole Harbour Rd Before Perron Dr (9009),,44.67268,-63.480689,,,,,,0
+9010,9010,Cole Harbour Rd Opposite Perron Dr (9010),,44.672556,-63.481577,,,,,,0
+8322,8322,Spring Garden Rd After South Park St (8322),,44.642104,-63.580617,,,,,,0
+8826,8826,Hollis St Before Terminal Rd (8826),,44.640818,-63.569441,,,,,,0
+8866,8866,Lower Water St Before Morris St (8866),,44.641941,-63.568505,,,,,,0
+9043,9043,Parkland Dr After Kearney Lake Rd (9043),,44.683092,-63.676277,,,,,,0
+2000,2000,Wentworth Dr Before Dunbrack St (2000),,44.677624,-63.662887,,,,,,0
+2001,2001,Wentworth Dr After Dunbrack St (2001),,44.677697,-63.662182,,,,,,0
+2002,2002,Wentworth Dr Before Eliza Ritchie Cr (2002),,44.675865,-63.660012,,,,,,0
+2003,2003,Wentworth Dr After Eliza Ritchie Cr (2003),,44.676084,-63.660009,,,,,,0
+2004,2004,Booth St Before Scotsburn Ave (2004),,44.687157,-63.524932,,,,,,0
+2005,2005,Knightsridge Dr After Flamingo Dr (2005),,44.672887,-63.660399,,,,,,0
+2006,2006,Knightsridge Dr Before Flamingo Dr (2006),,44.672543,-63.660343,,,,,,0
+2007,2007,Ruth Goldbloom Dr Before Dunbrack St (2007),,44.673341,-63.662317,,,,,,0
+2008,2008,Ruth Goldbloom Dr After Dunbrack St (2008),,44.673223,-63.662849,,,,,,0
+2009,2009,Main Ave Before Dunbrack St (2009),,44.653177,-63.648891,,,,,,0
+2010,2010,Charles Rd At Civic 119 (2010),,44.659305,-63.751969,,,,,,0
+2011,2011,Charles Rd At Civic 193 (2011),,44.657254,-63.749958,,,,,,0
+2012,2012,Charles Rd Before Dixon Ct (2012),,44.655601,-63.747712,,,,,,0
+2013,2013,Charles Rd At Charles Rd Park (2013),,44.656054,-63.746112,,,,,,0
+2014,2014,Knightsridge Dr Before Dunbrack St (2014),,44.670646,-63.661637,,,,,,0
+2015,2015,Windsor St After Young St (2015),,44.657157,-63.60774,,,,,,0
+2016,2016,Windsor St Before Bayers Rd (2016),,44.657226,-63.607932,,,,,,0
+2017,2017,Wright Ave Before MacDonald Ave (2017),,44.702064,-63.600373,,,,,,0
+2018,2018,Roslyn Rd Before Connolly St (2018),,44.654236,-63.613022,,,,,,0
+2019,2019,Hammonds Plains Rd After Lewis Dr (2019),,44.72665,-63.712379,,,,,,0
+2020,2020,Hammonds Plains Rd Opposite Lewis Dr (2020),,44.726668,-63.712765,,,,,,0
+6638,6638,Dutch Village Rd Before Sunnybrae Ave (6638),,44.654417,-63.632055,,,,,,0
+6719,6719,Washmill Lake Dr After Bently Dr (6719),,44.649763,-63.656135,,,,,,0
+7489,7489,Washmill Lake Dr Before Chain Lake Dr (7489),,44.648412,-63.671799,,,,,,0
+2021,2021,Barrington St Before North St (2021),,44.65819,-63.586855,,,,,,0
+2022,2022,Main St Before Gordon Ave (2022),,44.681406,-63.543304,,,,,,0
+2023,2023,Broad St After Gary Martin Dr (2023),,44.716113,-63.705679,,,,,,0
+2024,2024,Broad St After Samaa Ct (2024),,44.714103,-63.702321,,,,,,0
+2025,2025,Broad St Before Rose Fortune Gate (2025),,44.710788,-63.701263,,,,,,0
+2026,2026,Broad St Before Serontina Lane (2026),,44.709538,-63.704256,,,,,,0
+2027,2027,Broad St Before Larry Uteck Blvd (2027),,44.708568,-63.708045,,,,,,0
+2028,2028,Broad St After Larry Uteck Blvd (2028),,44.708544,-63.707827,,,,,,0
+2029,2029,Broad St After Bramwell Ct (2029),,44.709648,-63.703142,,,,,,0
+2030,2030,Broad St After Tilbury Ave (2030),,44.712005,-63.701301,,,,,,0
+2031,2031,Broad St Before Samaa Ct (2031),,44.714073,-63.702239,,,,,,0
+2032,2032,Broad St Before Gary Martin Dr (2032),,44.716005,-63.705021,,,,,,0
+2035,2035,St Margarets Bay Rd After Crescent Ave (2035),,44.637611,-63.629764,,,,,,0
+10000,,Mumford Terminal,,44.648293,-63.621181,,,1,,,0
+10001,,Bridge Terminal,,44.670435,-63.574645,,,1,,,0
+10002,,Lacewood Terminal,,44.660789,-63.663207,,,1,,,0
+10003,,Portland Hills Terminal,,44.669712,-63.505501,,,1,,,0
+10004,,Woodside Ferry Terminal,,44.649052,-63.548111,,,1,,,0
+10005,,Cobequid Terminal,,44.754245,-63.663077,,,1,,,0
+10006,,Highfield Terminal,,44.684418,-63.589169,,,1,,,0
+10007,,Micmac Terminal,,44.685545,-63.561048,,,1,,,0
+10008,,Penhorn Terminal,,44.670761,-63.538494,,,1,,,0
+10009,,Sackville Terminal,,44.768002,-63.698810,,,1,,,0
+10010,,Water St Terminal,,44.649364,-63.572665,,,1,,,0														 
