@@ -11,5 +11,5 @@ usage: `python3 transit_board -t <transit system> -s <stop_id>`
 
 # TODO
 * Make auto updating happen
-* Add better menus with more ways to see the data (where is my vechicle currently)
+* Add better menus with more ways to see the data (where is my vehicle currently)
 * Support for static transit feeds in the live view
