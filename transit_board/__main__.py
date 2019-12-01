@@ -4,6 +4,7 @@ import datetime
 from dateutil import tz
 
 from gtfs import GTFS
+from updater import get_known_feeds, get_latest_feed, get_downloaded_feeds
 
 # Hide Exit Exception
 signal.signal(signal.SIGINT, lambda x, y: sys.exit(0))
@@ -110,6 +111,10 @@ class TransitRow():
 
 
 sysargs = sys.argv
+if '-u' in sysargs:
+    for feed in get_known_feeds():
+        get_latest_feed(feed)
+
 if '-t' in sysargs:
     transit_system = sysargs[sysargs.index('-t') + 1]
     if '-s' in sysargs:
@@ -120,7 +125,11 @@ else:
     transit_system = 'hfx'
     stop_id = '8695'
 
-if transit_system == 'hfx':
+available_feeds = get_downloaded_feeds()
+
+if transit_system in available_feeds:
+    gtfs_dir = available_feeds[transit_system]
+elif transit_system == 'hfx':
     gtfs_dir = "./route_files/CA_NS_HALIFAX/"
 elif transit_system == 'bart':
     gtfs_dir = "./route_files/US_CA_SF/"

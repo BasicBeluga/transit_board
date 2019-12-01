@@ -1,0 +1,4 @@
+{
+  "static": "http://gtfs.halifax.ca/static/google_transit.zip",
+  "dynamic": "http://gtfs.halifax.ca/TMGTFSRealTimeWebService/realtime/TripUpdate/TripUpdates.pb"
+}
