@@ -35,4 +35,5 @@ def get_downloaded_feeds():
 
     return feeds
 
-print(get_downloaded_feeds())
+def make_required_directories():
+    pass
