@@ -24,7 +24,6 @@ def get_latest_feed(filename):
     r = requests.get(static)
     z = zipfile.ZipFile(io.BytesIO(r.content))
     z.extractall('./static_route_data/' + name + '/')
-t
     with open('./static_route_data/' + name + '/real_time_link.txt', 'w') as f:
         f.write(dynamic)
 
