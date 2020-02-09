@@ -4,6 +4,7 @@ import os
 import io
 import json
 
+PATH = './static_route_data/'
 
 def get_known_feeds():
     feeds = []
@@ -23,17 +24,20 @@ def get_latest_feed(filename):
     r = requests.get(static)
     z = zipfile.ZipFile(io.BytesIO(r.content))
     z.extractall('./static_route_data/' + name + '/')
-
+t
     with open('./static_route_data/' + name + '/real_time_link.txt', 'w') as f:
         f.write(dynamic)
 
 def get_downloaded_feeds():
     feeds = {}
-    PATH = './static_route_data/'
+
+    if not os.path.exists(PATH):
+        os.mkdir(PATH)
+
     for file in os.listdir(PATH):
         feeds[file] = PATH + file + "/"
 
     return feeds
 
 def make_required_directories():
-    pass
+    os.mkdir(PATH)
