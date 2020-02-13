@@ -19,3 +19,4 @@ You can find the json route resource definitions in the `route_links` directory
 * ~~Make auto updating happen~~ done december 1st 2019
 * Add better menus with more ways to see the data (where is my vehicle currently)
 * Support for static transit feeds in the live view
+* Check out issues for more stuff I need to do
