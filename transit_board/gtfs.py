@@ -75,7 +75,13 @@ class GTFSRealtime():
     def get_stop_data(self, stop_id):
         stop_data = []
         feed = gtfs_realtime_pb2.FeedMessage()
-        response = requests.get(self.url)
+
+        try:
+            response = requests.get(self.url)
+        except requests.exceptions.ConnectionError:
+            print(f"Transit feed could not be reached! (Network Error) {self.url}")
+            exit(1)
+
         feed.ParseFromString(response.content)
         for entity in feed.entity:
             if entity.HasField('trip_update'):

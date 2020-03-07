@@ -1,0 +1,4 @@
+{
+  "static": "https://www.bart.gov/dev/schedules/google_transit.zip",
+  "dynamic": "http://api.bart.gov/gtfsrt/tripupdate.aspx"
+}

@@ -3,3 +3,5 @@ gtfs-realtime-bindings
 urwid
 
 requests
+click
+haversine

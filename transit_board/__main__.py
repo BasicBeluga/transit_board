@@ -4,7 +4,7 @@ import datetime
 from dateutil import tz
 
 from gtfs import GTFS
-from updater import get_known_feeds, get_latest_feed, get_downloaded_feeds
+from updater import get_known_feeds, get_latest_feed, get_downloaded_feeds, pull_gtfs_rt_feeds, get_closest_feeds
 
 # Hide Exit Exception
 signal.signal(signal.SIGINT, lambda x, y: sys.exit(0))
@@ -111,6 +111,13 @@ class TransitRow():
 
 
 sysargs = sys.argv
+
+
+pull_gtfs_rt_feeds()
+
+get_closest_feeds(5)
+
+quit()
 if '-u' in sysargs:
     for feed in get_known_feeds():
         get_latest_feed(feed)
