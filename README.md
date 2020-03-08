@@ -5,11 +5,16 @@ _arrivals-style board for your terminal_
 
 `python3 transit_board` for tui
 
-or
+_or_
 
 `python3 transit_board -t <transit system> -s <stop_id>` to directly to the board
 
-On first time setup, or when route data gets stale, you can update the data by entering the gui and going to `Select Downloaded Feed` and then selecting `UPDATE FROM ROUTE LINKS`
+On first time setup, or when route data gets stale, 
+you can update the data by entering the gui and going to 
+`Select Downloaded Feed` and then selecting `UPDATE FROM ROUTE LINKS`
+
+_or_
+
 add the argument `-u` to download & update static route files.
 
 You can find the json route resource definitions in the `route_links` directory
