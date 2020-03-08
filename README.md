@@ -1,16 +1,21 @@
 # transit-board
 _arrivals-style board for your terminal_
 
-usage: 
-`python3 transit_board -t <transit system> -s <stop_id>`
+### Usage: 
 
-On first time setup, or when route data gets stale, 
+`python3 transit_board` for gui
+
+or
+
+`python3 transit_board -t <transit system> -s <stop_id>` to directly to the board
+
+On first time setup, or when route data gets stale, you can update the data by entering the gui and going to `Select Downloaded Feed` and then selecting `UPDATE FROM ROUTE LINKS`
 add the argument `-u` to download & update static route files.
 
 You can find the json route resource definitions in the `route_links` directory
 
 #### Transit Systems
-* `bart` - San Francisco Bart (Hardcoded, no updates)
+* `bart_sf_ca` - San Francisco Bart (Hardcoded, no updates)
 * `halifax_ns` - Halifax Transit (Uses new update system)
 
 ![](https://raw.githubusercontent.com/BasicBeluga/transit-board/master/example.jpg?token=AAHQJNEU3CTTV6LU5ALQAC25Q2NJO)
