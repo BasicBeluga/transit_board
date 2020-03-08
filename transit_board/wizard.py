@@ -57,16 +57,10 @@ class Wizard():
         else:
             exit()
         
-        gtfs = GTFS(gtfs_dir)
+        self.gtfs = GTFS(gtfs_dir)
 
         if not self.click_args.get('stop_id', None):
-            stop_id_msg = "Select a Stop"
-
-            stop_id_choices = dict([(stop['stop_name'], stop['stop_id']) for stop in gtfs.stops.rows])
-            stop_id_bigchoice = BigChoice(stop_id_msg, stop_id_choices)
-            loop = urwid.MainLoop(stop_id_bigchoice.create_element(), palette=[('reversed', 'standout', '')])
-            loop.run()
-            self.click_args['stop_id'] = stop_id_bigchoice.choice
+            self.click_args['stop_id'] = self.select_stop()
 
         # choice2 = BigChoice(location_provider_prompt, choices)
         # loop = urwid.MainLoop(choice2.create_element(), palette=[('reversed', 'standout', '')])
@@ -123,6 +117,14 @@ class Wizard():
 
         # feef_select_choice.choice = self.click_args.set('transit_system', '')
 
+    def select_stop(self):
+        stop_id_msg = "Select a Stop"
+
+        stop_id_choices = dict([(stop['stop_name'], stop['stop_id']) for stop in self.gtfs.stops.rows])
+        stop_id_bigchoice = BigChoice(stop_id_msg, stop_id_choices)
+        loop = urwid.MainLoop(stop_id_bigchoice.create_element(), palette=[('reversed', 'standout', '')])
+        loop.run()
+        return stop_id_bigchoice.choice
 
 class BigChoice:
     def __init__(self, title, choices):
