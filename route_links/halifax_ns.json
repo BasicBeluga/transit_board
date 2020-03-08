@@ -1,5 +1,5 @@
 {
-  "static": "http://gtfs.halifax.ca/static/google_transit.zip",
-  "dynamic": "http://gtfs.halifax.ca/TMGTFSRealTimeWebService/realtime/TripUpdate/TripUpdates.pb",
+  "gtfs": "http://gtfs.halifax.ca/static/google_transit.zip",
+  "trip_updates": "http://gtfs.halifax.ca/TMGTFSRealTimeWebService/realtime/TripUpdate/TripUpdates.pb",
   "name": "Metro Transit, Halifax, Nova Scotia, Canada"
 }

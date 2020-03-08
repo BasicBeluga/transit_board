@@ -102,9 +102,9 @@ class GTFS():
     def __init__(self, directory):
         self.directory = directory
         self.agency = GTFSAgency(directory)
-        self.calendar = GTFSCalendar(directory)
-        self.calendar_dates = GTFSCalendarDates(directory)
-        self.feed_info = GTFSFeedInfo(directory)
+        # self.calendar = GTFSCalendar(directory)
+        # self.calendar_dates = GTFSCalendarDates(directory)
+        # self.feed_info = GTFSFeedInfo(directory)
         self.routes = GTFSRoutes(directory)
         self.shapes = GTFSShapes(directory)
         self.stop_times = GTFSStopTimes(directory)

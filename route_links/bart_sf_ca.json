@@ -1,5 +1,5 @@
 {
-  "static": "https://www.bart.gov/dev/schedules/google_transit.zip",
-  "dynamic": "http://api.bart.gov/gtfsrt/tripupdate.aspx",
+  "gtfs": "https://www.bart.gov/dev/schedules/google_transit.zip",
+  "trip_updates": "http://api.bart.gov/gtfsrt/tripupdate.aspx",
   "name": "Bay Area Rapid Transit (BART), California, USA"
 }
