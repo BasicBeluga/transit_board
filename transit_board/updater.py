@@ -3,18 +3,30 @@ import requests
 import os
 import io
 import json
-from location import get_location
+# from location import get_location
 from haversine import haversine
 
 PATH = './static_route_data/'
+ROUTE_LINKS_PATH = './route_links/'
+
+KEY = '8f5eb6b0-f46d-4f75-af73-66ebac29499a'
 
 def get_known_feeds():
     feeds = []
-    PATH = './route_links/'
-    for file in os.listdir(PATH):
-        feeds.append(PATH + file)
+    for file in os.listdir(ROUTE_LINKS_PATH):
+        feeds.append(ROUTE_LINKS_PATH + file)
     return feeds
 
+def create_new_route_link(name, gtfs, vehicle_positions=None, alerts=None, trip_updates=None):
+    new_name = '_' + '_'.join(word.strip() for word in reversed(name.split(',')))
+    with open(ROUTE_LINKS_PATH + new_name + '.json', 'w') as new_link:
+        route_object = {
+            'gtfs': gtfs,
+            'vehicle_positions': vehicle_positions,
+            'alerts': alerts,
+            'trip_updates': trip_updates
+        }
+        new_link.write(json.dumps(route_object))
 
 def get_latest_feed(filename):
     with open(filename, 'r') as f:
@@ -52,7 +64,7 @@ def pull_gtfs_rt_feeds():
         r = requests.get(
             "https://api.transitfeeds.com/v1/getFeeds",
             params={
-                'key': '8f5eb6b0-f46d-4f75-af73-66ebac29499a',
+                'key': KEY,
                 'limit': 100,
                 # 'type': 'gtfsrealtime',
                 'page': page_no
@@ -62,6 +74,42 @@ def pull_gtfs_rt_feeds():
         pages = r_json['results']['numPages']
         feed_data += r_json['results']['feeds']
         page_no+=1
+
+    return feed_data
+
+def pull_locations():
+    locations = requests.get(
+        "https://api.transitfeeds.com/v1/getLocations",
+        params={
+            'key': KEY,
+        }
+    ).json()['results']['locations']
+
+    return {location['t']: location for location in locations}
+
+def pull_location_detail(location_id):
+    page_no = 1
+    pages = 10000
+    feed_data = []
+    while page_no <= pages:
+        r = requests.get(
+            "https://api.transitfeeds.com/v1/getFeeds",
+            params={
+                'key': KEY,
+                'limit': 100,
+                # 'type': 'gtfsrealtime',
+                'page': page_no,
+                'location': location_id
+            }
+        )
+        r_json = r.json()
+        pages = r_json['results']['numPages']
+        feed_data += r_json['results']['feeds']
+        page_no += 1
+
+    # print(feed_data)
+    for feed in feed_data:
+        print(feed['t'], feed['u']['d'])
 
     return feed_data
 

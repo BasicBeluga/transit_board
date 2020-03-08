@@ -27,7 +27,7 @@ class Wizard():
                 'Select Downloaded Feed' : "existing",
                 # 'Search by Name': "name",
                 # 'Search by Location': "location",
-                # 'Browse full list': "opendata-list"
+                'Browse full list': "opendata-list",
             }
 
             Settings()
@@ -50,7 +50,7 @@ class Wizard():
 
             self.click_args = {**self.click_args, 'transit_system': transit_system}
         elif search_option == "opendata-list":
-            pass
+            gtfs_dir = self.select_from_opendata_list()
 
         if self.click_args['transit_system'] in self.available_feeds:
             gtfs_dir = self.available_feeds[self.click_args['transit_system']]
@@ -125,6 +125,36 @@ class Wizard():
         loop = urwid.MainLoop(stop_id_bigchoice.create_element(), palette=[('reversed', 'standout', '')])
         loop.run()
         return stop_id_bigchoice.choice
+
+    def select_from_opendata_list(self):
+        stop_id_msg = "Choose a Location"
+
+        from updater import pull_locations, pull_location_detail, create_new_route_link
+
+        stop_id_choices = pull_locations()
+        stop_id_bigchoice = BigChoice(stop_id_msg, stop_id_choices)
+        loop = urwid.MainLoop(stop_id_bigchoice.create_element(),
+                              palette=[('reversed', 'standout', '')])
+        loop.run()
+        location = stop_id_bigchoice.choice
+        location_detail = pull_location_detail(location['id'])
+
+        g, a, p, t = [None for _ in range(0,4)]
+
+        print(location_detail)
+
+        for entry in location_detail:
+            if 'gtfs' in entry['t'].lower():
+                g = entry['u']['d']
+            if 'alert' in entry['t'].lower():
+                a = entry['u']['d']
+            if 'trip' in entry['t'].lower():
+                t = entry['u']['d']
+            if 'position' in entry['t'].lower():
+                p = entry['u']['d']
+
+        create_new_route_link(location['t'], g, p, a, t)
+        return location
 
 class BigChoice:
     def __init__(self, title, choices):
