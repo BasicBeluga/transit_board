@@ -3,7 +3,7 @@ _arrivals-style board for your terminal_
 
 ### Usage: 
 
-`python3 transit_board` for gui
+`python3 transit_board` for tui
 
 or
 
