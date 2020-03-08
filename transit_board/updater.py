@@ -68,8 +68,8 @@ def pull_gtfs_rt_feeds():
     return feed_data
 
 def get_closest_feeds(number_of_feeds=1, max_distance=300):
-    feed_data = pull_gtfs_rt_feeds()
     pt, fuzz = get_location().h_rep()
+    feed_data = pull_gtfs_rt_feeds()
 
     distances = []
 
