@@ -26,7 +26,8 @@ class Wizard():
             stop_finder_choices = {
                 'Select Downloaded Feed' : "existing",
                 # 'Search by Name': "name",
-                # 'Search by Location': "location"
+                # 'Search by Location': "location",
+                # 'Browse full list': "opendata-list"
             }
 
             Settings()
@@ -48,6 +49,8 @@ class Wizard():
                 transit_system = self.select_downloaded_feed()
 
             self.click_args = {**self.click_args, 'transit_system': transit_system}
+        elif search_option == "opendata-list":
+            pass
 
         if self.click_args['transit_system'] in self.available_feeds:
             gtfs_dir = self.available_feeds[self.click_args['transit_system']]
