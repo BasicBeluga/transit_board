@@ -38,8 +38,6 @@ def get_downloaded_feeds():
     for file in os.listdir(PATH):
         feeds[file] = PATH + file + "/"
 
-    print(feeds)
-
     return feeds
 
 def make_required_directories():

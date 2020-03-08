@@ -49,18 +49,17 @@ class Wizard():
 
             self.click_args = {**self.click_args, 'transit_system': transit_system}
 
-            if self.click_args['transit_system'] in self.available_feeds:
-                gtfs_dir = self.available_feeds[self.click_args['transit_system']]
-            else:
-                print("Bad Stop ID" + click_args['transit_system'])
-                exit()
-            
+        if self.click_args['transit_system'] in self.available_feeds:
+            gtfs_dir = self.available_feeds[self.click_args['transit_system']]
+        else:
+            exit()
+        
         gtfs = GTFS(gtfs_dir)
 
         if not self.click_args.get('stop_id', None):
             stop_id_msg = "Select a Stop"
 
-            stop_id_choices = dict([(stop['stop_name'], stop['stop_code']) for stop in gtfs.stops.rows])
+            stop_id_choices = dict([(stop['stop_name'], stop['stop_id']) for stop in gtfs.stops.rows])
             stop_id_bigchoice = BigChoice(stop_id_msg, stop_id_choices)
             loop = urwid.MainLoop(stop_id_bigchoice.create_element(), palette=[('reversed', 'standout', '')])
             loop.run()
@@ -73,7 +72,6 @@ class Wizard():
         # print(choice1.choice)
         # print(choice2.choice)
         # loop.stop()
-        print("Tada!")
         return self.click_args
 
     def menu(self, title, choices):
