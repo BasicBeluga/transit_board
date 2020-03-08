@@ -1,3 +1,7 @@
+*.pyc
+*.pyo
+static_route_data
+om_token.txt
 export_google_key.sh
 *.pyc
 static_route_data/
